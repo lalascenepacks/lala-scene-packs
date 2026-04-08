@@ -6,6 +6,7 @@ import { downloadLinks } from "./lib/downloadLinks";
 import { catalog } from "./lib/catalog";
 
 type HomeItem = {
+  title?: string;
   name: string;
   href: string;
   cover: string;
@@ -355,9 +356,17 @@ const normalizedDownloadLinks = Object.fromEntries(
 );
 
 export default function HomePage() {
-  const animeItems = catalog.filter((item) => item.type === "anime");
-  const seriesItems = catalog.filter((item) => item.type === "series");
-  const movieItems = catalog.filter((item) => item.type === "movie");
+  const animeItems = catalog.filter(
+  (item) => item.type === "anime"
+) as HomeItem[];
+
+const seriesItems = catalog.filter(
+  (item) => item.type === "series"
+) as HomeItem[];
+
+const movieItems = catalog.filter(
+  (item) => item.type === "movie"
+) as HomeItem[];
 
   const allItems = [...animeItems, ...seriesItems, ...movieItems];
 
