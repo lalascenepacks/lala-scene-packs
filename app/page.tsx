@@ -3,6 +3,7 @@ import path from "path";
 import HomeFilter from "./components/HomeFilter";
 import HomeCard from "./components/HomeCard"
 import { downloadLinks } from "./lib/downloadLinks";
+import { catalog } from "./lib/catalog";
 
 type HomeItem = {
   name: string;
@@ -354,21 +355,9 @@ const normalizedDownloadLinks = Object.fromEntries(
 );
 
 export default function HomePage() {
-  const animes = getFolders(
-    path.join(process.cwd(), "public", "downloads", "animes")
-  );
-
-  const series = getFolders(
-    path.join(process.cwd(), "public", "downloads", "series")
-  );
-
-  const movies = getFolders(
-    path.join(process.cwd(), "public", "downloads", "movies")
-  );
-
-  const animeItems = buildItems("anime", "animes", "animes", animes);
-  const seriesItems = buildItems("series", "series", "series", series);
-  const movieItems = buildItems("movie", "movies", "movies", movies);
+  const animeItems = catalog.filter((item) => item.type === "anime");
+  const seriesItems = catalog.filter((item) => item.type === "series");
+  const movieItems = catalog.filter((item) => item.type === "movie");
 
   const allItems = [...animeItems, ...seriesItems, ...movieItems];
 
