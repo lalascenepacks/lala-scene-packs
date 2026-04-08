@@ -1,7 +1,6 @@
-import fs from "fs";
-import path from "path";
 import Link from "next/link";
 import HomeCard from "@/app/components/HomeCard";
+import { catalog } from "@/app/lib/catalog";
 
 type HomeItem = {
   name: string;
@@ -23,185 +22,6 @@ type HomeItem = {
     isTodasAsCenas: boolean;
   };
 };
-
-function getFolders(folderPath: string) {
-  if (!fs.existsSync(folderPath)) return [];
-
-  return fs
-    .readdirSync(folderPath, { withFileTypes: true })
-    .filter((item) => item.isDirectory())
-    .map((item) => item.name);
-}
-
-function getLatestUpdatedAt(folderPath: string) {
-  if (!fs.existsSync(folderPath)) return 0;
-
-  let latest = 0;
-
-  function walk(currentPath: string) {
-    const items = fs.readdirSync(currentPath, { withFileTypes: true });
-
-    for (const item of items) {
-      const fullPath = path.join(currentPath, item.name);
-
-      if (item.isDirectory()) {
-        walk(fullPath);
-      } else if (item.isFile()) {
-        const stat = fs.statSync(fullPath);
-        if (stat.mtimeMs > latest) latest = stat.mtimeMs;
-      }
-    }
-  }
-
-  walk(folderPath);
-  return latest;
-}
-
-function getFlags(folderPath: string) {
-  const flags = {
-    is4k: false,
-    is1080p: false,
-    isBR: false,
-    isJP: false,
-    isUS: false,
-    isBestScenes: false,
-    isMelhoresCenas: false,
-    isAllScenes: false,
-    isTodasAsCenas: false,
-  };
-
-  if (!fs.existsSync(folderPath)) return flags;
-
-  function walk(currentPath: string) {
-    const items = fs.readdirSync(currentPath, { withFileTypes: true });
-
-    for (const item of items) {
-      const fullPath = path.join(currentPath, item.name);
-      const value = item.name.toLowerCase();
-
-      if (
-        value.includes("4k") ||
-        value.includes("2160p") ||
-        value.includes("uhd")
-      ) {
-        flags.is4k = true;
-      }
-
-      if (value.includes("1080p") || value.includes("full hd")) {
-        flags.is1080p = true;
-      }
-
-      if (
-        value === "br" ||
-        value.includes("-br") ||
-        value.includes("_br") ||
-        value.includes("pt-br") ||
-        value.includes("brazil")
-      ) {
-        flags.isBR = true;
-      }
-
-      if (
-        value === "jp" ||
-        value.includes("-jp") ||
-        value.includes("_jp") ||
-        value.includes("japan") ||
-        value.includes("japanese")
-      ) {
-        flags.isJP = true;
-      }
-
-      if (
-        value === "us" ||
-        value.includes("-us") ||
-        value.includes("_us") ||
-        value.includes("english") ||
-        value.includes("en-us")
-      ) {
-        flags.isUS = true;
-      }
-
-      if (value.includes("best-scenes")) flags.isBestScenes = true;
-      if (value.includes("melhores-cenas")) flags.isMelhoresCenas = true;
-      if (value.includes("all-scenes")) flags.isAllScenes = true;
-      if (value.includes("todas-as-cenas")) flags.isTodasAsCenas = true;
-
-      if (item.isDirectory()) {
-        walk(fullPath);
-      }
-    }
-  }
-
-  walk(folderPath);
-  return flags;
-}
-
-function countMp4Files(folderPath: string) {
-  if (!fs.existsSync(folderPath)) return 0;
-
-  let total = 0;
-
-  function walk(currentPath: string) {
-    const items = fs.readdirSync(currentPath, { withFileTypes: true });
-
-    for (const item of items) {
-      const fullPath = path.join(currentPath, item.name);
-
-      if (item.isDirectory()) {
-        walk(fullPath);
-      } else if (item.isFile() && item.name.toLowerCase().endsWith(".mp4")) {
-        total++;
-      }
-    }
-  }
-
-  walk(folderPath);
-  return total;
-}
-
-function countNestedScenePacks(folderPath: string) {
-  if (!fs.existsSync(folderPath)) return 0;
-
-  let total = 0;
-
-  const characters = fs
-    .readdirSync(folderPath, { withFileTypes: true })
-    .filter((item) => item.isDirectory())
-    .map((item) => item.name);
-
-  for (const character of characters) {
-    const characterPath = path.join(folderPath, character);
-    if (!fs.existsSync(characterPath)) continue;
-
-    const languages = fs
-      .readdirSync(characterPath, { withFileTypes: true })
-      .filter((item) => item.isDirectory())
-      .map((item) => item.name);
-
-    for (const language of languages) {
-      const languagePath = path.join(characterPath, language);
-      if (!fs.existsSync(languagePath)) continue;
-
-      const seasons = fs
-        .readdirSync(languagePath, { withFileTypes: true })
-        .filter((item) => item.isDirectory())
-        .map((item) => item.name);
-
-      for (const season of seasons) {
-        const seasonPath = path.join(languagePath, season);
-        if (!fs.existsSync(seasonPath)) continue;
-
-        const packs = fs
-          .readdirSync(seasonPath, { withFileTypes: true })
-          .filter((item) => item.isDirectory());
-
-        total += packs.length;
-      }
-    }
-  }
-
-  return total;
-}
 
 function sortButton(active: boolean, label: string, href: string) {
   return (
@@ -236,23 +56,12 @@ export default async function SeriesPage({
   const params = await searchParams;
   const sort = params.sort === "packs" || params.sort === "az" ? params.sort : "recent";
 
-  const basePath = path.join(process.cwd(), "public", "downloads", "series");
-  const series = getFolders(basePath);
-
-  const items: HomeItem[] = series.map((serie) => {
-    const seriePath = path.join(basePath, serie);
-
-    return {
-      name: serie,
-      href: `/series/${serie}`,
-      cover: `/covers/series/${serie}.jpeg`,
-      mp4Count: countMp4Files(seriePath),
-      scenePacksCount: countNestedScenePacks(seriePath),
-      latestUpdatedAt: getLatestUpdatedAt(seriePath),
-      flags: getFlags(seriePath),
+  const items: HomeItem[] = catalog
+    .filter((item) => item.type === "series")
+    .map((item) => ({
+      ...item,
       type: "series",
-    };
-  });
+    }));
 
   if (sort === "recent") {
     items.sort((a, b) => b.latestUpdatedAt - a.latestUpdatedAt);

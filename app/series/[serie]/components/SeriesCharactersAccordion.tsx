@@ -178,7 +178,7 @@ export default function SeriesCharactersAccordion({
                     </div>
 
                     <div style={{ textAlign: "center" }}>
-                      {item.season.replaceAll("-", " ")}
+                      {item.season.replaceAll("-", " ").replace(/^season/i, "Season")}
                     </div>
 
                     <div style={{ textAlign: "center" }}>

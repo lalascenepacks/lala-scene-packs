@@ -3,6 +3,7 @@ import path from "path";
 import Link from "next/link";
 import AnimeFilterClient from "@/app/animes/[anime]/components/AnimeFilterClient";
 import { downloadLinks } from "@/app/lib/downloadLinks";
+import { packsCatalog } from "@/app/lib/packsCatalog";
 
 function normalizeSlug(value: string) {
   return value
@@ -51,110 +52,27 @@ function normalizeLang(value: string) {
 }
 
 function getAllPacks(anime: string): PackItem[] {
-  const animePath = path.join(
-    process.cwd(),
-    "public",
-    "downloads",
-    "animes",
-    anime
-  );
-
-  const items: PackItem[] = [];
-
-  if (!fs.existsSync(animePath)) return items;
-
-  const characters = fs
-    .readdirSync(animePath, { withFileTypes: true })
-    .filter((entry) => entry.isDirectory())
-    .map((entry) => entry.name);
-
-  for (const character of characters) {
-    const characterPath = path.join(animePath, character);
-    if (!fs.existsSync(characterPath)) continue;
-
-    const languages = fs
-      .readdirSync(characterPath, { withFileTypes: true })
-      .filter((entry) => entry.isDirectory())
-      .map((entry) => entry.name);
-
-    for (const language of languages) {
-      const languagePath = path.join(characterPath, language);
-      if (!fs.existsSync(languagePath)) continue;
-
-      const seasons = fs
-        .readdirSync(languagePath, { withFileTypes: true })
-        .filter((entry) => entry.isDirectory())
-        .map((entry) => entry.name);
-
-      for (const season of seasons) {
-        const seasonPath = path.join(languagePath, season);
-        if (!fs.existsSync(seasonPath)) continue;
-
-        const packs = fs
-          .readdirSync(seasonPath, { withFileTypes: true })
-          .filter((entry) => entry.isDirectory())
-          .map((entry) => entry.name);
-
-        for (const pack of packs) {
-          const slug = `${character}-${language}-${season}-${pack}`;
-          const packPath = path.join(seasonPath, pack);
-
-          if (!fs.existsSync(packPath)) continue;
-
-          const stat = fs.statSync(packPath);
-          const normalizedSlug = normalizeSlug(slug);
-
-          if (normalizedDownloadLinks[normalizedSlug]) {
-            items.push({
-              title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-              character,
-              language,
-              season,
-              pack,
-              file: pack,
-              href: `/downloads/animes/${anime}/${character}/${language}/${season}/${pack}`,
-              updatedAt: stat.mtimeMs,
-              updatedAtText: formatDate(stat.mtimeMs),
-              isMonetized: true,
-            });
-          } else {
-            const files = fs
-              .readdirSync(packPath, { withFileTypes: true })
-              .filter((entry) => entry.isFile())
-              .map((entry) => entry.name)
-              .filter((fileName) => {
-                const lower = fileName.toLowerCase();
-                return lower.endsWith(".mp4") || lower.endsWith(".zip");
-              });
-
-            for (const file of files) {
-              const filePath = path.join(packPath, file);
-              const fileStat = fs.statSync(filePath);
-
-              items.push({
-                title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                character,
-                language,
-                season,
-                pack,
-                file,
-                href: `/downloads/animes/${anime}/${character}/${language}/${season}/${pack}/${file}`,
-                updatedAt: fileStat.mtimeMs,
-                updatedAtText: formatDate(fileStat.mtimeMs),
-                isMonetized: false,
-              });
-            }
-          }
-        }
-      }
-    }
-  }
-
-  return items.sort((a, b) => {
-    const characterCompare = a.character.localeCompare(b.character);
-    if (characterCompare !== 0) return characterCompare;
-    return b.updatedAt - a.updatedAt;
-  });
+  return packsCatalog
+    .filter(
+      (item) => item.mediaType === "anime" && item.mediaSlug === anime
+    )
+    .map((item) => ({
+      title: item.title,
+      character: item.character,
+      language: item.language,
+      season: item.season,
+      pack: item.pack,
+      file: item.file,
+      href: item.href,
+      updatedAt: item.updatedAt,
+      updatedAtText: item.updatedAtText,
+      isMonetized: item.isMonetized,
+    }))
+    .sort((a, b) => {
+      const characterCompare = a.character.localeCompare(b.character);
+      if (characterCompare !== 0) return characterCompare;
+      return b.updatedAt - a.updatedAt;
+    });
 }
 
 export default async function AnimePage({

@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import { catalog } from "./catalog";
 
 export type SearchItem = {
   type: "anime" | "series" | "movie" | "character";
@@ -79,14 +78,14 @@ function getAliases(slug: string, type: "anime" | "series" | "movie") {
       "jenna ortega",
     ],
 
-    "movie:the-fallout":[
+    "movie:the-fallout": [
       "fallout",
       "a vida depois",
       "jenna ortega",
     ],
 
     "movie:winter-spring-summer-or-fall": [
-      "As Quatro Estacoes do Amor",
+      "as quatro estacoes do amor",
       "wssof",
       "jenna ortega",
     ],
@@ -106,16 +105,22 @@ function getAliases(slug: string, type: "anime" | "series" | "movie") {
       "culpa nossa",
       "nossa culpa",
       "culpa nuestra",
-      "our falt",
+      "our fault",
     ],
 
     "movie:culpa-tuya": [
       "culpa sua",
       "sua culpa",
       "culpa tuya",
-      "your falt",
+      "your fault",
     ],
 
+    "movie:miller's-girl": [
+      "miller girl",
+      "millers girl",
+      "a garota de miller",
+      "garota de miller",
+    ],
   };
 
   return aliasesMap[key] || [];
@@ -125,134 +130,43 @@ function formatLabel(value: string) {
   return value.replaceAll("-", " ");
 }
 
-function getFolders(folderPath: string) {
-  if (!fs.existsSync(folderPath)) return [];
-
-  return fs
-    .readdirSync(folderPath, { withFileTypes: true })
-    .filter((item) => item.isDirectory())
-    .map((item) => item.name);
-}
-
-function buildCharacterItems(params: {
-  baseFolder: "animes" | "series" | "movies";
-  coverFolder: "animes" | "series" | "movies";
-  itemName: string;
-  typeLabel: "anime" | "series" | "movie";
-}) {
-  const { baseFolder, coverFolder, itemName, typeLabel } = params;
-
-  const itemPath = path.join(
-    process.cwd(),
-    "public",
-    "downloads",
-    baseFolder,
-    itemName
-  );
-
-  if (!fs.existsSync(itemPath)) return [];
-
-  const characters = getFolders(itemPath);
-
-  return characters.map((character) => {
-    const formattedTitle = formatLabel(character);
-    const formattedSubtitle = formatLabel(itemName);
-
-    if (typeLabel === "movie") {
-      return {
-        type: "character" as const,
-        title: formattedTitle,
-        subtitle: formattedSubtitle,
-        href: `/movies/${itemName}#${character.toLowerCase()}`,
-        image: `/covers/${coverFolder}/${itemName}.jpeg`,
-        character: character.toLowerCase(),
-      };
-    }
-
-    return {
-      type: "character" as const,
-      title: formattedTitle,
-      subtitle: formattedSubtitle,
-      href: `/${baseFolder}/${itemName}#${character.toLowerCase()}`,
-      image: `/covers/${coverFolder}/${itemName}.jpeg`,
-      character: character.toLowerCase(),
-    };
-  });
-}
-
 export function getSearchItems(): SearchItem[] {
-  const animeNames = getFolders(
-    path.join(process.cwd(), "public", "downloads", "animes")
-  );
+  const animeItems: SearchItem[] = catalog
+    .filter((item) => item.type === "anime")
+    .map((anime) => ({
+      type: "anime",
+      title: formatLabel(anime.name),
+      subtitle: "Anime",
+      href: anime.href,
+      image: anime.cover,
+      aliases: getAliases(anime.name, "anime"),
+    }));
 
-  const seriesNames = getFolders(
-    path.join(process.cwd(), "public", "downloads", "series")
-  );
+  const seriesItems: SearchItem[] = catalog
+    .filter((item) => item.type === "series")
+    .map((serie) => ({
+      type: "series",
+      title: formatLabel(serie.name),
+      subtitle: "Series",
+      href: serie.href,
+      image: serie.cover,
+      aliases: getAliases(serie.name, "series"),
+    }));
 
-  const movieNames = getFolders(
-    path.join(process.cwd(), "public", "downloads", "movies")
-  );
-
-  const animeItems: SearchItem[] = animeNames.map((anime) => ({
-    type: "anime",
-    title: formatLabel(anime),
-    subtitle: "Anime",
-    href: `/animes/${anime}`,
-    image: `/covers/animes/${anime}.jpeg`,
-    aliases: getAliases(anime, "anime"),
-  }));
-
-  const seriesItems: SearchItem[] = seriesNames.map((serie) => ({
-    type: "series",
-    title: formatLabel(serie),
-    subtitle: "Series",
-    href: `/series/${serie}`,
-    image: `/covers/series/${serie}.jpeg`,
-    aliases: getAliases(serie, "series"),
-  }));
-
-  const movieItems: SearchItem[] = movieNames.map((movie) => ({
-    type: "movie",
-    title: formatLabel(movie),
-    subtitle: "Movie",
-    href: `/movies/${movie}`,
-    image: `/covers/movies/${movie}.jpeg`,
-    aliases: getAliases(movie, "movie"),
-  }));
-
-  const animeCharacters = animeNames.flatMap((anime) =>
-    buildCharacterItems({
-      baseFolder: "animes",
-      coverFolder: "animes",
-      itemName: anime,
-      typeLabel: "anime",
-    })
-  );
-
-  const seriesCharacters = seriesNames.flatMap((serie) =>
-    buildCharacterItems({
-      baseFolder: "series",
-      coverFolder: "series",
-      itemName: serie,
-      typeLabel: "series",
-    })
-  );
-
-  const movieCharacters = movieNames.flatMap((movie) =>
-    buildCharacterItems({
-      baseFolder: "movies",
-      coverFolder: "movies",
-      itemName: movie,
-      typeLabel: "movie",
-    })
-  );
+  const movieItems: SearchItem[] = catalog
+    .filter((item) => item.type === "movie")
+    .map((movie) => ({
+      type: "movie",
+      title: formatLabel(movie.name),
+      subtitle: "Movie",
+      href: movie.href,
+      image: movie.cover,
+      aliases: getAliases(movie.name, "movie"),
+    }));
 
   return [
     ...animeItems,
     ...seriesItems,
     ...movieItems,
-    ...animeCharacters,
-    ...seriesCharacters,
-    ...movieCharacters,
   ];
 }

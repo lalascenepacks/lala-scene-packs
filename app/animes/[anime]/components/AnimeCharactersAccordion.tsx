@@ -185,7 +185,7 @@ export default function AnimeCharactersAccordion({
                         fontSize: "14px",
                       }}
                     >
-                      {item.season.replaceAll("-", " ")}
+                      {item.season.replaceAll("-", " ").replace(/^season/i, "Season")}
                     </div>
 
                     <div
