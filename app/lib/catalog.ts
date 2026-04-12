@@ -20,6 +20,26 @@ export const catalog = [
     }
   },
   {
+    "name": "euphoria",
+    "href": "/series/euphoria",
+    "cover": "/covers/series/euphoria.jpeg",
+    "mp4Count": 12,
+    "scenePacksCount": 4,
+    "type": "series",
+    "latestUpdatedAt": 1775955381000.4666,
+    "flags": {
+      "is4k": false,
+      "is1080p": true,
+      "isBR": true,
+      "isJP": false,
+      "isUS": true,
+      "isBestScenes": true,
+      "isMelhoresCenas": true,
+      "isAllScenes": true,
+      "isTodasAsCenas": true
+    }
+  },
+  {
     "name": "kakegurui",
     "href": "/series/kakegurui",
     "cover": "/covers/series/kakegurui.jpeg",
@@ -257,6 +277,26 @@ export const catalog = [
       "isMelhoresCenas": true,
       "isAllScenes": false,
       "isTodasAsCenas": true
+    }
+  },
+  {
+    "name": "tangled",
+    "href": "/movies/tangled",
+    "cover": "/covers/movies/tangled.jpeg",
+    "mp4Count": 1,
+    "scenePacksCount": 1,
+    "type": "movie",
+    "latestUpdatedAt": 1775617306891.9841,
+    "flags": {
+      "is4k": false,
+      "is1080p": true,
+      "isBR": true,
+      "isJP": false,
+      "isUS": false,
+      "isBestScenes": false,
+      "isMelhoresCenas": false,
+      "isAllScenes": false,
+      "isTodasAsCenas": false
     }
   },
   {
