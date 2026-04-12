@@ -8,6 +8,8 @@ export type PackCatalogItem = {
   pack: string;
   file: string;
   href: string;
+  fileSizeBytes: number;
+  fileSizeText: string;
   updatedAt: number;
   updatedAtText: string;
   isMonetized: boolean;
@@ -24,6 +26,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?UP7kAtZt",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551670.4236,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -38,6 +42,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?0yEUkg5w",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551710.3364,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -52,6 +58,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?qGzKtxoM",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551785.5652,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -66,6 +74,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?Cj2yKb7N",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551872.772,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -80,6 +90,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?S5oS20mY",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551899.7126,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -94,6 +106,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?SBJd1S6J",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551925.9243,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -108,6 +122,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?yfbeDe8g",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448551950.9668,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -122,6 +138,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?RaotrZu6",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554648.6604,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -136,6 +154,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?J1kLZFFF",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773682644775.0583,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -150,6 +170,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://lootdest.org/s?z0dQPd2w",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773682649644.9868,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -164,6 +186,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?l5IRT0Yo",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773682398368.391,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -178,6 +202,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://lootdest.org/s?xipfFp19",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773682402896.6987,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -192,6 +218,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?6ypAqB2g",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774751106685.7627,
     "updatedAtText": "3/28/2026",
     "isMonetized": true
@@ -206,6 +234,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?B4PFjsDO",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774828406995.495,
     "updatedAtText": "3/29/2026",
     "isMonetized": true
@@ -220,6 +250,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?H6nZVh34",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774828387075.7146,
     "updatedAtText": "3/29/2026",
     "isMonetized": true
@@ -234,6 +266,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?oY0qQhQa",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774828374736.0952,
     "updatedAtText": "3/29/2026",
     "isMonetized": true
@@ -248,6 +282,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?fDor9fis",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774828362708.964,
     "updatedAtText": "3/29/2026",
     "isMonetized": true
@@ -262,6 +298,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?QPd9RslV",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1774828347838.3289,
     "updatedAtText": "3/29/2026",
     "isMonetized": true
@@ -276,6 +314,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?szMzQTlm",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554683.757,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -290,6 +330,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?ERJb44Pl",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554691.5164,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -304,6 +346,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?zt9IDwRp",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554723.289,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -318,6 +362,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?VvuynRNp",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554730.879,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -332,6 +378,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?vzQuwPYL",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773685955921.8064,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -346,6 +394,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?XOHsZ3no",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773691812851.163,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -360,6 +410,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?kWKE5782",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773685712337.6812,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -374,6 +426,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?ZCtFXNqz",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773685791805.6858,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -388,6 +442,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?FIj8IJws",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773687267553.6338,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -402,6 +458,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://lootdest.org/s?xsHgPh40",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773691374954.3577,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -416,6 +474,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?xLF97fhV",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554782.3118,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -430,6 +490,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?PfpAUFFE",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554794.2295,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -444,6 +506,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?Cu96SYyr",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773698878755.4446,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -458,6 +522,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?4rxHIlna",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773699026048.8916,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -472,6 +538,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?fdd6aizi",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773698566726.2393,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -486,6 +554,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://lootdest.org/s?De8JtQwU",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773698758243.2122,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -500,6 +570,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?xKzK61fx",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554836.7493,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -514,6 +586,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?ctc4B7p5",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554841.468,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -528,6 +602,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?jkvqlSG8",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554856.8567,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -542,6 +618,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?ZgkvuYv5",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554869.4097,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -556,6 +634,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?gIuOAMnC",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554873.0642,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -570,6 +650,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?2MBdJAaB",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554878.7373,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -584,6 +666,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?BYe3EiFg",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773537934874.203,
     "updatedAtText": "3/14/2026",
     "isMonetized": true
@@ -598,6 +682,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?5uWSYQKD",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773536933777.98,
     "updatedAtText": "3/14/2026",
     "isMonetized": true
@@ -612,6 +698,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?ALZwJ9zD",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773595609036.3108,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -626,6 +714,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?Tf7FGXOQ",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773699655044.12,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -640,6 +730,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?Zc0jpr8A",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773553975525.798,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -654,6 +746,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://lootdest.org/s?XgszWqUC",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773554039461.2322,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -668,6 +762,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?zcDzUb76",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554949.6162,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -682,6 +778,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?oUD10krR",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554961.8445,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -696,6 +794,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?a4EMzzzn",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554965.5496,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -710,6 +810,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?BhvwixUF",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554969.296,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -724,6 +826,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://loot-link.com/s?5mScYdVS",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773550953619.5298,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -738,6 +842,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?usohRUvk",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773711482563.4492,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -752,6 +858,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?YDdrLMYr",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773547260910.6006,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -766,6 +874,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?LQHlQGUL",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773547298709.4365,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -780,6 +890,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?vPF3A0IO",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773711260401.5425,
     "updatedAtText": "3/16/2026",
     "isMonetized": true
@@ -794,6 +906,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?DxTYXpgc",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773550886743.3733,
     "updatedAtText": "3/15/2026",
     "isMonetized": true
@@ -808,6 +922,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Sukuna 03x02 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ryomen-Sukuna/br/Temporada-3/todas-as-cenas/Sukuna%2003x02%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 11532081,
+    "fileSizeText": "11MB",
     "updatedAt": 1771015630809.3027,
     "updatedAtText": "2/13/2026",
     "isMonetized": false
@@ -822,6 +938,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "flashback",
     "file": "flashback",
     "href": "https://loot-link.com/s?kSdzlRWX",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554974.5723,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -836,6 +954,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?nrbmqnL9",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554978.6694,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -850,6 +970,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?4kujGBgU",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448554983.5017,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -864,6 +986,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?qu8dueOc",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555029.609,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -878,6 +1002,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?VetOjwNx",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555074.7935,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -892,6 +1018,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "Flashback",
     "file": "Flashback",
     "href": "https://loot-link.com/s?SUaXnugX",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555078.0176,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -906,6 +1034,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?8xNGCng5",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555082.8716,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -920,6 +1050,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?RrxYhdoc",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555086.9268,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -934,6 +1066,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?Y0Qu9cWV",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775137627234.396,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -948,6 +1082,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?Zjf9DKHa",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775137600465.5034,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -962,6 +1098,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://loot-link.com/s?lEFsH7ok",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775138809898.22,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -976,6 +1114,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?jAslVxhn",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775138854033.2466,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -990,6 +1130,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "all-scenes",
     "href": "https://lootdest.org/s?UpgDN7JN",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775139856994.6707,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -1004,6 +1146,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "best-scenes",
     "href": "https://loot-link.com/s?PNSdkwf3",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1775139883962.0408,
     "updatedAtText": "4/2/2026",
     "isMonetized": true
@@ -1018,6 +1162,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?mLJeycFJ",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555151.5698,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -1032,6 +1178,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://loot-link.com/s?0Rx1Si3S",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555158.941,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -1046,6 +1194,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
     "href": "https://lootdest.org/s?pGNtcgiu",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555172.5073,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -1060,6 +1210,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
     "href": "https://lootdest.org/s?Jwn3c3Yb",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
     "updatedAt": 1773448555187.0393,
     "updatedAtText": "3/13/2026",
     "isMonetized": true
@@ -1074,6 +1226,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x01 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%2001x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 137788569,
+    "fileSizeText": "131MB",
     "updatedAt": 1775951046561.6863,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1088,6 +1242,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x02 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%2001x02%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 100598502,
+    "fileSizeText": "96MB",
     "updatedAt": 1775952343340.3271,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1102,7 +1258,25 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x03 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%2001x03%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 106889233,
+    "fileSizeText": "102MB",
     "updatedAt": 1775952777883.51,
+    "updatedAtText": "4/11/2026",
+    "isMonetized": false
+  },
+  {
+    "mediaType": "series",
+    "mediaSlug": "euphoria",
+    "title": "Maddy Perez - melhores cenas",
+    "character": "Maddy-Perez",
+    "language": "br",
+    "season": "Temporada-1",
+    "pack": "melhores-cenas",
+    "file": "Maddy Perez 01x04 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%2001x04%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 131172027,
+    "fileSizeText": "125MB",
+    "updatedAt": 1775965681418.5063,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
   },
@@ -1116,6 +1290,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x01 Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy%20Perez%2001x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 463014776,
+    "fileSizeText": "442MB",
     "updatedAt": 1775951005554.3652,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1130,6 +1306,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x02 Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy%20Perez%2001x02%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 689622406,
+    "fileSizeText": "658MB",
     "updatedAt": 1775952314040.4443,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1144,7 +1322,25 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x03 Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy%20Perez%2001x03%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 410705026,
+    "fileSizeText": "392MB",
     "updatedAt": 1775952993600.2773,
+    "updatedAtText": "4/11/2026",
+    "isMonetized": false
+  },
+  {
+    "mediaType": "series",
+    "mediaSlug": "euphoria",
+    "title": "Maddy Perez - todas as cenas",
+    "character": "Maddy-Perez",
+    "language": "br",
+    "season": "Temporada-1",
+    "pack": "todas-as-cenas",
+    "file": "Maddy Perez 01x04 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy%20Perez%2001x04%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 768929796,
+    "fileSizeText": "733MB",
+    "updatedAt": 1775965933790.239,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
   },
@@ -1158,6 +1354,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "Maddy Perez 01x01 All Scenes 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy%20Perez%2001x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 463014800,
+    "fileSizeText": "442MB",
     "updatedAt": 1775951279801.5547,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1172,6 +1370,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "Maddy Perez 01x02 All Scenes 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy%20Perez%2001x02%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 689622437,
+    "fileSizeText": "658MB",
     "updatedAt": 1775952649092.6409,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1186,7 +1386,25 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "all-scenes",
     "file": "Maddy Perez 01x03 All Scenes 1080p @lalascenepacks_1.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy%20Perez%2001x03%20All%20Scenes%201080p%20%40lalascenepacks_1.mp4",
+    "fileSizeBytes": 410705046,
+    "fileSizeText": "392MB",
     "updatedAt": 1775955358785.3472,
+    "updatedAtText": "4/11/2026",
+    "isMonetized": false
+  },
+  {
+    "mediaType": "series",
+    "mediaSlug": "euphoria",
+    "title": "Maddy Perez - all scenes",
+    "character": "Maddy-Perez",
+    "language": "us",
+    "season": "Season-1",
+    "pack": "all-scenes",
+    "file": "Maddy Perez 01x04 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy%20Perez%2001x04%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 768929502,
+    "fileSizeText": "733MB",
+    "updatedAt": 1775966342672.3494,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
   },
@@ -1200,6 +1418,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "Maddy Perez 01x01 Best Scenes 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy%20Perez%2001x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 137788544,
+    "fileSizeText": "131MB",
     "updatedAt": 1775951310520.1196,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1214,6 +1434,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "Maddy Perez 01x02 Best Scenes 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy%20Perez%2001x02%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 100598510,
+    "fileSizeText": "96MB",
     "updatedAt": 1775952673142.8013,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1228,7 +1450,25 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "best-scenes",
     "file": "Maddy Perez 01x03 Best Scenes 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy%20Perez%2001x03%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 106889231,
+    "fileSizeText": "102MB",
     "updatedAt": 1775955381000.4666,
+    "updatedAtText": "4/11/2026",
+    "isMonetized": false
+  },
+  {
+    "mediaType": "series",
+    "mediaSlug": "euphoria",
+    "title": "Maddy Perez - best scenes",
+    "character": "Maddy-Perez",
+    "language": "us",
+    "season": "Season-1",
+    "pack": "best-scenes",
+    "file": "Maddy Perez 01x04 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy%20Perez%2001x04%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 131171760,
+    "fileSizeText": "125MB",
+    "updatedAt": 1775966144254.1987,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
   },
@@ -1242,6 +1482,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x01 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x01%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1752281248,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1768099308748.3408,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1256,6 +1498,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x02 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x02%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1686509096,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1768099701152.236,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1270,6 +1514,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x03 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x03%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1545166281,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1768100065189.6382,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1284,6 +1530,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x04 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x04%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1755745436,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1768100389518.3906,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1298,6 +1546,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x05 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x05%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1429028033,
+    "fileSizeText": "1.3GB",
     "updatedAt": 1768261111080.7842,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1312,6 +1562,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x06 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x06%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1380575046,
+    "fileSizeText": "1.3GB",
     "updatedAt": 1768262300826.2,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1326,6 +1578,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x07 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x07%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1495507081,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1768262676793.9167,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1340,6 +1594,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x08 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x08%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1816803256,
+    "fileSizeText": "1.7GB",
     "updatedAt": 1768263128051.012,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1354,6 +1610,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x09 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x09%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1431636186,
+    "fileSizeText": "1.3GB",
     "updatedAt": 1768263459775.759,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1368,6 +1626,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "ep-completo",
     "file": "kakegurui 01x10 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui%2001x10%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1649161974,
+    "fileSizeText": "1.5GB",
     "updatedAt": 1768263720671.3188,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1382,6 +1642,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 278984511,
+    "fileSizeText": "266MB",
     "updatedAt": 1768792839002.3274,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1396,6 +1658,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "yumeko 01x02 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko%2001x02%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 117923092,
+    "fileSizeText": "112MB",
     "updatedAt": 1768793857526.4885,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1410,6 +1674,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x03 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x03%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 175495433,
+    "fileSizeText": "167MB",
     "updatedAt": 1768795241874.5112,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1424,6 +1690,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x04 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x04%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 124218125,
+    "fileSizeText": "118MB",
     "updatedAt": 1768796209243.1443,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1438,6 +1706,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x05 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x05%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 150878074,
+    "fileSizeText": "144MB",
     "updatedAt": 1768796873488.324,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1452,6 +1722,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x06 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x06%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 163309178,
+    "fileSizeText": "156MB",
     "updatedAt": 1768797882011.6587,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1466,6 +1738,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x07 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x07%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 223455914,
+    "fileSizeText": "213MB",
     "updatedAt": 1768839267315.1328,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1480,6 +1754,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x08 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x08%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 201394242,
+    "fileSizeText": "192MB",
     "updatedAt": 1768840756249.7588,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1494,6 +1770,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "yumeko 01x09 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko%2001x09%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 188231309,
+    "fileSizeText": "180MB",
     "updatedAt": 1768843090316.0586,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1508,6 +1786,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Yumeko 01x10 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko%2001x10%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 170257411,
+    "fileSizeText": "162MB",
     "updatedAt": 1768844634220.668,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1522,6 +1802,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "yumeko melhores cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko%20melhores%20cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1799361275,
+    "fileSizeText": "1.7GB",
     "updatedAt": 1768857817964.838,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1536,6 +1818,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x01 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x01%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1478380066,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1768360207463.7327,
     "updatedAtText": "1/13/2026",
     "isMonetized": false
@@ -1550,6 +1834,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "yumeko 01x02 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/yumeko%2001x02%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1289552933,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1768762798915.1956,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1564,6 +1850,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x03 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x03%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1097491542,
+    "fileSizeText": "1.0GB",
     "updatedAt": 1768764524131.3381,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1578,6 +1866,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x04 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x04%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1019491647,
+    "fileSizeText": "972MB",
     "updatedAt": 1768766678576.3699,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1592,6 +1882,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x05 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x05%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 782387856,
+    "fileSizeText": "746MB",
     "updatedAt": 1768771054123.485,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1606,6 +1898,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x06 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x06%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 922801822,
+    "fileSizeText": "880MB",
     "updatedAt": 1768773103972.5369,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1620,6 +1914,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x07 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x07%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1092736787,
+    "fileSizeText": "1.0GB",
     "updatedAt": 1768779310676.2441,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1634,6 +1930,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x08 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x08%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1415632569,
+    "fileSizeText": "1.3GB",
     "updatedAt": 1768781554202.2434,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1648,6 +1946,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "yumeko 01x09 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/yumeko%2001x09%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 855740746,
+    "fileSizeText": "816MB",
     "updatedAt": 1768784906158.6965,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1662,6 +1962,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x10 Todas As Cenas @allaeditsscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%2001x10%20Todas%20As%20Cenas%20%40allaeditsscp.mp4",
+    "fileSizeBytes": 1335004622,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1768787971809.482,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1676,6 +1978,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Jj Maybank 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/melhores-cenas/Jj%20Maybank%2001x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 168793677,
+    "fileSizeText": "161MB",
     "updatedAt": 1773431228252.9216,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -1690,6 +1994,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Jj Maybank 01x01 Todas As Cenas @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/todas-as-cenas/Jj%20Maybank%2001x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1465326013,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1773431237743.1443,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -1704,6 +2010,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "067 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/melhores-cenas/067%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 583366468,
+    "fileSizeText": "556MB",
     "updatedAt": 1774401378921.6382,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1718,6 +2026,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "067 Todas Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/todas-as-cenas/067%20Todas%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2746809986,
+    "fileSizeText": "2.6GB",
     "updatedAt": 1774401393213.231,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1732,6 +2042,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "222 Melhores Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/melhores-cenas/222%20Melhores%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 431368610,
+    "fileSizeText": "411MB",
     "updatedAt": 1774401555072.099,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1746,6 +2058,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "222 Todas Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/todas-as-cenas/222%20Todas%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1115668992,
+    "fileSizeText": "1.0GB",
     "updatedAt": 1774401552811.8848,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1760,6 +2074,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "240 Todas Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/240/br/Temporada-1/todas-as-cenas/240%20Todas%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 845077133,
+    "fileSizeText": "806MB",
     "updatedAt": 1774401546932.037,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1774,6 +2090,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "456 melhores cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/melhores-cenas/456%20melhores%20cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 792222044,
+    "fileSizeText": "756MB",
     "updatedAt": 1774401468016.6782,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1788,6 +2106,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "456 Todas Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/todas-as-cenas/456%20Todas%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 12912831040,
+    "fileSizeText": "12GB",
     "updatedAt": 1774401463880.6245,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1802,6 +2122,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Front Man Melhores Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front%20Man/br/Temporada-1/melhores-cenas/Front%20Man%20Melhores%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 464921183,
+    "fileSizeText": "443MB",
     "updatedAt": 1774401368235.848,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1816,6 +2138,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Front Man Todas Cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front%20Man/br/Temporada-1/todas-as-cenas/Front%20Man%20Todas%20Cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1433514337,
+    "fileSizeText": "1.3GB",
     "updatedAt": 1774401375834.4226,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1830,6 +2154,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Hwang Jun-ho melhores cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang%20Jun-ho/br/Temporada-1/melhores-cenas/Hwang%20Jun-ho%20melhores%20cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 713810463,
+    "fileSizeText": "681MB",
     "updatedAt": 1774401542481.1082,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1844,6 +2170,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Hwang Jun-ho todas cenas @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang%20Jun-ho/br/Temporada-1/todas-as-cenas/Hwang%20Jun-ho%20todas%20cenas%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2509227819,
+    "fileSizeText": "2.3GB",
     "updatedAt": 1774401538733.4849,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1858,6 +2186,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "vendedor s1 @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Salesman/br/Temporada-1/todas-as-cenas/vendedor%20s1%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 473144825,
+    "fileSizeText": "451MB",
     "updatedAt": 1774401395670.5964,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1872,6 +2202,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x1 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x1%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3542899844,
+    "fileSizeText": "3.3GB",
     "updatedAt": 1774665360787.3872,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1886,6 +2218,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x2 1080p @lalascenepacks(1).mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x2%201080p%20%40lalascenepacks(1).mp4",
+    "fileSizeBytes": 2803951940,
+    "fileSizeText": "2.6GB",
     "updatedAt": 1774665428239.1726,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1900,6 +2234,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x3 1080p @lalascenepacks(1).mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x3%201080p%20%40lalascenepacks(1).mp4",
+    "fileSizeBytes": 3429034569,
+    "fileSizeText": "3.2GB",
     "updatedAt": 1774665324441.3687,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1914,6 +2250,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x4 1080p @lalascenepacks(1).mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x4%201080p%20%40lalascenepacks(1).mp4",
+    "fileSizeBytes": 4382858883,
+    "fileSizeText": "4.1GB",
     "updatedAt": 1774665382416.9824,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1928,6 +2266,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x5 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x5%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3348946982,
+    "fileSizeText": "3.1GB",
     "updatedAt": 1774665291309.7896,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1942,6 +2282,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x6 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x6%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3782772624,
+    "fileSizeText": "3.5GB",
     "updatedAt": 1774665343284.6216,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1956,6 +2298,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x7 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x7%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3247286858,
+    "fileSizeText": "3.0GB",
     "updatedAt": 1774665307376.189,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1970,6 +2314,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x8 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger%20Things%205x8%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 6490997034,
+    "fileSizeText": "6.0GB",
     "updatedAt": 1774665414439.0366,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1984,6 +2330,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Holly Wheeler 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Holly-Wheeler/br/Temporada-5/todas-as-cenas/Holly%20Wheeler%2005x01-04%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1470951377,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1774665435497.337,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1998,6 +2346,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Karen Wheeler 05x01-02 Todas as Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Karen-Wheeler/br/Temporada-5/todas-as-cenas/Karen%20Wheeler%2005x01-02%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 507496294,
+    "fileSizeText": "484MB",
     "updatedAt": 1774665454256.8977,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2012,6 +2362,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Max 05x04-07 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/melhores-cenas/Max%2005x04-07%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 871763501,
+    "fileSizeText": "831MB",
     "updatedAt": 1774665259221.8633,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2026,6 +2378,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Max 05x04-07 Todas as Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/todas-as-cenas/Max%2005x04-07%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3005332933,
+    "fileSizeText": "2.8GB",
     "updatedAt": 1774665274644.4905,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2040,6 +2394,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Mike Wheeler 05x01-04 Todas as cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mike-Wheeler/br/Temporada-5/todas-as-cenas/Mike%20Wheeler%2005x01-04%20Todas%20as%20cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1748349539,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1774665444143.319,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2054,6 +2410,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Robin 05x01-04 todas as cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Robin-Buckley/br/Temporada-5/todas-as-cenas/Robin%2005x01-04%20todas%20as%20cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1517310042,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1774665451709.5693,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2068,6 +2426,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Steve temporada 1 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-1/todas-as-cenas/Steve%20temporada%201%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1451094621,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1774665472762.9592,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2082,6 +2442,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Steve 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve%2005x01-04%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1304099777,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1774665460792.004,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2096,6 +2458,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Steve 05x05-08 Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve%2005x05-08%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 951684604,
+    "fileSizeText": "908MB",
     "updatedAt": 1774665465528.541,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2110,6 +2474,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Will Byers 05x01-04 Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/melhores-cenas/Will%20Byers%2005x01-04%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 573488877,
+    "fileSizeText": "547MB",
     "updatedAt": 1774665489321.6914,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2124,6 +2490,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Will Byers 05x01-04 Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/todas-as-cenas/Will%20Byers%2005x01-04%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2619875711,
+    "fileSizeText": "2.4GB",
     "updatedAt": 1774665486344.5847,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2138,6 +2506,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x01-07 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon%20Salvatore%2001x01-07%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4583813335,
+    "fileSizeText": "4.3GB",
     "updatedAt": 1774487584647.9485,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2152,6 +2522,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x08-13 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon%20Salvatore%2001x08-13%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4352104923,
+    "fileSizeText": "4.1GB",
     "updatedAt": 1774487607122.1162,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2166,6 +2538,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x14-22 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon%20Salvatore%2001x14-22%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 6925622889,
+    "fileSizeText": "6.4GB",
     "updatedAt": 1774487643086.1719,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2180,6 +2554,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "01x07 Halloween Melhores Cenas.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/melhores-cenas/01x07%20Halloween%20Melhores%20Cenas.mp4",
+    "fileSizeBytes": 716951388,
+    "fileSizeText": "684MB",
     "updatedAt": 1774487561701.8672,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2194,6 +2570,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "S1 Ep 7 Completo - Assombrados @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/todas-as-cenas/S1%20Ep%207%20Completo%20-%20Assombrados%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2210700548,
+    "fileSizeText": "2.1GB",
     "updatedAt": 1774487558085.7634,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2208,6 +2586,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Agnes @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 688971415,
+    "fileSizeText": "657MB",
     "updatedAt": 1773417106035.2156,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2222,6 +2602,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Agnes Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1143241716,
+    "fileSizeText": "1.1GB",
     "updatedAt": 1773417102493.642,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2236,6 +2618,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Ajax @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 522725008,
+    "fileSizeText": "499MB",
     "updatedAt": 1773417146272.1638,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2250,6 +2634,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Ajax Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 427789433,
+    "fileSizeText": "408MB",
     "updatedAt": 1773417143611.1113,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2264,6 +2650,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Bianca @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 786139292,
+    "fileSizeText": "750MB",
     "updatedAt": 1773417170152.5337,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2278,6 +2666,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Bianca Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 854582950,
+    "fileSizeText": "815MB",
     "updatedAt": 1773417166164.6917,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2292,6 +2682,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Bruno @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 436450456,
+    "fileSizeText": "416MB",
     "updatedAt": 1773417073329.8706,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2306,6 +2698,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Bruno Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 311411417,
+    "fileSizeText": "297MB",
     "updatedAt": 1773417075001.3704,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2320,6 +2714,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Dra. Rachael Farburn @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Dra.-Rachael-Fairbun/br/Temporada-2/todas-as-cenas/Dra.%20Rachael%20Farburn%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 634145235,
+    "fileSizeText": "605MB",
     "updatedAt": 1773417110484.068,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2334,6 +2730,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "Enid-no-corpo-da-Wandinha",
     "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Enid-no-corpo-da-Wandinha/Enid%20no%20corpo%20da%20wandinha%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1334875848,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1773417272470.9521,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2348,6 +2746,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Enid Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1617175589,
+    "fileSizeText": "1.5GB",
     "updatedAt": 1773417280771.911,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2362,6 +2762,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Enid Sinclair @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid%20Sinclair%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1955375444,
+    "fileSizeText": "1.8GB",
     "updatedAt": 1773417290818.4224,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2376,6 +2778,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "Wandinha-no-corpo-da-Enid",
     "file": "Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Wandinha-no-corpo-da-Enid/Wandinha%20no%20corpo%20da%20Enid%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 937347252,
+    "fileSizeText": "894MB",
     "updatedAt": 1773417265695.4236,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2390,6 +2794,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Eugene @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 641063489,
+    "fileSizeText": "611MB",
     "updatedAt": 1773417150526.0579,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2404,6 +2810,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Eugene Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 192954801,
+    "fileSizeText": "184MB",
     "updatedAt": 1773417147263.8225,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2418,6 +2826,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Jovem Gomez @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Gomez-Addams/br/Temporada-1/todas-as-cenas/Jovem%20Gomez%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 196797042,
+    "fileSizeText": "188MB",
     "updatedAt": 1773417181057.944,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2432,6 +2842,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Goody Addams @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Goody-Addams/br/Temporada-1/todas-as-cenas/Goody%20Addams%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 229835015,
+    "fileSizeText": "219MB",
     "updatedAt": 1773417107229.4937,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2446,6 +2858,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Isaac Night Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isaac-Night-(slurp)/br/Temporada-2/todas-as-cenas/Isaac%20Night%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 2220051870,
+    "fileSizeText": "2.1GB",
     "updatedAt": 1773417161818.8289,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2460,6 +2874,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Isadora Capri @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora%20Capri%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 351620429,
+    "fileSizeText": "335MB",
     "updatedAt": 1773417173396.3198,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2474,6 +2890,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Isadora Capri Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora%20Capri%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 469373835,
+    "fileSizeText": "448MB",
     "updatedAt": 1773417175779.5999,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2488,6 +2906,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Larissa Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Larissa-Weems/br/Temporada-2/todas-as-cenas/Larissa%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1110500909,
+    "fileSizeText": "1.0GB",
     "updatedAt": 1773417080842.9783,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2502,6 +2922,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Maozinha Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maozinha/br/Temporada-2/todas-as-cenas/Maozinha%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 918420415,
+    "fileSizeText": "876MB",
     "updatedAt": 1773417096584.7046,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2516,6 +2938,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Morticia @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mort%C3%ADcia-Addams/br/Temporada-2/todas-as-cenas/Morticia%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1710054849,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1773417130752.5852,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2530,6 +2954,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Morticia Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mort%C3%ADcia-Addams/br/Temporada-2/todas-as-cenas/Morticia%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 2014602755,
+    "fileSizeText": "1.9GB",
     "updatedAt": 1773417122001.5159,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2544,6 +2970,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Pugsley @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 929998661,
+    "fileSizeText": "887MB",
     "updatedAt": 1773417141429.1128,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2558,6 +2986,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Pugsley Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1168457733,
+    "fileSizeText": "1.1GB",
     "updatedAt": 1773417136696.1929,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2572,6 +3002,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Rosaline Rotwood @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rosaline-Rotwood/br/Temporada-2/todas-as-cenas/Rosaline%20Rotwood%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 221271183,
+    "fileSizeText": "211MB",
     "updatedAt": 1773417111630.9543,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2586,6 +3018,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Tyler Parte 1 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler%20Parte%201%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 487862597,
+    "fileSizeText": "465MB",
     "updatedAt": 1773417091860.1538,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2600,6 +3034,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Tyler Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1636794892,
+    "fileSizeText": "1.5GB",
     "updatedAt": 1773417089356.5479,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2614,6 +3050,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Hester Parte 1 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vov%C3%B3-Addams/br/Temporada-2/todas-as-cenas/Hester%20Parte%201%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 284350692,
+    "fileSizeText": "271MB",
     "updatedAt": 1773417171602.5293,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2628,6 +3066,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Hester Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vov%C3%B3-Addams/br/Temporada-2/todas-as-cenas/Hester%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 893730912,
+    "fileSizeText": "852MB",
     "updatedAt": 1773421644712.4636,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2642,6 +3082,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha%20Melhores%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1018112075,
+    "fileSizeText": "971MB",
     "updatedAt": 1773417191324.1948,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2656,6 +3098,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha%20Melhores%20Cenas%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 998062592,
+    "fileSizeText": "952MB",
     "updatedAt": 1773417186139.7373,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2670,6 +3114,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha%20Todas%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 3677088946,
+    "fileSizeText": "3.4GB",
     "updatedAt": 1773420217150.6306,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2684,6 +3130,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha%20Todas%20Cenas%20Parte%202%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 3280132581,
+    "fileSizeText": "3.1GB",
     "updatedAt": 1773420189400.3672,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2698,6 +3146,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 3 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha%20Todas%20Cenas%20Parte%203%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 3967989027,
+    "fileSizeText": "3.7GB",
     "updatedAt": 1773420224134.1814,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2712,6 +3162,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 4 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha%20Todas%20Cenas%20Parte%204%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 3668068336,
+    "fileSizeText": "3.4GB",
     "updatedAt": 1773420214829.9297,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2726,6 +3178,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/melhores-cenas/Wandinha%20Melhores%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1115767132,
+    "fileSizeText": "1.0GB",
     "updatedAt": 1773417260918.218,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2740,6 +3194,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "mudança-de-corpos",
     "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/mudan%C3%A7a-de-corpos/Enid%20no%20corpo%20da%20wandinha%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 1334875848,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1773417255252.1196,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2754,6 +3210,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "mudança-de-corpos",
     "file": "Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/mudan%C3%A7a-de-corpos/Wandinha%20no%20corpo%20da%20Enid%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 937347252,
+    "fileSizeText": "894MB",
     "updatedAt": 1773417248482.628,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2768,6 +3226,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 1-2 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha%20S2%201-2%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 3438270473,
+    "fileSizeText": "3.2GB",
     "updatedAt": 1773417221514.3018,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2782,6 +3242,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 3-4 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha%20S2%203-4%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 2454639404,
+    "fileSizeText": "2.3GB",
     "updatedAt": 1773417203860.495,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2796,6 +3258,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 5-8 @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha%20S2%205-8%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 4319176085,
+    "fileSizeText": "4.0GB",
     "updatedAt": 1773417243711.7922,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2810,6 +3274,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Cameron James Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cameron/br/todas-as-cenas/Cameron%20James%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1323457727,
+    "fileSizeText": "1.2GB",
     "updatedAt": 1774737081031.5735,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -2824,6 +3290,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Kat Stratford Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kat/br/todas-as-cenas/Kat%20Stratford%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2495780537,
+    "fileSizeText": "2.3GB",
     "updatedAt": 1774737064886.965,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -2838,6 +3306,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Patrick Verona Todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Patrick/br/todas-as-cenas/Patrick%20Verona%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1953972673,
+    "fileSizeText": "1.8GB",
     "updatedAt": 1774737051530.0627,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -2852,6 +3322,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Art Donaldson @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Art%20Donaldson/br/todas-as-cenas/Art%20Donaldson%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 4365994248,
+    "fileSizeText": "4.1GB",
     "updatedAt": 1773428582759.5784,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2866,6 +3338,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "full-movie",
     "file": "Rivais Filme Completo @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme%20completo/br/full-movie/Rivais%20Filme%20Completo%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 6985226303,
+    "fileSizeText": "6.5GB",
     "updatedAt": 1773428641409.3806,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2880,6 +3354,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Patrick Zweig @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Patrick%20Zweig/br/todas-as-cenas/Patrick%20Zweig%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 4618265848,
+    "fileSizeText": "4.3GB",
     "updatedAt": 1773428606096.3281,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2894,6 +3370,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Tashi Duncan @lalascenepacks 1080p.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tashi%20Ducan/br/todas-as-cenas/Tashi%20Duncan%20%40lalascenepacks%201080p.mp4",
+    "fileSizeBytes": 4570811627,
+    "fileSizeText": "4.3GB",
     "updatedAt": 1773428560827.0178,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2908,6 +3386,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "Culpa Mia Filme completo 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme/br/completo/Culpa%20Mia%20Filme%20completo%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 6190499459,
+    "fileSizeText": "5.8GB",
     "updatedAt": 1774827006918.3674,
     "updatedAtText": "3/29/2026",
     "isMonetized": false
@@ -2922,6 +3402,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Nick Leister Melhores Cenas - Culpa Mia 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick%20Leister/br/melhores-cenas/Nick%20Leister%20Melhores%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 482970186,
+    "fileSizeText": "461MB",
     "updatedAt": 1774827065680.6467,
     "updatedAtText": "3/29/2026",
     "isMonetized": false
@@ -2936,6 +3418,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Nick Leister Todas as Cenas - Culpa Mia 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick%20Leister/br/todas-as-cenas/Nick%20Leister%20Todas%20as%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3691613549,
+    "fileSizeText": "3.4GB",
     "updatedAt": 1774827062871.6633,
     "updatedAtText": "3/29/2026",
     "isMonetized": false
@@ -2950,6 +3434,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Noah Morgan Melhores Cenas - Culpa Mia 1080p @lalascenepackss.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah%20Morgan/br/melhores-cenas/Noah%20Morgan%20Melhores%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepackss.mp4",
+    "fileSizeBytes": 1200505232,
+    "fileSizeText": "1.1GB",
     "updatedAt": 1774827040472.4863,
     "updatedAtText": "3/29/2026",
     "isMonetized": false
@@ -2964,6 +3450,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Noah Morgan Todas as Cenas - Culpa Mia 1080p @lalascenepackss.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah%20Morgan/br/todas-as-cenas/Noah%20Morgan%20Todas%20as%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepackss.mp4",
+    "fileSizeBytes": 4716811206,
+    "fileSizeText": "4.4GB",
     "updatedAt": 1774827033909.799,
     "updatedAtText": "3/29/2026",
     "isMonetized": false
@@ -2978,6 +3466,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "Nossa Culpa Filme Completo Dublado 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme/br/completo/Nossa%20Culpa%20Filme%20Completo%20Dublado%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 5737666175,
+    "fileSizeText": "5.3GB",
     "updatedAt": 1774986332869.022,
     "updatedAtText": "3/31/2026",
     "isMonetized": false
@@ -2992,6 +3482,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Nick Leister 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick-Leister/br/todas-as-cenas/Nick%20Leister%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2999548822,
+    "fileSizeText": "2.8GB",
     "updatedAt": 1774986302168.318,
     "updatedAtText": "3/31/2026",
     "isMonetized": false
@@ -3006,6 +3498,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Noah Morgan 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah-Morgan/br/todas-as-cenas/Noah%20Morgan%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3481077658,
+    "fileSizeText": "3.2GB",
     "updatedAt": 1774986286571.77,
     "updatedAtText": "3/31/2026",
     "isMonetized": false
@@ -3020,6 +3514,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Sofia Zabala 4k @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Sofia-Zabala/br/todas-as-cenas/Sofia%20Zabala%204k%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1747099209,
+    "fileSizeText": "1.6GB",
     "updatedAt": 1774986268673.3325,
     "updatedAtText": "3/31/2026",
     "isMonetized": false
@@ -3034,6 +3530,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "Culpa Tuya - Filme Completo 1080p @lalascenepack.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme/br/completo/Culpa%20Tuya%20-%20Filme%20Completo%201080p%20%40lalascenepack.mp4",
+    "fileSizeBytes": 6111082347,
+    "fileSizeText": "5.7GB",
     "updatedAt": 1775479284517.577,
     "updatedAtText": "4/6/2026",
     "isMonetized": false
@@ -3048,6 +3546,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Cairo Sweet Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cairo-Sweet/br/melhores-cenas/Cairo%20Sweet%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1056933903,
+    "fileSizeText": "1008MB",
     "updatedAt": 1775594316002.914,
     "updatedAtText": "4/7/2026",
     "isMonetized": false
@@ -3062,6 +3562,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Cairo Sweet todas As Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cairo-Sweet/br/todas-as-cenas/Cairo%20Sweet%20todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 2802424754,
+    "fileSizeText": "2.6GB",
     "updatedAt": 1775594330993.932,
     "updatedAtText": "4/7/2026",
     "isMonetized": false
@@ -3076,6 +3578,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "Miller's Girl Filme Completo 4k @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/movie/br/completo/Miller's%20Girl%20Filme%20Completo%204k%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4837231732,
+    "fileSizeText": "4.5GB",
     "updatedAt": 1775594310319.2341,
     "updatedAtText": "4/7/2026",
     "isMonetized": false
@@ -3090,6 +3594,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "complete",
     "file": "Miller's Girl Full Movie 4k @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/movie/us/complete/Miller's%20Girl%20Full%20Movie%204k%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4835823703,
+    "fileSizeText": "4.5GB",
     "updatedAt": 1775594284170.2986,
     "updatedAtText": "4/7/2026",
     "isMonetized": false
@@ -3104,6 +3610,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "Completo",
     "file": "Enrolados Filme completo 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/br/Filme/Completo/Enrolados%20Filme%20completo%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4986184912,
+    "fileSizeText": "4.6GB",
     "updatedAt": 1775617306891.9841,
     "updatedAtText": "4/7/2026",
     "isMonetized": false
@@ -3118,6 +3626,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Amelia Cavell 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Amelia/br/todas-as-cenas/Amelia%20Cavell%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 739930934,
+    "fileSizeText": "706MB",
     "updatedAt": 1774745173334.37,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3132,6 +3642,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Mia Reed 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mia/br/todas-as-cenas/Mia%20Reed%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 1501014676,
+    "fileSizeText": "1.4GB",
     "updatedAt": 1774745183625.4468,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3146,6 +3658,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "A Vida Depois Filme Completo 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Movie/br/completo/A%20Vida%20Depois%20Filme%20Completo%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4810098210,
+    "fileSizeText": "4.5GB",
     "updatedAt": 1774745236810.3625,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3160,6 +3674,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "full",
     "file": "The Fallout Full Movie 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Movie/us/full/The%20Fallout%20Full%20Movie%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4821004948,
+    "fileSizeText": "4.5GB",
     "updatedAt": 1774745211349.8535,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3174,6 +3690,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Nick Feindtein 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick/br/todas-as-cenas/Nick%20Feindtein%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 296694391,
+    "fileSizeText": "283MB",
     "updatedAt": 1774745185656.1665,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3188,6 +3706,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Quinton Hasland 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Quinton/br/todas-as-cenas/Quinton%20Hasland%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 600438273,
+    "fileSizeText": "573MB",
     "updatedAt": 1774745144248.0764,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3202,6 +3722,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Vada Cavell 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vada-Cavell/br/todas-as-cenas/Vada%20Cavell%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 4747123778,
+    "fileSizeText": "4.4GB",
     "updatedAt": 1774745169368.9294,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3216,6 +3738,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Alice Cullen Crepusculo 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Alice-Cullen/br/todas-as-cenas/Alice%20Cullen%20Crepusculo%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 494397426,
+    "fileSizeText": "471MB",
     "updatedAt": 1774751274431.085,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3230,6 +3754,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Bella Swan Crepusculo 1 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bella-Swan/br/todas-as-cenas/Bella%20Swan%20Crepusculo%201%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 5424691111,
+    "fileSizeText": "5.1GB",
     "updatedAt": 1774751271828.884,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3244,6 +3770,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Edward Cullen Crepusculo 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Edwaed-Cullen/br/todas-as-cenas/Edward%20Cullen%20Crepusculo%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 3804289793,
+    "fileSizeText": "3.5GB",
     "updatedAt": 1774751294562.1467,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3258,6 +3786,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "Crepusculo 1 filme completo 1080p @lalascenepacksscp.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme/br/completo/Crepusculo%201%20filme%20completo%201080p%20%40lalascenepacksscp.mp4",
+    "fileSizeBytes": 6291285017,
+    "fileSizeText": "5.9GB",
     "updatedAt": 1774751328617.7646,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3272,6 +3802,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "completo",
     "file": "As Quatro Estacoes do Amor 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Filme/br/completo/As%20Quatro%20Estacoes%20do%20Amor%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 5068812773,
+    "fileSizeText": "4.7GB",
     "updatedAt": 1774747289494.7693,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3286,6 +3818,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "melhores-cenas",
     "file": "Remi Aguilar Melhores Cenas 1080p @lalascenepacks.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi%20Aguilar/br/melhores-cenas/Remi%20Aguilar%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 803494748,
+    "fileSizeText": "766MB",
     "updatedAt": 1774747241548.9358,
     "updatedAtText": "3/28/2026",
     "isMonetized": false
@@ -3300,6 +3834,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "pack": "todas-as-cenas",
     "file": "Remi Aguilar Todas as Cenas @allascps.mp4",
     "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi%20Aguilar/br/todas-as-cenas/Remi%20Aguilar%20Todas%20as%20Cenas%20%40allascps.mp4",
+    "fileSizeBytes": 4094057309,
+    "fileSizeText": "3.8GB",
     "updatedAt": 1774747262907.4792,
     "updatedAtText": "3/28/2026",
     "isMonetized": false

@@ -18,6 +18,16 @@ function formatDate(timestamp) {
   return date.toLocaleDateString("en-US");
 }
 
+function formatBytes(bytes) {
+  if (!bytes || bytes <= 0) return "—";
+
+  const sizes = ["B", "KB", "MB", "GB", "TB"];
+  const i = Math.floor(Math.log(bytes) / Math.log(1024));
+  const value = bytes / Math.pow(1024, i);
+
+  return `${value.toFixed(value >= 10 || i === 0 ? 0 : 1)}${sizes[i]}`;
+}
+
 function formatLabel(value) {
   return value.replaceAll("-", " ");
 }
@@ -91,6 +101,8 @@ function addAnimePacks() {
                 pack,
                 file: pack,
                 href: downloadLinks[slug],
+                fileSizeBytes: 0,
+                fileSizeText: "—",
                 updatedAt: stat.mtimeMs,
                 updatedAtText: formatDate(stat.mtimeMs),
                 isMonetized: true,
@@ -125,6 +137,8 @@ function addAnimePacks() {
     pack,
     file,
   ])}`,
+  fileSizeBytes: fileStat.size,
+  fileSizeText: formatBytes(fileStat.size),
   updatedAt: fileStat.mtimeMs,
   updatedAtText: formatDate(fileStat.mtimeMs),
   isMonetized: false,
@@ -177,6 +191,8 @@ function addSeriesPacks() {
                 pack,
                 file: pack,
                 href: downloadLinks[slug],
+                fileSizeBytes: 0,
+                fileSizeText: "—",
                 updatedAt: stat.mtimeMs,
                 updatedAtText: formatDate(stat.mtimeMs),
                 isMonetized: true,
@@ -211,6 +227,8 @@ function addSeriesPacks() {
     pack,
     file,
   ])}`,
+  fileSizeBytes: fileStat.size,
+  fileSizeText: formatBytes(fileStat.size),
   updatedAt: fileStat.mtimeMs,
   updatedAtText: formatDate(fileStat.mtimeMs),
   isMonetized: false,
@@ -259,6 +277,8 @@ function addMoviePacks() {
               pack,
               file: pack,
               href: downloadLinks[slug],
+              fileSizeBytes: 0,
+              fileSizeText: "—",
               updatedAt: stat.mtimeMs,
               updatedAtText: formatDate(stat.mtimeMs),
               isMonetized: true,
@@ -292,6 +312,8 @@ function addMoviePacks() {
     pack,
     file,
   ])}`,
+  fileSizeBytes: fileStat.size,
+  fileSizeText: formatBytes(fileStat.size),
   updatedAt: fileStat.mtimeMs,
   updatedAtText: formatDate(fileStat.mtimeMs),
   isMonetized: false,
@@ -318,6 +340,8 @@ const fileContent = `export type PackCatalogItem = {
   pack: string;
   file: string;
   href: string;
+  fileSizeBytes: number;
+  fileSizeText: string;
   updatedAt: number;
   updatedAtText: string;
   isMonetized: boolean;

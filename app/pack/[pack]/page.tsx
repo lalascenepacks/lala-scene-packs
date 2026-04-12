@@ -5,6 +5,16 @@ function formatLabel(value: string) {
   return value.replaceAll("-", " ").replace(/\b\w/g, (l) => l.toUpperCase());
 }
 
+function formatBytes(bytes: number) {
+  if (bytes <= 0) return "—";
+
+  const sizes = ["B", "KB", "MB", "GB", "TB"];
+  const i = Math.floor(Math.log(bytes) / Math.log(1024));
+  const value = bytes / Math.pow(1024, i);
+
+  return `${value.toFixed(value >= 10 || i === 0 ? 0 : 1)}${sizes[i]}`;
+}
+
 function normalizeSlug(value: string) {
   return value
     .trim()
@@ -120,9 +130,14 @@ function getPackStatsFromCatalog(decodedPack: string) {
 
   const count = clipFiles.length > 0 ? clipFiles.length : visibleFiles.length;
 
+  const totalBytes = packItems.reduce(
+    (sum, item) => sum + (item.fileSizeBytes || 0),
+    0
+  );
+
   return {
     clipsCount: count > 0 ? String(count) : "—",
-    size: "—",
+    size: totalBytes > 0 ? formatBytes(totalBytes) : "—",
     quality: detectQuality(files.length > 0 ? files : [decodedPack]),
   };
 }
