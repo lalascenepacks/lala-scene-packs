@@ -1,29 +1,25 @@
-import fs from "fs";
-import path from "path";
 import Link from "next/link";
+import { packsCatalog } from "@/app/lib/packsCatalog";
 
 function formatLabel(value: string) {
   return value.replaceAll("-", " ").replace(/\b\w/g, (l) => l.toUpperCase());
 }
 
-function formatBytes(bytes: number) {
-  if (bytes <= 0) return "—";
-
-  const sizes = ["B", "KB", "MB", "GB", "TB"];
-  const i = Math.floor(Math.log(bytes) / Math.log(1024));
-  const value = bytes / Math.pow(1024, i);
-
-  return `${value.toFixed(value >= 10 || i === 0 ? 0 : 1)}${sizes[i]}`;
+function normalizeSlug(value: string) {
+  return value
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/_/g, "-")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-");
 }
 
 function detectQuality(values: string[]) {
   const text = values.join(" ").toLowerCase();
 
-  if (
-    text.includes("4k") ||
-    text.includes("2160p") ||
-    text.includes("uhd")
-  ) {
+  if (text.includes("4k") || text.includes("2160p") || text.includes("uhd")) {
     return "4K";
   }
 
@@ -84,64 +80,25 @@ function parsePackSlug(decodedPack: string) {
   };
 }
 
-function findPackDirectory(decodedPack: string) {
-  const root = path.join(process.cwd(), "public", "downloads");
-  const categories = ["animes", "series", "movies"];
+function getPackItems(decodedPack: string) {
+  const normalizedSlug = normalizeSlug(decodedPack);
 
-  for (const category of categories) {
-    const categoryPath = path.join(root, category);
-    if (!fs.existsSync(categoryPath)) continue;
+  return packsCatalog.filter((item) => {
+    const itemSlug =
+      item.mediaType === "movie"
+        ? normalizeSlug(`${item.character}-${item.language}--${item.pack}`)
+        : normalizeSlug(
+            `${item.character}-${item.language}-${item.season}-${item.pack}`
+          );
 
-    const stack = [categoryPath];
-
-    while (stack.length > 0) {
-      const current = stack.pop();
-      if (!current) continue;
-
-      const entries = fs.readdirSync(current, { withFileTypes: true });
-
-      for (const entry of entries) {
-        if (!entry.isDirectory()) continue;
-
-        const fullPath = path.join(current, entry.name);
-        const relativeParts = path.relative(categoryPath, fullPath).split(path.sep);
-
-        if (category === "movies" && relativeParts.length === 4) {
-          const [, character, language, pack] = relativeParts;
-          const slug = `${character}-${language}--${pack}`;
-
-          if (slug.toLowerCase() === decodedPack.toLowerCase()) {
-            return {
-              category,
-              itemName: relativeParts[0],
-              packPath: fullPath,
-            };
-          }
-        }
-
-        if ((category === "animes" || category === "series") && relativeParts.length === 5) {
-          const [, character, language, season, pack] = relativeParts;
-          const slug = `${character}-${language}-${season}-${pack}`;
-
-          if (slug.toLowerCase() === decodedPack.toLowerCase()) {
-            return {
-              category,
-              itemName: relativeParts[0],
-              packPath: fullPath,
-            };
-          }
-        }
-
-        stack.push(fullPath);
-      }
-    }
-  }
-
-  return null;
+    return itemSlug === normalizedSlug;
+  });
 }
 
-function getPackStats(packPath: string | null, decodedPack: string) {
-  if (!packPath || !fs.existsSync(packPath)) {
+function getPackStatsFromCatalog(decodedPack: string) {
+  const packItems = getPackItems(decodedPack);
+
+  if (packItems.length === 0) {
     return {
       clipsCount: "—",
       size: "—",
@@ -149,26 +106,7 @@ function getPackStats(packPath: string | null, decodedPack: string) {
     };
   }
 
-  const files: string[] = [];
-  let totalBytes = 0;
-
-  function walk(currentPath: string) {
-    const entries = fs.readdirSync(currentPath, { withFileTypes: true });
-
-    for (const entry of entries) {
-      const fullPath = path.join(currentPath, entry.name);
-
-      if (entry.isDirectory()) {
-        walk(fullPath);
-      } else if (entry.isFile()) {
-        files.push(entry.name);
-        totalBytes += fs.statSync(fullPath).size;
-      }
-    }
-  }
-
-  walk(packPath);
-
+  const files = packItems.map((item) => item.file);
   const clipFiles = files.filter((file) => file.toLowerCase().endsWith(".mp4"));
   const visibleFiles = files.filter((file) => {
     const lower = file.toLowerCase();
@@ -184,7 +122,7 @@ function getPackStats(packPath: string | null, decodedPack: string) {
 
   return {
     clipsCount: count > 0 ? String(count) : "—",
-    size: formatBytes(totalBytes),
+    size: "—",
     quality: detectQuality(files.length > 0 ? files : [decodedPack]),
   };
 }
@@ -198,9 +136,7 @@ export default async function PackPage({
   const decodedPack = decodeURIComponent(pack);
 
   const { character, language, season, packType } = parsePackSlug(decodedPack);
-
-  const packDirData = findPackDirectory(decodedPack);
-  const stats = getPackStats(packDirData?.packPath ?? null, decodedPack);
+  const stats = getPackStatsFromCatalog(decodedPack);
 
   const hasPreview = decodedPack.toLowerCase().includes("megumi");
 
@@ -309,11 +245,11 @@ export default async function PackPage({
           }}
         >
           {[
-  { label: "Clips", value: stats.clipsCount },
-  { label: "Quality", value: stats.quality },
-  { label: "Language", value: language },
-  { label: "Size", value: stats.size },
-].map((item) => (
+            { label: "Clips", value: stats.clipsCount },
+            { label: "Quality", value: stats.quality },
+            { label: "Language", value: language },
+            { label: "Size", value: stats.size },
+          ].map((item) => (
             <div
               key={item.label}
               style={{
@@ -350,31 +286,31 @@ export default async function PackPage({
         </div>
 
         <div
-  style={{
-    display: "grid",
-    gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
-    gap: "12px",
-    marginBottom: "30px",
-  }}
->
-  <Link
-  href={`/download/${encodeURIComponent(decodedPack)}`}
-  className="uiBtn uiBtnPrimary actionCard"
->
-  <span className="actionLabel">Action</span>
-  <span className="actionTitle">Download Pack</span>
-</Link>
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+            gap: "12px",
+            marginBottom: "30px",
+          }}
+        >
+          <Link
+            href={`/download/${encodeURIComponent(decodedPack)}`}
+            className="uiBtn uiBtnPrimary actionCard"
+          >
+            <span className="actionLabel">Action</span>
+            <span className="actionTitle">Download Pack</span>
+          </Link>
 
-<a
-  href="https://discord.gg/p6U9HSCx"
-  target="_blank"
-  rel="noreferrer"
-  className="uiBtn uiBtnGhost actionCard"
->
-  <span className="actionLabel">Community</span>
-  <span className="actionTitle">Discord</span>
-</a>
-</div>
+          <a
+            href="https://discord.gg/p6U9HSCx"
+            target="_blank"
+            rel="noreferrer"
+            className="uiBtn uiBtnGhost actionCard"
+          >
+            <span className="actionLabel">Community</span>
+            <span className="actionTitle">Discord</span>
+          </a>
+        </div>
 
         <div
           style={{
