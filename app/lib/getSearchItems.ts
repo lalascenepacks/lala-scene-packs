@@ -120,6 +120,19 @@ function getAliases(slug: string, type: "anime" | "series" | "movie") {
       "millers girl",
       "a garota de miller",
       "garota de miller",
+      "jenna ortega",
+    ],
+
+    "movie:tangled": [
+      "enrolados",
+      "rapunzel",
+      "raponzel",
+    ],
+
+     "series:euphoria": [
+      "euphoria",
+      "rapunzel",
+      "raponzel",
     ],
   };
 

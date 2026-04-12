@@ -42,3 +42,5 @@ next-env.d.ts
 
 public/downloads
 public/preview
+.vercel
+.env*.local
