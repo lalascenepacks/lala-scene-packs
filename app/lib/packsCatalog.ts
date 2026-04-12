@@ -807,7 +807,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
     "file": "Sukuna 03x02 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/animes/jujutsu-kaisen/Ryomen-Sukuna/br/Temporada-3/todas-as-cenas/Sukuna 03x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ryomen-Sukuna/br/Temporada-3/todas-as-cenas/Sukuna 03x02 @lalascenepacks 1080p.mp4",
     "updatedAt": 1771015630809.3027,
     "updatedAtText": "2/13/2026",
     "isMonetized": false
@@ -1073,7 +1073,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x01 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x01 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775951046561.6863,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1087,7 +1087,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x02 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x02 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x02 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952343340.3271,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1101,7 +1101,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Maddy Perez 01x03 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x03 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy Perez 01x03 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952777883.51,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1115,7 +1115,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x01 Todas As Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x01 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x01 Todas As Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775951005554.3652,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1129,7 +1129,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x02 Todas As Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x02 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x02 Todas As Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952314040.4443,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1143,7 +1143,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Maddy Perez 01x03 Todas As Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x03 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy Perez 01x03 Todas As Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952993600.2773,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1157,7 +1157,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "all-scenes",
     "file": "Maddy Perez 01x01 All Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x01 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x01 All Scenes 1080p @lalascenepacks.mp4",
     "updatedAt": 1775951279801.5547,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1171,7 +1171,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "all-scenes",
     "file": "Maddy Perez 01x02 All Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x02 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x02 All Scenes 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952649092.6409,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1185,7 +1185,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "all-scenes",
     "file": "Maddy Perez 01x03 All Scenes 1080p @lalascenepacks_1.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x03 All Scenes 1080p @lalascenepacks_1.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy Perez 01x03 All Scenes 1080p @lalascenepacks_1.mp4",
     "updatedAt": 1775955358785.3472,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1199,7 +1199,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "best-scenes",
     "file": "Maddy Perez 01x01 Best Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x01 Best Scenes 1080p @lalascenepacks.mp4",
     "updatedAt": 1775951310520.1196,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1213,7 +1213,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "best-scenes",
     "file": "Maddy Perez 01x02 Best Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x02 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x02 Best Scenes 1080p @lalascenepacks.mp4",
     "updatedAt": 1775952673142.8013,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1227,7 +1227,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Season-1",
     "pack": "best-scenes",
     "file": "Maddy Perez 01x03 Best Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/euphoria/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x03 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy Perez 01x03 Best Scenes 1080p @lalascenepacks.mp4",
     "updatedAt": 1775955381000.4666,
     "updatedAtText": "4/11/2026",
     "isMonetized": false
@@ -1241,7 +1241,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x01 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x01 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x01 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768099308748.3408,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1255,7 +1255,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x02 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x02 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768099701152.236,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1269,7 +1269,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x03 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x03 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x03 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768100065189.6382,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1283,7 +1283,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x04 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x04 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x04 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768100389518.3906,
     "updatedAtText": "1/10/2026",
     "isMonetized": false
@@ -1297,7 +1297,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x05 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x05 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x05 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768261111080.7842,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1311,7 +1311,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x06 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x06 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x06 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768262300826.2,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1325,7 +1325,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x07 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x07 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x07 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768262676793.9167,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1339,7 +1339,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x08 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x08 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x08 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768263128051.012,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1353,7 +1353,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x09 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x09 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x09 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768263459775.759,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1367,7 +1367,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "ep-completo",
     "file": "kakegurui 01x10 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/episodios/br/Temporada-1/ep-completo/kakegurui 01x10 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/episodios/br/Temporada-1/ep-completo/kakegurui 01x10 @lalascenepacks 1080p.mp4",
     "updatedAt": 1768263720671.3188,
     "updatedAtText": "1/12/2026",
     "isMonetized": false
@@ -1381,7 +1381,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768792839002.3274,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1395,7 +1395,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "yumeko 01x02 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/yumeko 01x02 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko 01x02 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768793857526.4885,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1409,7 +1409,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x03 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x03 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x03 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768795241874.5112,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1423,7 +1423,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x04 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x04 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x04 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768796209243.1443,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1437,7 +1437,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x05 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x05 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x05 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768796873488.324,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1451,7 +1451,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x06 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x06 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x06 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768797882011.6587,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1465,7 +1465,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x07 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x07 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x07 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768839267315.1328,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1479,7 +1479,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x08 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x08 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x08 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768840756249.7588,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1493,7 +1493,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "yumeko 01x09 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/yumeko 01x09 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko 01x09 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768843090316.0586,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1507,7 +1507,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Yumeko 01x10 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x10 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/Yumeko 01x10 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768844634220.668,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1521,7 +1521,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "yumeko melhores cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/melhores-cenas/yumeko melhores cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/yumeko melhores cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1768857817964.838,
     "updatedAtText": "1/19/2026",
     "isMonetized": false
@@ -1535,7 +1535,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x01 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x01 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x01 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768360207463.7327,
     "updatedAtText": "1/13/2026",
     "isMonetized": false
@@ -1549,7 +1549,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "yumeko 01x02 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/yumeko 01x02 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/yumeko 01x02 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768762798915.1956,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1563,7 +1563,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x03 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x03 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x03 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768764524131.3381,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1577,7 +1577,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x04 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x04 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x04 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768766678576.3699,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1591,7 +1591,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x05 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x05 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x05 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768771054123.485,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1605,7 +1605,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x06 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x06 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x06 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768773103972.5369,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1619,7 +1619,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x07 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x07 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x07 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768779310676.2441,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1633,7 +1633,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x08 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x08 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x08 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768781554202.2434,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1647,7 +1647,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "yumeko 01x09 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/yumeko 01x09 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/yumeko 01x09 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768784906158.6965,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1661,7 +1661,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Yumeko 01x10 Todas As Cenas @allaeditsscp.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/kakegurui/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x10 Todas As Cenas @allaeditsscp.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko 01x10 Todas As Cenas @allaeditsscp.mp4",
     "updatedAt": 1768787971809.482,
     "updatedAtText": "1/18/2026",
     "isMonetized": false
@@ -1675,7 +1675,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Jj Maybank 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/outer-banks/Jj-Maybank/br/Temporada-1/melhores-cenas/Jj Maybank 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/melhores-cenas/Jj Maybank 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1773431228252.9216,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -1689,7 +1689,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Jj Maybank 01x01 Todas As Cenas @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/outer-banks/Jj-Maybank/br/Temporada-1/todas-as-cenas/Jj Maybank 01x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/todas-as-cenas/Jj Maybank 01x01 Todas As Cenas @lalascenepacks 1080p.mp4",
     "updatedAt": 1773431237743.1443,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -1703,7 +1703,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "067 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/067/br/Temporada-1/melhores-cenas/067 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/melhores-cenas/067 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774401378921.6382,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1717,7 +1717,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "067 Todas Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/067/br/Temporada-1/todas-as-cenas/067 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/todas-as-cenas/067 Todas Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401393213.231,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1731,7 +1731,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "melhores-cenas",
     "file": "222 Melhores Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/222/br/Temporada-2/melhores-cenas/222 Melhores Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/melhores-cenas/222 Melhores Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401555072.099,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1745,7 +1745,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "222 Todas Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/222/br/Temporada-2/todas-as-cenas/222 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/todas-as-cenas/222 Todas Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401552811.8848,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1759,7 +1759,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "240 Todas Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/240/br/Temporada-1/todas-as-cenas/240 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/240/br/Temporada-1/todas-as-cenas/240 Todas Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401546932.037,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1773,7 +1773,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "456 melhores cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/456/br/Temporada-1/melhores-cenas/456 melhores cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/melhores-cenas/456 melhores cenas @lalascenepacks.mp4",
     "updatedAt": 1774401468016.6782,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1787,7 +1787,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "456 Todas Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/456/br/Temporada-1/todas-as-cenas/456 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/todas-as-cenas/456 Todas Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401463880.6245,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1801,7 +1801,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Front Man Melhores Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/Front Man/br/Temporada-1/melhores-cenas/Front Man Melhores Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front Man/br/Temporada-1/melhores-cenas/Front Man Melhores Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401368235.848,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1815,7 +1815,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Front Man Todas Cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/Front Man/br/Temporada-1/todas-as-cenas/Front Man Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front Man/br/Temporada-1/todas-as-cenas/Front Man Todas Cenas @lalascenepacks.mp4",
     "updatedAt": 1774401375834.4226,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1829,7 +1829,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Hwang Jun-ho melhores cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/Hwang Jun-ho/br/Temporada-1/melhores-cenas/Hwang Jun-ho melhores cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang Jun-ho/br/Temporada-1/melhores-cenas/Hwang Jun-ho melhores cenas @lalascenepacks.mp4",
     "updatedAt": 1774401542481.1082,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1843,7 +1843,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Hwang Jun-ho todas cenas @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/Hwang Jun-ho/br/Temporada-1/todas-as-cenas/Hwang Jun-ho todas cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang Jun-ho/br/Temporada-1/todas-as-cenas/Hwang Jun-ho todas cenas @lalascenepacks.mp4",
     "updatedAt": 1774401538733.4849,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1857,7 +1857,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "vendedor s1 @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/squid-game/Salesman/br/Temporada-1/todas-as-cenas/vendedor s1 @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Salesman/br/Temporada-1/todas-as-cenas/vendedor s1 @lalascenepacks.mp4",
     "updatedAt": 1774401395670.5964,
     "updatedAtText": "3/24/2026",
     "isMonetized": false
@@ -1871,7 +1871,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x1 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x1 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x1 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665360787.3872,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1885,7 +1885,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x2 1080p @lalascenepacks(1).mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x2 1080p @lalascenepacks(1).mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x2 1080p @lalascenepacks(1).mp4",
     "updatedAt": 1774665428239.1726,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1899,7 +1899,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x3 1080p @lalascenepacks(1).mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x3 1080p @lalascenepacks(1).mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x3 1080p @lalascenepacks(1).mp4",
     "updatedAt": 1774665324441.3687,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1913,7 +1913,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x4 1080p @lalascenepacks(1).mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x4 1080p @lalascenepacks(1).mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x4 1080p @lalascenepacks(1).mp4",
     "updatedAt": 1774665382416.9824,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1927,7 +1927,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x5 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x5 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x5 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665291309.7896,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1941,7 +1941,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x6 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x6 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x6 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665343284.6216,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1955,7 +1955,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x7 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x7 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x7 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665307376.189,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1969,7 +1969,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todos-os-eps",
     "file": "Stranger Things 5x8 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x8 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Episodios/br/Temporada-5/todos-os-eps/Stranger Things 5x8 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665414439.0366,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1983,7 +1983,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Holly Wheeler 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Holly-Wheeler/br/Temporada-5/todas-as-cenas/Holly Wheeler 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Holly-Wheeler/br/Temporada-5/todas-as-cenas/Holly Wheeler 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665435497.337,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -1997,7 +1997,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Karen Wheeler 05x01-02 Todas as Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Karen-Wheeler/br/Temporada-5/todas-as-cenas/Karen Wheeler 05x01-02 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Karen-Wheeler/br/Temporada-5/todas-as-cenas/Karen Wheeler 05x01-02 Todas as Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665454256.8977,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2011,7 +2011,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "melhores-cenas",
     "file": "Max 05x04-07 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Max-Mayfield/br/Temporada-5/melhores-cenas/Max 05x04-07 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/melhores-cenas/Max 05x04-07 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665259221.8633,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2025,7 +2025,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Max 05x04-07 Todas as Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Max-Mayfield/br/Temporada-5/todas-as-cenas/Max 05x04-07 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/todas-as-cenas/Max 05x04-07 Todas as Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665274644.4905,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2039,7 +2039,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Mike Wheeler 05x01-04 Todas as cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Mike-Wheeler/br/Temporada-5/todas-as-cenas/Mike Wheeler 05x01-04 Todas as cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mike-Wheeler/br/Temporada-5/todas-as-cenas/Mike Wheeler 05x01-04 Todas as cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665444143.319,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2053,7 +2053,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Robin 05x01-04 todas as cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Robin-Buckley/br/Temporada-5/todas-as-cenas/Robin 05x01-04 todas as cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Robin-Buckley/br/Temporada-5/todas-as-cenas/Robin 05x01-04 todas as cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665451709.5693,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2067,7 +2067,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Steve temporada 1 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Steve-Harrington/br/Temporada-1/todas-as-cenas/Steve temporada 1 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-1/todas-as-cenas/Steve temporada 1 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665472762.9592,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2081,7 +2081,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Steve 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665460792.004,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2095,7 +2095,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Steve 05x05-08 Todas As Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve 05x05-08 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve 05x05-08 Todas As Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665465528.541,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2109,7 +2109,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "melhores-cenas",
     "file": "Will Byers 05x01-04 Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Will-Byers/br/Temporada-5/melhores-cenas/Will Byers 05x01-04 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/melhores-cenas/Will Byers 05x01-04 Melhores Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665489321.6914,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2123,7 +2123,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
     "file": "Will Byers 05x01-04 Todas As Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/stranger-things/Will-Byers/br/Temporada-5/todas-as-cenas/Will Byers 05x01-04 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/todas-as-cenas/Will Byers 05x01-04 Todas As Cenas 1080p @lalascenepacks.mp4",
     "updatedAt": 1774665486344.5847,
     "updatedAtText": "3/27/2026",
     "isMonetized": false
@@ -2137,7 +2137,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x01-07 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/the-vampire-diaries/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x01-07 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x01-07 1080p @lalascenepacks.mp4",
     "updatedAt": 1774487584647.9485,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2151,7 +2151,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x08-13 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/the-vampire-diaries/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x08-13 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x08-13 1080p @lalascenepacks.mp4",
     "updatedAt": 1774487607122.1162,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2165,7 +2165,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Damon Salvatore 01x14-22 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/the-vampire-diaries/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x14-22 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon Salvatore 01x14-22 1080p @lalascenepacks.mp4",
     "updatedAt": 1774487643086.1719,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2179,7 +2179,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "01x07 Halloween Melhores Cenas.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/the-vampire-diaries/ep-7/br/Temporada-1/melhores-cenas/01x07 Halloween Melhores Cenas.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/melhores-cenas/01x07 Halloween Melhores Cenas.mp4",
     "updatedAt": 1774487561701.8672,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2193,7 +2193,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "S1 Ep 7 Completo - Assombrados @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/the-vampire-diaries/ep-7/br/Temporada-1/todas-as-cenas/S1 Ep 7 Completo - Assombrados @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/todas-as-cenas/S1 Ep 7 Completo - Assombrados @lalascenepacks.mp4",
     "updatedAt": 1774487558085.7634,
     "updatedAtText": "3/25/2026",
     "isMonetized": false
@@ -2207,7 +2207,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Agnes @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417106035.2156,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2221,7 +2221,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Agnes Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417102493.642,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2235,7 +2235,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Ajax @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417146272.1638,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2249,7 +2249,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Ajax Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417143611.1113,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2263,7 +2263,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Bianca @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417170152.5337,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2277,7 +2277,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Bianca Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417166164.6917,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2291,7 +2291,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Bruno @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417073329.8706,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2305,7 +2305,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Bruno Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417075001.3704,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2319,7 +2319,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Dra. Rachael Farburn @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Dra.-Rachael-Fairbun/br/Temporada-2/todas-as-cenas/Dra. Rachael Farburn @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Dra.-Rachael-Fairbun/br/Temporada-2/todas-as-cenas/Dra. Rachael Farburn @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417110484.068,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2333,7 +2333,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "Enid-no-corpo-da-Wandinha",
     "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Enid-Sinclair/br/Temporada-2/Enid-no-corpo-da-Wandinha/Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Enid-no-corpo-da-Wandinha/Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417272470.9521,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2347,7 +2347,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Enid Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417280771.911,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2361,7 +2361,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Enid Sinclair @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid Sinclair @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid Sinclair @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417290818.4224,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2375,7 +2375,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "Wandinha-no-corpo-da-Enid",
     "file": "Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Enid-Sinclair/br/Temporada-2/Wandinha-no-corpo-da-Enid/Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Wandinha-no-corpo-da-Enid/Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417265695.4236,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2389,7 +2389,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Eugene @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417150526.0579,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2403,7 +2403,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Eugene Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417147263.8225,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2417,7 +2417,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Jovem Gomez @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Gomez-Addams/br/Temporada-1/todas-as-cenas/Jovem Gomez @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Gomez-Addams/br/Temporada-1/todas-as-cenas/Jovem Gomez @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417181057.944,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2431,7 +2431,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Goody Addams @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Goody-Addams/br/Temporada-1/todas-as-cenas/Goody Addams @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Goody-Addams/br/Temporada-1/todas-as-cenas/Goody Addams @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417107229.4937,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2445,7 +2445,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Isaac Night Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Isaac-Night-(slurp)/br/Temporada-2/todas-as-cenas/Isaac Night Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isaac-Night-(slurp)/br/Temporada-2/todas-as-cenas/Isaac Night Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417161818.8289,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2459,7 +2459,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Isadora Capri @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora Capri @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora Capri @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417173396.3198,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2473,7 +2473,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Isadora Capri Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora Capri Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora Capri Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417175779.5999,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2487,7 +2487,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Larissa Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Larissa-Weems/br/Temporada-2/todas-as-cenas/Larissa Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Larissa-Weems/br/Temporada-2/todas-as-cenas/Larissa Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417080842.9783,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2501,7 +2501,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Maozinha Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Maozinha/br/Temporada-2/todas-as-cenas/Maozinha Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maozinha/br/Temporada-2/todas-as-cenas/Maozinha Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417096584.7046,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2515,7 +2515,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Morticia @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Mortícia-Addams/br/Temporada-2/todas-as-cenas/Morticia @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mortícia-Addams/br/Temporada-2/todas-as-cenas/Morticia @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417130752.5852,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2529,7 +2529,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Morticia Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Mortícia-Addams/br/Temporada-2/todas-as-cenas/Morticia Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mortícia-Addams/br/Temporada-2/todas-as-cenas/Morticia Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417122001.5159,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2543,7 +2543,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Pugsley @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417141429.1128,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2557,7 +2557,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Pugsley Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417136696.1929,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2571,7 +2571,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Rosaline Rotwood @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Rosaline-Rotwood/br/Temporada-2/todas-as-cenas/Rosaline Rotwood @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rosaline-Rotwood/br/Temporada-2/todas-as-cenas/Rosaline Rotwood @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417111630.9543,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2585,7 +2585,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Tyler Parte 1 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler Parte 1 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417091860.1538,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2599,7 +2599,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Tyler Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417089356.5479,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2613,7 +2613,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Hester Parte 1 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Vovó-Addams/br/Temporada-2/todas-as-cenas/Hester Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vovó-Addams/br/Temporada-2/todas-as-cenas/Hester Parte 1 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417171602.5293,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2627,7 +2627,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Hester Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Vovó-Addams/br/Temporada-2/todas-as-cenas/Hester Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vovó-Addams/br/Temporada-2/todas-as-cenas/Hester Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773421644712.4636,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2641,7 +2641,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417191324.1948,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2655,7 +2655,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha Melhores Cenas Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha Melhores Cenas Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417186139.7373,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2669,7 +2669,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 1 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773420217150.6306,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2683,7 +2683,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773420189400.3672,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2697,7 +2697,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 3 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 3 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 3 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773420224134.1814,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2711,7 +2711,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
     "file": "Wandinha Todas Cenas Parte 4 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 4 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha Todas Cenas Parte 4 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773420214829.9297,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2725,7 +2725,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "melhores-cenas",
     "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/melhores-cenas/Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/melhores-cenas/Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417260918.218,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2739,7 +2739,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "mudança-de-corpos",
     "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/mudança-de-corpos/Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/mudança-de-corpos/Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417255252.1196,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2753,7 +2753,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "mudança-de-corpos",
     "file": "Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/mudança-de-corpos/Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/mudança-de-corpos/Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417248482.628,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2767,7 +2767,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 1-2 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 1-2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 1-2 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417221514.3018,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2781,7 +2781,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 3-4 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 3-4 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 3-4 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417203860.495,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
@@ -2795,7 +2795,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "Wandinha S2 5-8 @lalascenepacks 1080p.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/series/wednesday/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 5-8 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha S2 5-8 @lalascenepacks 1080p.mp4",
     "updatedAt": 1773417243711.7922,
     "updatedAtText": "3/13/2026",
     "isMonetized": false
