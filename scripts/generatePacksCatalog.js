@@ -22,6 +22,10 @@ function formatLabel(value) {
   return value.replaceAll("-", " ");
 }
 
+function encodePathParts(parts) {
+  return parts.map((part) => encodeURIComponent(part)).join("/");
+}
+
 function loadDownloadLinks() {
   const filePath = path.join(process.cwd(), "app", "lib", "downloadLinks.ts");
   const content = fs.readFileSync(filePath, "utf8");
@@ -106,19 +110,25 @@ function addAnimePacks() {
                 const fileStat = fs.statSync(filePath);
 
                 items.push({
-                  mediaType: "anime",
-                  mediaSlug: anime,
-                  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                  character,
-                  language,
-                  season,
-                  pack,
-                  file,
-                  href: `${R2_PUBLIC_BASE_URL}/${character}/${language}/${season}/${pack}/${file}`,
-                  updatedAt: fileStat.mtimeMs,
-                  updatedAtText: formatDate(fileStat.mtimeMs),
-                  isMonetized: false,
-                });
+  mediaType: "anime",
+  mediaSlug: anime,
+  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+  character,
+  language,
+  season,
+  pack,
+  file,
+  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+    character,
+    language,
+    season,
+    pack,
+    file,
+  ])}`,
+  updatedAt: fileStat.mtimeMs,
+  updatedAtText: formatDate(fileStat.mtimeMs),
+  isMonetized: false,
+});
               }
             }
           }
@@ -186,19 +196,25 @@ function addSeriesPacks() {
                 const fileStat = fs.statSync(filePath);
 
                 items.push({
-                  mediaType: "series",
-                  mediaSlug: serie,
-                  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                  character,
-                  language,
-                  season,
-                  pack,
-                  file,
-                  href: `${R2_PUBLIC_BASE_URL}/${character}/${language}/${season}/${pack}/${file}`,
-                  updatedAt: fileStat.mtimeMs,
-                  updatedAtText: formatDate(fileStat.mtimeMs),
-                  isMonetized: false,
-                });
+  mediaType: "series",
+  mediaSlug: serie,
+  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+  character,
+  language,
+  season,
+  pack,
+  file,
+  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+    character,
+    language,
+    season,
+    pack,
+    file,
+  ])}`,
+  updatedAt: fileStat.mtimeMs,
+  updatedAtText: formatDate(fileStat.mtimeMs),
+  isMonetized: false,
+});
               }
             }
           }
@@ -262,19 +278,24 @@ function addMoviePacks() {
               const fileStat = fs.statSync(filePath);
 
               items.push({
-                mediaType: "movie",
-                mediaSlug: movie,
-                title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                character,
-                language,
-                season: "",
-                pack,
-                file,
-                href: `${R2_PUBLIC_BASE_URL}/movies/${movie}/${character}/${language}/${pack}/${file}`,
-                updatedAt: fileStat.mtimeMs,
-                updatedAtText: formatDate(fileStat.mtimeMs),
-                isMonetized: false,
-              });
+  mediaType: "movie",
+  mediaSlug: movie,
+  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+  character,
+  language,
+  season: "",
+  pack,
+  file,
+  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+    character,
+    language,
+    pack,
+    file,
+  ])}`,
+  updatedAt: fileStat.mtimeMs,
+  updatedAtText: formatDate(fileStat.mtimeMs),
+  isMonetized: false,
+});
             }
           }
         }
