@@ -1,0 +1,1 @@
+export const R2_PUBLIC_BASE_URL = "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev";

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const R2_PUBLIC_BASE_URL = "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev";
 
 function normalizeSlug(value) {
   return value
@@ -85,7 +86,7 @@ function addAnimePacks() {
                 season,
                 pack,
                 file: pack,
-                href: `/downloads/animes/${anime}/${character}/${language}/${season}/${pack}`,
+                href: downloadLinks[slug],
                 updatedAt: stat.mtimeMs,
                 updatedAtText: formatDate(stat.mtimeMs),
                 isMonetized: true,
@@ -113,7 +114,7 @@ function addAnimePacks() {
                   season,
                   pack,
                   file,
-                  href: `/downloads/animes/${anime}/${character}/${language}/${season}/${pack}/${file}`,
+                  href: `${R2_PUBLIC_BASE_URL}/animes/${anime}/${character}/${language}/${season}/${pack}/${file}`,
                   updatedAt: fileStat.mtimeMs,
                   updatedAtText: formatDate(fileStat.mtimeMs),
                   isMonetized: false,
@@ -165,7 +166,7 @@ function addSeriesPacks() {
                 season,
                 pack,
                 file: pack,
-                href: `/downloads/series/${serie}/${character}/${language}/${season}/${pack}`,
+                href: downloadLinks[slug],
                 updatedAt: stat.mtimeMs,
                 updatedAtText: formatDate(stat.mtimeMs),
                 isMonetized: true,
@@ -193,7 +194,7 @@ function addSeriesPacks() {
                   season,
                   pack,
                   file,
-                  href: `/downloads/series/${serie}/${character}/${language}/${season}/${pack}/${file}`,
+                  href: `${R2_PUBLIC_BASE_URL}/series/${serie}/${character}/${language}/${season}/${pack}/${file}`,
                   updatedAt: fileStat.mtimeMs,
                   updatedAtText: formatDate(fileStat.mtimeMs),
                   isMonetized: false,
@@ -241,7 +242,7 @@ function addMoviePacks() {
               season: "",
               pack,
               file: pack,
-              href: `/downloads/movies/${movie}/${character}/${language}/${pack}`,
+              href: downloadLinks[slug],
               updatedAt: stat.mtimeMs,
               updatedAtText: formatDate(stat.mtimeMs),
               isMonetized: true,
@@ -269,7 +270,7 @@ function addMoviePacks() {
                 season: "",
                 pack,
                 file,
-                href: `/downloads/movies/${movie}/${character}/${language}/${pack}/${file}`,
+                href: `${R2_PUBLIC_BASE_URL}/movies/${movie}/${character}/${language}/${pack}/${file}`,
                 updatedAt: fileStat.mtimeMs,
                 updatedAtText: formatDate(fileStat.mtimeMs),
                 isMonetized: false,
