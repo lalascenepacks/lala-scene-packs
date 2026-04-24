@@ -1224,13 +1224,13 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "Maddy Perez Melhores Cenas 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
-    "fileSizeBytes": 720980299,
-    "fileSizeText": "688MB",
-    "updatedAt": 1776051549334.6924,
-    "updatedAtText": "4/12/2026",
-    "isMonetized": false
+    "file": "melhores-cenas",
+    "href": "https://lootdest.org/s?MQZthTLp",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
+    "updatedAt": 1776279930102.1597,
+    "updatedAtText": "4/15/2026",
+    "isMonetized": true
   },
   {
     "mediaType": "series",
@@ -2878,6 +2878,22 @@ export const packsCatalog: PackCatalogItem[] = [
     "fileSizeText": "4.7GB",
     "updatedAt": 1776377655400.9001,
     "updatedAtText": "4/16/2026",
+    "isMonetized": false
+  },
+  {
+    "mediaType": "movie",
+    "mediaSlug": "shes-the-man",
+    "title": "Duke Orsino - best scenes",
+    "character": "Duke-Orsino",
+    "language": "us",
+    "season": "",
+    "pack": "best-scenes",
+    "file": "Duke Orsino Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Duke-Orsino/us/best-scenes/Duke%20Orsino%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
+    "fileSizeBytes": 937364392,
+    "fileSizeText": "894MB",
+    "updatedAt": 1776638366757.1506,
+    "updatedAtText": "4/19/2026",
     "isMonetized": false
   },
   {

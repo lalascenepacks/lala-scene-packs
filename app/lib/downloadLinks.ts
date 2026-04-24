@@ -83,6 +83,9 @@ export const downloadLinks: Record<string, string> = {
   "Kirara-Hoshi-jp-season-3-all-scenes":
     "https://lootdest.org/s?Cu96SYyr",
 
+  "Maddy-Perez-br-Temporada-1-melhores-cenas":
+    "https://lootdest.org/s?MQZthTLp",
+
   "Mai-Zenin-br-Temporada-3-todas-as-cenas":
     "https://loot-link.com/s?ctc4B7p5",
 
