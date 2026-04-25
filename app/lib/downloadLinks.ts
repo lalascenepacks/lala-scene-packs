@@ -86,6 +86,7 @@ export const downloadLinks: Record<string, string> = {
   "larissa-weems-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?Q3GcnNyN",
   "lexi-howard-br-temporada-3-melhores-cenas": "https://lootdest.org/s?HdQzvSDx",
   "lexi-howard-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?bLoP1xOh",
+  "lexi-howard-us-season-3-all-scenes": "https://lootdest.org/s?IdTXybPs",
   "lexi-howard-us-season-3-best-scenes": "https://loot-link.com/s?Vgx6hrld",
   "maddy-perez-br-temporada-1-melhores-cenas": "https://lootdest.org/s?MQZthTLp",
   "maddy-perez-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?IxxXX5jq",

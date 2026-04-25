@@ -1384,13 +1384,13 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "Lexi Howard 03x01 All Scenes 1080p @lalascenepacks.mp4",
-    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Lexi-Howard/us/Season-3/all-scenes/Lexi%20Howard%2003x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
-    "fileSizeBytes": 672454601,
-    "fileSizeText": "641MB",
-    "updatedAt": 1777070811856.2478,
+    "file": "all-scenes",
+    "href": "https://lootdest.org/s?IdTXybPs",
+    "fileSizeBytes": 0,
+    "fileSizeText": "—",
+    "updatedAt": 1777070811779.2112,
     "updatedAtText": "4/24/2026",
-    "isMonetized": false
+    "isMonetized": true
   },
   {
     "mediaType": "series",

@@ -197,9 +197,9 @@ export default function HomeFilter({
       <div
         className="filterTopBarResponsive"
         style={{
-          position: "fixed",
-          top: "470px",
-          right: "290px",
+          position: "absolute",
+          top: "40px",
+          right: "0px",
           zIndex: 40,
           display: "flex",
           justifyContent: "flex-end",

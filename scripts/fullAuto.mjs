@@ -9,9 +9,6 @@ function run(command) {
 }
 
 try {
-  // 1. Upload para R2
-  run("node --env-file=.env.local scripts/uploadR2.mjs");
-
   // 2. Gerar catalog
   run("node --env-file=.env.local scripts/generatePacksCatalog.js");
 
@@ -26,7 +23,7 @@ try {
   run('git commit -m "auto update packs"');
   run("git push");
 
-  console.log("\n🚀 FULL AUTO COMPLETO 🚀");
+  console.log("\n🚀 FULL AUTO COMPLETO SEM UPLOAD R2🚀");
 } catch (err) {
   console.error("ERRO NO FULL AUTO:", err);
 }
