@@ -10,7 +10,7 @@ function run(command) {
 
 try {
   // 1. Upload para R2
-  run("node --env-file=.env.local scripts/uploadToR2.mjs");
+  run("node --env-file=.env.local scripts/uploadR2.mjs");
 
   // 2. Gerar catalog
   run("node --env-file=.env.local scripts/generatePacksCatalog.js");
