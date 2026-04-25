@@ -1,230 +1,175 @@
 export const downloadLinks: Record<string, string> = {
-  "Atsuya-Kusakabe-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?UP7kAtZt",
-
-  "Atsuya-Kusakabe-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?0yEUkg5w",
-
-  "Choso-Kamo-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?qGzKtxoM",
-
-  "Choso-Kamo-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?Cj2yKb7N",
-
-  "Fumihiko-Takaba-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?S5oS20mY",
-
-  "Fumihiko-Takaba-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?SBJd1S6J",
-
-  "Hajime-Kashimo-jp-season-3-best-scenes":
-    "https://lootdest.org/s?z0dQPd2w",
-    
-  "Hajime-Kashimo-jp-season-3-all-scenes":
-    "https://loot-link.com/s?J1kLZFFF",
-
-  "Hajime-Kashimo-us-season-3-best-scenes":
-    "https://lootdest.org/s?xipfFp19",
-
-  "Hajime-Kashimo-us-season-3-all-scenes":
-    "https://lootdest.org/s?l5IRT0Yo",
-
-  "Hajime-Kashimo-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?RaotrZu6",
-    
-  "Hajime-Kashimo-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?yfbeDe8g",
-
-  "Jin-Itadori-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?szMzQTlm",
-
-  "Kaori-Itadori-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?ERJb44Pl",
-
-  "Kenjaku-us-season-3-all-scenes":
-    "https://loot-link.com/s?zt9IDwRp",
-
-  "Kenjaku-us-season-3-best-scenes":
-    "https://loot-link.com/s?VvuynRNp",
-
-  "Kinji-Hakari-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?XOHsZ3no",
-
-  "Kinji-Hakari-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?vzQuwPYL",
-
-  "Kinji-Hakari-us-season-3-best-scenes":
-    "https://lootdest.org/s?xsHgPh40",
-    
-  "Kinji-Hakari-us-season-3-all-scenes":
-    "https://lootdest.org/s?FIj8IJws",
-
-  "Kinji-Hakari-jp-season-3-best-scenes":
-    "https://loot-link.com/s?ZCtFXNqz",
-
-  "Kinji-Hakari-jp-season-3-all-scenes":
-    "https://lootdest.org/s?kWKE5782",
-
-  "Kirara-Hoshi-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?PfpAUFFE",
-
-  "Kirara-Hoshi-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?xLF97fhV",
-
-  "Kirara-Hoshi-us-season-3-best-scenes":
-    "https://lootdest.org/s?De8JtQwU",
-    
-  "Kirara-Hoshi-us-season-3-all-scenes":
-    "https://loot-link.com/s?fdd6aizi",
-
-  "Kirara-Hoshi-jp-season-3-best-scenes":
-    "https://loot-link.com/s?4rxHIlna",
-
-  "Kirara-Hoshi-jp-season-3-all-scenes":
-    "https://lootdest.org/s?Cu96SYyr",
-
-  "Maddy-Perez-br-Temporada-1-melhores-cenas":
-    "https://lootdest.org/s?MQZthTLp",
-
-  "Mai-Zenin-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?ctc4B7p5",
-
-  "Mai-Zenin-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?xKzK61fx",
-
-  "Maki-Zenin-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?ZgkvuYv5",
-
-  "Maki-Zenin-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?jkvqlSG8",
-
-  "Masamichi-Yaga-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?2MBdJAaB",
-
-  "Masamichi-Yaga-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?gIuOAMnC",
-
- "Megumi-Fushiguro-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?5uWSYQKD",
-
-  "Megumi-Fushiguro-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?BYe3EiFg",
-
-  "Megumi-Fushiguro-us-season-3-best-scenes":
-    "https://lootdest.org/s?XgszWqUC",
-    
-  "Megumi-Fushiguro-us-season-3-all-scenes":
-    "https://lootdest.org/s?Zc0jpr8A",
-
-  "Megumi-Fushiguro-jp-season-3-best-scenes":
-    "https://loot-link.com/s?Tf7FGXOQ",
-
-  "Megumi-Fushiguro-jp-season-3-all-scenes":
-    "https://loot-link.com/s?ALZwJ9zD",
-    
-  "Naoya-Zenin-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?zcDzUb76",
-
-  "Naoya-Zenin-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?oUD10krR",
-
-  "Panda-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?a4EMzzzn",
-
-  "Panda-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?BhvwixUF",
-
-  "Remi-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?5mScYdVS",
-
-  "Remi-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?usohRUvk",
-
-  "Remi-us-season-3-best-scenes":
-    "https://loot-link.com/s?DxTYXpgc",
-    
-  "Remi-us-season-3-all-scenes":
-    "https://loot-link.com/s?vPF3A0IO",
-
-  "Remi-jp-season-3-best-scenes":
-    "https://loot-link.com/s?LQHlQGUL",
-
-  "Remi-jp-season-3-all-scenes":
-    "https://loot-link.com/s?YDdrLMYr",
-
-  "Ryomen-Sukuna-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?GYUzwpiX",
-  
-  "Saturo-Gojo-br-Temporada-3-flashback":
-    "https://loot-link.com/s?kSdzlRWX",
-
-  "Saturo-Gojo-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?nrbmqnL9",
-
-  "Shoko-Leiri-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?4kujGBgU",
-
-  "Toji-Fushiguro-br-Temporada-2-todas-as-cenas":
-    "https://lootdest.org/s?VetOjwNx",
-
-  "Toji-Fushiguro-br-Temporada-2-melhores-cenas":
-    "https://lootdest.org/s?qu8dueOc",
-
-  "Toji-Fushiguro-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?RrxYhdoc",
-
-  "Toji-Fushiguro-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?8xNGCng5",
-
-  "Toji-Fushiguro-br-Temporada-3-Flashback":
-    "https://loot-link.com/s?SUaXnugX",
-
-  "Yuji-Itadori-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?Y0Qu9cWV",
-
-  "Yuji-Itadori-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?Zjf9DKHa",
-
-  "Yuji-Itadori-us-season-3-best-scenes":
-    "https://loot-link.com/s?PNSdkwf3",
-    
-  "Yuji-Itadori-us-season-3-all-scenes":
-    "https://lootdest.org/s?UpgDN7JN",
-
-  "Yuji-Itadori-jp-season-3-best-scenes":
-    "https://loot-link.com/s?jAslVxhn",
-
-  "Yuji-Itadori-jp-season-3-all-scenes":
-    "https://loot-link.com/s?lEFsH7ok",
-
-  "Yuki-Tsukumo-br-Temporada-3-todas-as-cenas":
-    "https://loot-link.com/s?0Rx1Si3S",
-
-  "Yuki-Tsukumo-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?mLJeycFJ",
-
-  "Yuta-Okkotsu-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?Jwn3c3Yb",
-
-  "Yuta-Okkotsu-br-Temporada-3-melhores-cenas":
-    "https://lootdest.org/s?pGNtcgiu",
-
-    "Hiromi-Higuruma-br-Temporada-3-todas-as-cenas":
-    "https://lootdest.org/s?B4PFjsDO",
-
-  "Hiromi-Higuruma-br-Temporada-3-melhores-cenas":
-    "https://loot-link.com/s?6ypAqB2g",
-
-  "Hiromi-Higuruma-jp-season-3-all-scenes":
-    "https://lootdest.org/s?H6nZVh34",
-    
-  "Hiromi-Higuruma-jp-season-3-best-scenes":
-    "https://loot-link.com/s?oY0qQhQa",
-
-  "Hiromi-Higuruma-us-season-3-best-scenes":
-    "https://loot-link.com/s?QPd9RslV",
-
-  "Hiromi-Higuruma-us-season-3-all-scenes":
-    "https://lootdest.org/s?fDor9fis",
-
+  "067-br-temporada-1-melhores-cenas": "https://loot-link.com/s?gM1uJEIA",
+  "067-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?zhXKAtck",
+  "222-br-temporada-2-melhores-cenas": "https://loot-link.com/s?jSbVNsmV",
+  "222-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?DwbA26rW",
+  "240-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?nnsOymfZ",
+  "456-br-temporada-1-melhores-cenas": "https://lootdest.org/s?AEZmP0rB",
+  "456-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?8pDZ6MrI",
+  "agnes-demille-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?pWKw7N3i",
+  "ajax-petropolus-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?sWE4FjNB",
+  "alice-cullen-br-todas-as-cenas": "https://lootdest.org/s?r9TlX6JB",
+  "amelia-br-todas-as-cenas": "https://lootdest.org/s?F7G3H7CX",
+  "art-donaldson-br-todas-as-cenas": "https://lootdest.org/s?a3qHgD27",
+  "atsuya-kusakabe-br-temporada-3-melhores-cenas": "https://lootdest.org/s?UP7kAtZt",
+  "atsuya-kusakabe-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?0yEUkg5w",
+  "bella-swan-br-todas-as-cenas": "https://lootdest.org/s?L9L8dY85",
+  "bianca-barclay-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?vvwXEqtx",
+  "bruno-yuson-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?XdR8zYsR",
+  "cairo-sweet-br-melhores-cenas": "https://lootdest.org/s?MIWwxeU8",
+  "cairo-sweet-br-todas-as-cenas": "https://loot-link.com/s?bx4ENiCE",
+  "cameron-br-todas-as-cenas": "https://lootdest.org/s?sUQ9BO6U",
+  "choso-kamo-br-temporada-3-melhores-cenas": "https://lootdest.org/s?qGzKtxoM",
+  "choso-kamo-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?Cj2yKb7N",
+  "daisy-miller-br-temporada-3-melhores-cenas": "https://loot-link.com/s?ONJTSuaI",
+  "daisy-miller-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?8V4Qly2n",
+  "daisy-miller-us-season-3-all-scenes": "https://lootdest.org/s?KxPnDGMj",
+  "daisy-miller-us-season-3-best-scenes": "https://lootdest.org/s?2pPBOFSy",
+  "damon-salvatore-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?lzKXi8ip",
+  "dra.-rachael-fairbun-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?xY6ffoma",
+  "duke-orsino-us-all-scenes": "https://lootdest.org/s?LVb7RnO6",
+  "duke-orsino-us-best-scenes": "https://loot-link.com/s?QGqU13FQ",
+  "edwaed-cullen-br-todas-as-cenas": "https://loot-link.com/s?UTBTBaXa",
+  "enid-sinclair-br-temporada-2-enid-no-corpo-da-wandinha": "https://loot-link.com/s?sCT78KRZ",
+  "enid-sinclair-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?gicD9b9X",
+  "enid-sinclair-br-temporada-2-wandinha-no-corpo-da-enid": "https://lootdest.org/s?2w20UXnj",
+  "ep-7-br-temporada-1-melhores-cenas": "https://lootdest.org/s?qikPfaur",
+  "ep-7-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?7u92znGW",
+  "eugene-ottinger-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?0qGn2O7s",
+  "front-man-br-temporada-1-melhores-cenas": "https://loot-link.com/s?Cn1BfUUz",
+  "front-man-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?Yp9q040w",
+  "fumihiko-takaba-br-temporada-3-melhores-cenas": "https://loot-link.com/s?S5oS20mY",
+  "fumihiko-takaba-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?SBJd1S6J",
+  "gomez-addams-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?USs0Obes",
+  "goody-addams-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?9YPHuO84",
+  "hajime-kashimo-br-temporada-3-melhores-cenas": "https://lootdest.org/s?yfbeDe8g",
+  "hajime-kashimo-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?RaotrZu6",
+  "hajime-kashimo-jp-season-3-all-scenes": "https://loot-link.com/s?J1kLZFFF",
+  "hajime-kashimo-jp-season-3-best-scenes": "https://lootdest.org/s?z0dQPd2w",
+  "hajime-kashimo-us-season-3-all-scenes": "https://lootdest.org/s?l5IRT0Yo",
+  "hajime-kashimo-us-season-3-best-scenes": "https://lootdest.org/s?xipfFp19",
+  "hiromi-higuruma-br-temporada-3-melhores-cenas": "https://loot-link.com/s?6ypAqB2g",
+  "hiromi-higuruma-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?B4PFjsDO",
+  "hiromi-higuruma-jp-season-3-all-scenes": "https://lootdest.org/s?H6nZVh34",
+  "hiromi-higuruma-jp-season-3-best-scenes": "https://loot-link.com/s?oY0qQhQa",
+  "hiromi-higuruma-us-season-3-all-scenes": "https://lootdest.org/s?fDor9fis",
+  "hiromi-higuruma-us-season-3-best-scenes": "https://loot-link.com/s?QPd9RslV",
+  "holly-wheeler-br-temporada-5-todas-as-cenas": "https://lootdest.org/s?JpZb5MI8",
+  "hwang-jun-ho-br-temporada-1-melhores-cenas": "https://loot-link.com/s?uknk7mQI",
+  "hwang-jun-ho-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?TipHnXiW",
+  "isaac-night-(slurp)-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?tlySnsgz",
+  "isadora-capri-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?zWHSqUAm",
+  "jin-itadori-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?szMzQTlm",
+  "jj-maybank-br-temporada-1-melhores-cenas": "https://lootdest.org/s?N3D1Yw74",
+  "jj-maybank-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?F449aInr",
+  "kaori-itadori-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?ERJb44Pl",
+  "karen-wheeler-br-temporada-5-todas-as-cenas": "https://loot-link.com/s?Sxnn92ba",
+  "kat-br-todas-as-cenas": "https://loot-link.com/s?dBfqRjFN",
+  "kenjaku-us-season-3-all-scenes": "https://loot-link.com/s?zt9IDwRp",
+  "kenjaku-us-season-3-best-scenes": "https://loot-link.com/s?VvuynRNp",
+  "kinji-hakari-br-temporada-3-melhores-cenas": "https://loot-link.com/s?vzQuwPYL",
+  "kinji-hakari-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?XOHsZ3no",
+  "kinji-hakari-jp-season-3-all-scenes": "https://lootdest.org/s?kWKE5782",
+  "kinji-hakari-jp-season-3-best-scenes": "https://loot-link.com/s?ZCtFXNqz",
+  "kinji-hakari-us-season-3-all-scenes": "https://lootdest.org/s?FIj8IJws",
+  "kinji-hakari-us-season-3-best-scenes": "https://lootdest.org/s?xsHgPh40",
+  "kirara-hoshi-br-temporada-3-melhores-cenas": "https://lootdest.org/s?xLF97fhV",
+  "kirara-hoshi-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?PfpAUFFE",
+  "kirara-hoshi-jp-season-3-all-scenes": "https://lootdest.org/s?Cu96SYyr",
+  "kirara-hoshi-jp-season-3-best-scenes": "https://loot-link.com/s?4rxHIlna",
+  "kirara-hoshi-us-season-3-all-scenes": "https://loot-link.com/s?fdd6aizi",
+  "kirara-hoshi-us-season-3-best-scenes": "https://lootdest.org/s?De8JtQwU",
+  "larissa-weems-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?Q3GcnNyN",
+  "lexi-howard-br-temporada-3-melhores-cenas": "https://lootdest.org/s?HdQzvSDx",
+  "lexi-howard-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?bLoP1xOh",
+  "maddy-perez-br-temporada-1-melhores-cenas": "https://lootdest.org/s?MQZthTLp",
+  "maddy-perez-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?IxxXX5jq",
+  "maddy-perez-br-temporada-3-melhores-cenas": "https://lootdest.org/s?KvrgSngb",
+  "maddy-perez-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?37jvww10",
+  "maddy-perez-us-season-1-all-scenes": "https://loot-link.com/s?0ogNQVNn",
+  "maddy-perez-us-season-1-best-scenes": "https://lootdest.org/s?UeoiR9lt",
+  "maddy-perez-us-season-3-all-scenes": "https://lootdest.org/s?sjuzLNdU",
+  "maddy-perez-us-season-3-best-scenes": "https://loot-link.com/s?vVDYLsVI",
+  "mai-zenin-br-temporada-3-melhores-cenas": "https://loot-link.com/s?xKzK61fx",
+  "mai-zenin-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?ctc4B7p5",
+  "maki-zenin-br-temporada-3-melhores-cenas": "https://lootdest.org/s?jkvqlSG8",
+  "maki-zenin-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?ZgkvuYv5",
+  "maozinha-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?qrcqnTLz",
+  "masamichi-yaga-br-temporada-3-melhores-cenas": "https://loot-link.com/s?gIuOAMnC",
+  "masamichi-yaga-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?2MBdJAaB",
+  "max-mayfield-br-temporada-5-melhores-cenas": "https://loot-link.com/s?goTGwrgK",
+  "max-mayfield-br-temporada-5-todas-as-cenas": "https://lootdest.org/s?xw8nKS2g",
+  "megumi-fushiguro-br-temporada-3-melhores-cenas": "https://lootdest.org/s?BYe3EiFg",
+  "megumi-fushiguro-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?5uWSYQKD",
+  "megumi-fushiguro-jp-season-3-all-scenes": "https://loot-link.com/s?ALZwJ9zD",
+  "megumi-fushiguro-jp-season-3-best-scenes": "https://loot-link.com/s?Tf7FGXOQ",
+  "megumi-fushiguro-us-season-3-all-scenes": "https://lootdest.org/s?Zc0jpr8A",
+  "megumi-fushiguro-us-season-3-best-scenes": "https://lootdest.org/s?XgszWqUC",
+  "mia-br-todas-as-cenas": "https://lootdest.org/s?aO15Ekzk",
+  "mike-wheeler-br-temporada-5-todas-as-cenas": "https://loot-link.com/s?xiX5PmFF",
+  "morticia-addams-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?AdXIwwRQ",
+  "naoya-zenin-br-temporada-3-melhores-cenas": "https://loot-link.com/s?zcDzUb76",
+  "naoya-zenin-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?oUD10krR",
+  "nick-br-todas-as-cenas": "https://lootdest.org/s?FHf3oFWh",
+  "nick-leister-br-melhores-cenas": "https://loot-link.com/s?iaDsxJ3U",
+  "nick-leister-br-todas-as-cenas": "https://lootdest.org/s?UPueqtPk",
+  "noah-morgan-br-melhores-cenas": "https://loot-link.com/s?QpqlhA8k",
+  "noah-morgan-br-todas-as-cenas": "https://lootdest.org/s?E4ubF0Pc",
+  "panda-br-temporada-3-melhores-cenas": "https://loot-link.com/s?a4EMzzzn",
+  "panda-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?BhvwixUF",
+  "patrick-br-todas-as-cenas": "https://lootdest.org/s?jVH9tM9k",
+  "patrick-zweig-br-todas-as-cenas": "https://loot-link.com/s?KRBbnhvt",
+  "pugsley-addams-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?blZL86fL",
+  "quinton-br-todas-as-cenas": "https://loot-link.com/s?r4UncfMk",
+  "remi-aguilar-br-melhores-cenas": "https://lootdest.org/s?RvdjpUSP",
+  "remi-aguilar-br-todas-as-cenas": "https://lootdest.org/s?pXPk1NV5",
+  "remi-br-temporada-3-melhores-cenas": "https://loot-link.com/s?5mScYdVS",
+  "remi-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?usohRUvk",
+  "remi-jp-season-3-all-scenes": "https://loot-link.com/s?YDdrLMYr",
+  "remi-jp-season-3-best-scenes": "https://loot-link.com/s?LQHlQGUL",
+  "remi-us-season-3-all-scenes": "https://loot-link.com/s?vPF3A0IO",
+  "remi-us-season-3-best-scenes": "https://loot-link.com/s?DxTYXpgc",
+  "robin-buckley-br-temporada-5-todas-as-cenas": "https://loot-link.com/s?wQuGR1w3",
+  "rosaline-rotwood-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?VgIKhx0d",
+  "rue-bennett-br-temporada-3-melhores-cenas": "https://loot-link.com/s?4JvQsa1u",
+  "rue-bennett-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?adPNXIZ3",
+  "rue-bennett-us-season-3-all-scenes": "https://loot-link.com/s?cIcX7uA5",
+  "rue-bennett-us-season-3-best-scenes": "https://loot-link.com/s?f6OiR55Z",
+  "ryomen-sukuna-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?QwjEwGbs",
+  "ryomen-sukuna-temporada-3-todas-as-cenas": "https://lootdest.org/s?GYUzwpiX",
+  "salesman-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?kaBtLP1C",
+  "saturo-gojo-br-temporada-3-flashback": "https://loot-link.com/s?kSdzlRWX",
+  "saturo-gojo-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?nrbmqnL9",
+  "shoko-leiri-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?4kujGBgU",
+  "sofia-zabala-br-todas-as-cenas": "https://loot-link.com/s?7Z1JbEzh",
+  "steve-harrington-br-temporada-1-todas-as-cenas": "https://loot-link.com/s?I0mqLbGA",
+  "steve-harrington-br-temporada-5-todas-as-cenas": "https://loot-link.com/s?RFAGYqMN",
+  "tashi-ducan-br-todas-as-cenas": "https://lootdest.org/s?vkq6Lmfy",
+  "toji-fushiguro-br-temporada-2-melhores-cenas": "https://lootdest.org/s?qu8dueOc",
+  "toji-fushiguro-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?VetOjwNx",
+  "toji-fushiguro-br-temporada-3-flashback": "https://loot-link.com/s?SUaXnugX",
+  "toji-fushiguro-br-temporada-3-melhores-cenas": "https://lootdest.org/s?8xNGCng5",
+  "toji-fushiguro-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?RrxYhdoc",
+  "tyler-galpin-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?Ci2AemCJ",
+  "vada-cavell-br-todas-as-cenas": "https://lootdest.org/s?ZsBF2KXV",
+  "vovo-addams-br-temporada-2-todas-as-cenas": "https://loot-link.com/s?YYYbLDRc",
+  "wednesday-addams-br-temporada-1-melhores-cenas": "https://lootdest.org/s?gYiUgO11",
+  "wednesday-addams-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?AOdeDSB6",
+  "wednesday-addams-br-temporada-2-melhores-cenas": "https://loot-link.com/s?FFI9Ealx",
+  "wednesday-addams-br-temporada-2-mudanca-de-corpos": "https://loot-link.com/s?HMz0TBYh",
+  "wednesday-addams-br-temporada-2-todas-as-cenas": "https://lootdest.org/s?GgngW8C6",
+  "will-byers-br-temporada-5-melhores-cenas": "https://loot-link.com/s?Mp7gmpKd",
+  "will-byers-br-temporada-5-todas-as-cenas": "https://lootdest.org/s?7U143k1X",
+  "yuji-itadori-br-temporada-3-melhores-cenas": "https://lootdest.org/s?Y0Qu9cWV",
+  "yuji-itadori-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?Zjf9DKHa",
+  "yuji-itadori-jp-season-3-all-scenes": "https://loot-link.com/s?lEFsH7ok",
+  "yuji-itadori-jp-season-3-best-scenes": "https://loot-link.com/s?jAslVxhn",
+  "yuji-itadori-us-season-3-all-scenes": "https://lootdest.org/s?UpgDN7JN",
+  "yuji-itadori-us-season-3-best-scenes": "https://loot-link.com/s?PNSdkwf3",
+  "yuki-tsukumo-br-temporada-3-melhores-cenas": "https://lootdest.org/s?mLJeycFJ",
+  "yuki-tsukumo-br-temporada-3-todas-as-cenas": "https://loot-link.com/s?0Rx1Si3S",
+  "yumeko-br-temporada-1-melhores-cenas": "https://lootdest.org/s?tC2LZvxa",
+  "yumeko-br-temporada-1-todas-as-cenas": "https://lootdest.org/s?bvMtc777",
+  "yuta-okkotsu-br-temporada-3-melhores-cenas": "https://lootdest.org/s?pGNtcgiu",
+  "yuta-okkotsu-br-temporada-3-todas-as-cenas": "https://lootdest.org/s?Jwn3c3Yb",
 };
