@@ -59,6 +59,16 @@ function getFolders(folderPath) {
     .map((item) => item.name);
 }
 
+function getQuality(fileName) {
+  const match = fileName.match(/(4k|2160p|1080p|720p)/i);
+  return match ? match[1].toUpperCase() : "Unknown";
+}
+
+function getEpisode(fileName) {
+  const match = fileName.match(/(\d{2}x\d{2})/i);
+  return match ? match[1] : "";
+}
+
 const downloadLinks = loadDownloadLinks();
 const items = [];
 
@@ -91,23 +101,59 @@ function addAnimePacks() {
             const stat = fs.statSync(packPath);
 
             if (downloadLinks[slug]) {
-              items.push({
-                mediaType: "anime",
-                mediaSlug: anime,
-                title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                character,
-                language,
-                season,
-                pack,
-                file: pack,
-                href: downloadLinks[slug],
-                fileSizeBytes: 0,
-                fileSizeText: "—",
-                updatedAt: stat.mtimeMs,
-                updatedAtText: formatDate(stat.mtimeMs),
-                isMonetized: true,
-              });
-            } else {
+  const files = fs
+    .readdirSync(packPath, { withFileTypes: true })
+    .filter((entry) => entry.isFile())
+    .map((entry) => entry.name)
+    .filter((fileName) => {
+      const lower = fileName.toLowerCase();
+      return lower.endsWith(".mp4") || lower.endsWith(".zip");
+    });
+
+  let totalSize = 0;
+  let clips = 0;
+  let quality = "Unknown";
+  let episode = "";
+
+  for (const file of files) {
+    const filePath = path.join(packPath, file);
+    const fileStat = fs.statSync(filePath);
+
+    totalSize += fileStat.size;
+    clips++;
+
+    if (quality === "Unknown") {
+      quality = getQuality(file);
+    }
+
+    if (!episode) {
+      episode = getEpisode(file);
+    }
+  }
+
+  items.push({
+    mediaType: "anime",
+    mediaSlug: anime,
+    title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+    character,
+    language,
+    season,
+    pack,
+    file: pack,
+    href: downloadLinks[slug],
+
+    fileSizeBytes: totalSize,
+    fileSizeText: formatBytes(totalSize),
+
+    clips,
+    quality,
+    episode,
+
+    updatedAt: stat.mtimeMs,
+    updatedAtText: formatDate(stat.mtimeMs),
+    isMonetized: true,
+  });
+} else {
               const files = fs
                 .readdirSync(packPath, { withFileTypes: true })
                 .filter((entry) => entry.isFile())
@@ -342,6 +388,11 @@ const fileContent = `export type PackCatalogItem = {
   href: string;
   fileSizeBytes: number;
   fileSizeText: string;
+
+  clips?: number;
+  quality?: string;
+  episode?: string;
+  
   updatedAt: number;
   updatedAtText: string;
   isMonetized: boolean;
