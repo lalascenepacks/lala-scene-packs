@@ -226,61 +226,62 @@ function addSeriesPacks() {
 
             const stat = fs.statSync(packPath);
 
-            if (downloadLinks[slug]) {
-              items.push({
-                mediaType: "series",
-                mediaSlug: serie,
-                title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-                character,
-                language,
-                season,
-                pack,
-                file: pack,
-                href: downloadLinks[slug],
-                fileSizeBytes: 0,
-                fileSizeText: "—",
-                updatedAt: stat.mtimeMs,
-                updatedAtText: formatDate(stat.mtimeMs),
-                isMonetized: true,
+            const files = fs
+              .readdirSync(packPath, { withFileTypes: true })
+              .filter((entry) => entry.isFile())
+              .map((entry) => entry.name)
+              .filter((fileName) => {
+                const lower = fileName.toLowerCase();
+                return lower.endsWith(".mp4") || lower.endsWith(".zip");
               });
-            } else {
-              const files = fs
-                .readdirSync(packPath, { withFileTypes: true })
-                .filter((entry) => entry.isFile())
-                .map((entry) => entry.name)
-                .filter((fileName) => {
-                  const lower = fileName.toLowerCase();
-                  return lower.endsWith(".mp4") || lower.endsWith(".zip");
-                });
 
-              for (const file of files) {
-                const filePath = path.join(packPath, file);
-                const fileStat = fs.statSync(filePath);
+            let totalSize = 0;
+            let clips = 0;
+            let quality = "Unknown";
+            let episode = "";
 
-                items.push({
-  mediaType: "series",
-  mediaSlug: serie,
-  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-  character,
-  language,
-  season,
-  pack,
-  file,
-  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-    character,
-    language,
-    season,
-    pack,
-    file,
-  ])}`,
-  fileSizeBytes: fileStat.size,
-  fileSizeText: formatBytes(fileStat.size),
-  updatedAt: fileStat.mtimeMs,
-  updatedAtText: formatDate(fileStat.mtimeMs),
-  isMonetized: false,
-});
-              }
+            for (const file of files) {
+              const filePath = path.join(packPath, file);
+              const fileStat = fs.statSync(filePath);
+
+              totalSize += fileStat.size;
+              clips++;
+
+              if (quality === "Unknown") quality = getQuality(file);
+              if (!episode) episode = getEpisode(file);
             }
+
+            items.push({
+              mediaType: "series",
+              mediaSlug: serie,
+              title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+              character,
+              language,
+              season,
+              pack,
+              file: files[0] || pack,
+
+              href: downloadLinks[slug]
+                ? downloadLinks[slug]
+                : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+                    character,
+                    language,
+                    season,
+                    pack,
+                    files[0] || "",
+                  ])}`,
+
+              fileSizeBytes: totalSize,
+              fileSizeText: formatBytes(totalSize),
+
+              clips,
+              quality,
+              episode,
+
+              updatedAt: stat.mtimeMs,
+              updatedAtText: formatDate(stat.mtimeMs),
+              isMonetized: !!downloadLinks[slug],
+            });
           }
         }
       }
