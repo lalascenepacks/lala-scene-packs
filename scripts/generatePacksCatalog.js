@@ -65,8 +65,18 @@ function getQuality(fileName) {
 }
 
 function getEpisode(fileName) {
-  const match = fileName.match(/(\d{2}x\d{2})/i);
-  return match ? match[1] : "";
+  const match =
+    fileName.match(/(\d{2}x\d{2})/i) ||
+    fileName.match(/(\d{1,2}x\d{1,2})/i) ||
+    fileName.match(/s(\d{1,2})e(\d{1,2})/i);
+
+  if (!match) return "";
+
+  if (match[0].toLowerCase().startsWith("s")) {
+    return `${match[1].padStart(2, "0")}x${match[2].padStart(2, "0")}`;
+  }
+
+  return match[1];
 }
 
 const downloadLinks = loadDownloadLinks();
@@ -134,11 +144,14 @@ function addAnimePacks() {
   items.push({
     mediaType: "anime",
     mediaSlug: anime,
-    title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+    title: `${formatLabel(character)} - ${episode ? `${episode} ` : ""}${formatLabel(pack)}`,
     character,
     language,
     season,
     pack,
+    clips,
+    quality,
+    episode,
     file: pack,
     href: downloadLinks[slug],
 
