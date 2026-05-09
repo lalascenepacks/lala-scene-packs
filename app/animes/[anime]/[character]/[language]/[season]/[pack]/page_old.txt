@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import { packsCatalog } from "@/app/lib/packsCatalog";
 
 export default async function PackPage({
   params,
@@ -14,25 +13,20 @@ export default async function PackPage({
 }) {
   const { anime, character, language, season, pack } = await params;
 
-  const packPath = path.join(
-    process.cwd(),
-    "public",
-    "downloads",
-    "animes",
-    anime,
-    character,
-    language,
-    season,
-    pack
-  );
-
-  let files: string[] = [];
-
-  if (fs.existsSync(packPath)) {
-    files = fs
-      .readdirSync(packPath)
-      .filter((file) => file.endsWith(".mp4") || file.endsWith(".zip"));
-  }
+  const files = packsCatalog
+    .filter(
+      (item) =>
+        item.mediaType === "anime" &&
+        item.mediaSlug === anime &&
+        item.character === character &&
+        item.language === language &&
+        item.season === season &&
+        item.pack === pack
+    )
+    .map((item) => ({
+      file: item.file,
+      href: item.href,
+    }));
 
   return (
     <main
@@ -50,11 +44,12 @@ export default async function PackPage({
         </h1>
 
         <div style={{ display: "grid", gap: "12px" }}>
-          {files.map((file) => (
+          {files.map((item) => (
             <a
-              key={file}
-              href={`/downloads/animes/${anime}/${character}/${language}/${season}/${pack}/${file}`}
-              download
+              key={item.file}
+              href={item.href}
+              target="_blank"
+              rel="noreferrer"
               style={{
                 background: "#15151d",
                 padding: "16px",
@@ -63,7 +58,7 @@ export default async function PackPage({
                 textDecoration: "none",
               }}
             >
-              Download {file}
+              Download {item.file}
             </a>
           ))}
         </div>

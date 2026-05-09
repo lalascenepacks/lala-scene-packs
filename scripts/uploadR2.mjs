@@ -12,8 +12,8 @@ const s3 = new S3Client({
   region: "auto",
   endpoint: "https://c2714cb378a43097720ae5f4ea40fac9.r2.cloudflarestorage.com",
   credentials: {
-    accessKeyId: "bf8b2a69cef0c1c70c5346e8c823c141",
-    secretAccessKey: "1f4fcf44ca7c17c74af6e3ea2c76bfd48995fa0e6ec4cd61d6336e8a6d4c0017",
+    accessKeyId: "process.env.d1a3734f6a109ef2d56a556a84809bd1",
+    secretAccessKey: "process.env.b11ec1316b9a2077c6f522c092f1b4df6b2d1b6d77051f940ad47f5c731925b6",
   },
   maxAttempts: 3,
 });

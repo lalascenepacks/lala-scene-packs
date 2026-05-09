@@ -131,8 +131,8 @@ function getAliases(slug: string, type: "anime" | "series" | "movie") {
 
      "series:euphoria": [
       "euphoria",
-      "rapunzel",
-      "raponzel",
+      "euphorea",
+      "euforia",
     ],
   };
 

@@ -110,25 +110,12 @@ function getPackStatsFromCatalog(decodedPack: string) {
 
   if (packItems.length === 0) {
     return {
-      clipsCount: "—",
       size: "—",
       quality: detectQuality([decodedPack]),
     };
   }
 
   const files = packItems.map((item) => item.file);
-  const clipFiles = files.filter((file) => file.toLowerCase().endsWith(".mp4"));
-  const visibleFiles = files.filter((file) => {
-    const lower = file.toLowerCase();
-    return (
-      lower.endsWith(".mp4") ||
-      lower.endsWith(".zip") ||
-      lower.endsWith(".rar") ||
-      lower.endsWith(".7z")
-    );
-  });
-
-  const count = clipFiles.length > 0 ? clipFiles.length : visibleFiles.length;
 
   const totalBytes = packItems.reduce(
     (sum, item) => sum + (item.fileSizeBytes || 0),
@@ -136,7 +123,6 @@ function getPackStatsFromCatalog(decodedPack: string) {
   );
 
   return {
-    clipsCount: count > 0 ? String(count) : "—",
     size: totalBytes > 0 ? formatBytes(totalBytes) : "—",
     quality: detectQuality(files.length > 0 ? files : [decodedPack]),
   };
@@ -152,8 +138,12 @@ export default async function PackPage({
 
   const { character, language, season, packType } = parsePackSlug(decodedPack);
   const stats = getPackStatsFromCatalog(decodedPack);
+  const firstItem = getPackItems(decodedPack)[0];
 
-  const hasPreview = decodedPack.toLowerCase().includes("megumi");
+  const extraInfo = [
+  firstItem?.episode,
+  (firstItem as { part?: string } | undefined)?.part,
+]
 
   return (
     <main
@@ -170,19 +160,6 @@ export default async function PackPage({
         }}
       >
         <div style={{ marginBottom: "24px" }}>
-          <p
-            style={{
-              margin: "0 0 8px 0",
-              color: "#93c5fd",
-              fontSize: "14px",
-              fontWeight: 700,
-              letterSpacing: "0.4px",
-              textTransform: "uppercase",
-            }}
-          >
-            Pack Preview
-          </p>
-
           <h1
             style={{
               fontSize: "48px",
@@ -206,49 +183,8 @@ export default async function PackPage({
             {packType}
             {season ? ` • ${season}` : ""}
             {language !== "Unknown" ? ` • ${language}` : ""}
+            {extraInfo ? ` • ${extraInfo}` : ""}
           </p>
-        </div>
-
-        <div
-          id="preview"
-          style={{
-            borderRadius: "22px",
-            overflow: "hidden",
-            border: "1px solid rgba(255,255,255,0.08)",
-            background: "rgba(255,255,255,0.04)",
-            boxShadow: "0 16px 40px rgba(0,0,0,0.22)",
-            marginBottom: "26px",
-            minHeight: "320px",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        >
-          {hasPreview ? (
-            <video
-              src="/preview/megumi.mp4"
-              autoPlay
-              muted
-              loop
-              playsInline
-              style={{
-                width: "100%",
-                display: "block",
-                background: "black",
-              }}
-            />
-          ) : (
-            <div
-              style={{
-                textAlign: "center",
-                color: "#94a3b8",
-                fontSize: "16px",
-                fontWeight: 600,
-              }}
-            >
-              Preview unavailable at the moment
-            </div>
-          )}
         </div>
 
         <div
@@ -260,7 +196,6 @@ export default async function PackPage({
           }}
         >
           {[
-            { label: "Clips", value: stats.clipsCount },
             { label: "Quality", value: stats.quality },
             { label: "Language", value: language },
             { label: "Size", value: stats.size },
@@ -355,8 +290,7 @@ export default async function PackPage({
             }}
           >
             This pack includes clips organized for editing, with scenes selected
-            for quality, flow and usability. Use the preview above to check the
-            style before downloading.
+            for quality, flow and usability.
           </p>
         </div>
       </div>

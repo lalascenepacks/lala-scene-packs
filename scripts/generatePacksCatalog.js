@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
-const R2_PUBLIC_BASE_URL = "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev";
+
+const R2_PUBLIC_BASE_URL =
+  "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev";
 
 function normalizeSlug(value) {
   return value
@@ -38,7 +40,7 @@ function encodePathParts(parts) {
 
 function loadDownloadLinks() {
   const filePath = path.join(process.cwd(), "app", "lib", "downloadLinks.ts");
-  const content = fs.readFileSync(filePath, "utf8");
+  const content = fs.existsSync(filePath) ? fs.readFileSync(filePath, "utf8") : "";
 
   const matches = [...content.matchAll(/"([^"]+)"\s*:\s*"([^"]+)"/g)];
   const result = {};
@@ -57,6 +59,19 @@ function getFolders(folderPath) {
     .readdirSync(folderPath, { withFileTypes: true })
     .filter((item) => item.isDirectory())
     .map((item) => item.name);
+}
+
+function getFiles(folderPath) {
+  if (!fs.existsSync(folderPath)) return [];
+
+  return fs
+    .readdirSync(folderPath, { withFileTypes: true })
+    .filter((entry) => entry.isFile())
+    .map((entry) => entry.name)
+    .filter((fileName) => {
+      const lower = fileName.toLowerCase();
+      return lower.endsWith(".mp4") || lower.endsWith(".zip");
+    });
 }
 
 function getQuality(fileName) {
@@ -79,11 +94,60 @@ function getEpisode(fileName) {
   return match[1];
 }
 
+function getPart(fileName) {
+  const match =
+    fileName.match(/part[\s._-]?(\d+)/i) ||
+    fileName.match(/pt[\s._-]?(\d+)/i) ||
+    fileName.match(/\bp(\d+)\b/i);
+
+  if (!match) return "";
+
+  return `Part ${match[1]}`;
+}
+
+function getPackMeta(packPath) {
+  const files = getFiles(packPath);
+
+  let totalSize = 0;
+  let quality = "Unknown";
+  let episode = "";
+  let part = "";
+
+  for (const file of files) {
+    const filePath = path.join(packPath, file);
+    const fileStat = fs.statSync(filePath);
+
+    totalSize += fileStat.size;
+
+    if (quality === "Unknown") quality = getQuality(file);
+    if (!episode) episode = getEpisode(file);
+    if (!part) part = getPart(file);
+  }
+
+  return {
+    files,
+    firstFile: files[0] || "",
+    fileSizeBytes: totalSize,
+    fileSizeText: formatBytes(totalSize),
+    quality,
+    episode,
+    part,
+  };
+}
+
+function buildTitle(character, pack, episode, part) {
+  const extra = [episode, part].filter(Boolean).join(" ");
+
+  return `${formatLabel(character)} - ${
+    extra ? `${extra} ` : ""
+  }${formatLabel(pack)}`;
+}
+
 const downloadLinks = loadDownloadLinks();
 const items = [];
 
 function addAnimePacks() {
-  const root = path.join(process.cwd(), "public", "downloads", "animes");
+  const root = path.join("X:\\meus-downloads-site\\downloads", "animes");
   const animes = getFolders(root);
 
   for (const anime of animes) {
@@ -103,107 +167,44 @@ function addAnimePacks() {
           const packs = getFolders(seasonPath);
 
           for (const pack of packs) {
-            const slug = normalizeSlug(`${character}-${language}-${season}-${pack}`);
+            const slug = normalizeSlug(
+              `${character}-${language}-${season}-${pack}`
+            );
             const packPath = path.join(seasonPath, pack);
 
             if (!fs.existsSync(packPath)) continue;
 
             const stat = fs.statSync(packPath);
+            const meta = getPackMeta(packPath);
+            const isMonetized = !!downloadLinks[slug];
 
-            if (downloadLinks[slug]) {
-  const files = fs
-    .readdirSync(packPath, { withFileTypes: true })
-    .filter((entry) => entry.isFile())
-    .map((entry) => entry.name)
-    .filter((fileName) => {
-      const lower = fileName.toLowerCase();
-      return lower.endsWith(".mp4") || lower.endsWith(".zip");
-    });
-
-  let totalSize = 0;
-  let clips = 0;
-  let quality = "Unknown";
-  let episode = "";
-
-  for (const file of files) {
-    const filePath = path.join(packPath, file);
-    const fileStat = fs.statSync(filePath);
-
-    totalSize += fileStat.size;
-    clips++;
-
-    if (quality === "Unknown") {
-      quality = getQuality(file);
-    }
-
-    if (!episode) {
-      episode = getEpisode(file);
-    }
-  }
-
-  items.push({
-    mediaType: "anime",
-    mediaSlug: anime,
-    title: `${formatLabel(character)} - ${episode ? `${episode} ` : ""}${formatLabel(pack)}`,
-    character,
-    language,
-    season,
-    pack,
-    clips,
-    quality,
-    episode,
-    file: pack,
-    href: downloadLinks[slug],
-
-    fileSizeBytes: totalSize,
-    fileSizeText: formatBytes(totalSize),
-
-    clips,
-    quality,
-    episode,
-
-    updatedAt: stat.mtimeMs,
-    updatedAtText: formatDate(stat.mtimeMs),
-    isMonetized: true,
-  });
-} else {
-              const files = fs
-                .readdirSync(packPath, { withFileTypes: true })
-                .filter((entry) => entry.isFile())
-                .map((entry) => entry.name)
-                .filter((fileName) => {
-                  const lower = fileName.toLowerCase();
-                  return lower.endsWith(".mp4") || lower.endsWith(".zip");
-                });
-
-              for (const file of files) {
-                const filePath = path.join(packPath, file);
-                const fileStat = fs.statSync(filePath);
-
-                items.push({
-  mediaType: "anime",
-  mediaSlug: anime,
-  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-  character,
-  language,
-  season,
-  pack,
-  file,
-  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-    character,
-    language,
-    season,
-    pack,
-    file,
-  ])}`,
-  fileSizeBytes: fileStat.size,
-  fileSizeText: formatBytes(fileStat.size),
-  updatedAt: fileStat.mtimeMs,
-  updatedAtText: formatDate(fileStat.mtimeMs),
-  isMonetized: false,
-});
-              }
-            }
+            items.push({
+              mediaType: "anime",
+              mediaSlug: anime,
+              title: buildTitle(character, pack, meta.episode, meta.part),
+              character,
+              language,
+              season,
+              pack,
+              file: isMonetized ? pack : meta.firstFile || pack,
+              href: isMonetized
+                ? downloadLinks[slug]
+                : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+                    character,
+                    language,
+                    season,
+                    pack,
+                    meta.firstFile || "",
+                  ])}`,
+              fileSizeBytes: meta.fileSizeBytes,
+              fileSizeText: meta.fileSizeText,
+              quality: meta.quality,
+              episode: meta.episode,
+              part: meta.part,
+              updatedAt: stat.mtimeMs,
+              updatedAtText: formatDate(stat.mtimeMs),
+              isMonetized,
+            });
           }
         }
       }
@@ -212,7 +213,7 @@ function addAnimePacks() {
 }
 
 function addSeriesPacks() {
-  const root = path.join(process.cwd(), "public", "downloads", "series");
+  const root = path.join("X:\\meus-downloads-site\\downloads", "series");
   const series = getFolders(root);
 
   for (const serie of series) {
@@ -232,68 +233,43 @@ function addSeriesPacks() {
           const packs = getFolders(seasonPath);
 
           for (const pack of packs) {
-            const slug = normalizeSlug(`${character}-${language}-${season}-${pack}`);
+            const slug = normalizeSlug(
+              `${character}-${language}-${season}-${pack}`
+            );
             const packPath = path.join(seasonPath, pack);
 
             if (!fs.existsSync(packPath)) continue;
 
             const stat = fs.statSync(packPath);
-
-            const files = fs
-              .readdirSync(packPath, { withFileTypes: true })
-              .filter((entry) => entry.isFile())
-              .map((entry) => entry.name)
-              .filter((fileName) => {
-                const lower = fileName.toLowerCase();
-                return lower.endsWith(".mp4") || lower.endsWith(".zip");
-              });
-
-            let totalSize = 0;
-            let clips = 0;
-            let quality = "Unknown";
-            let episode = "";
-
-            for (const file of files) {
-              const filePath = path.join(packPath, file);
-              const fileStat = fs.statSync(filePath);
-
-              totalSize += fileStat.size;
-              clips++;
-
-              if (quality === "Unknown") quality = getQuality(file);
-              if (!episode) episode = getEpisode(file);
-            }
+            const meta = getPackMeta(packPath);
+            const isMonetized = !!downloadLinks[slug];
 
             items.push({
               mediaType: "series",
               mediaSlug: serie,
-              title: `${formatLabel(character)} - ${formatLabel(pack)}`,
+              title: buildTitle(character, pack, meta.episode, meta.part),
               character,
               language,
               season,
               pack,
-              file: files[0] || pack,
-
-              href: downloadLinks[slug]
+              file: isMonetized ? pack : meta.firstFile || pack,
+              href: isMonetized
                 ? downloadLinks[slug]
                 : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
                     character,
                     language,
                     season,
                     pack,
-                    files[0] || "",
+                    meta.firstFile || "",
                   ])}`,
-
-              fileSizeBytes: totalSize,
-              fileSizeText: formatBytes(totalSize),
-
-              clips,
-              quality,
-              episode,
-
+              fileSizeBytes: meta.fileSizeBytes,
+              fileSizeText: meta.fileSizeText,
+              quality: meta.quality,
+              episode: meta.episode,
+              part: meta.part,
               updatedAt: stat.mtimeMs,
               updatedAtText: formatDate(stat.mtimeMs),
-              isMonetized: !!downloadLinks[slug],
+              isMonetized,
             });
           }
         }
@@ -303,7 +279,7 @@ function addSeriesPacks() {
 }
 
 function addMoviePacks() {
-  const root = path.join(process.cwd(), "public", "downloads", "movies");
+  const root = path.join("X:\\meus-downloads-site\\downloads", "movies");
   const movies = getFolders(root);
 
   for (const movie of movies) {
@@ -325,61 +301,35 @@ function addMoviePacks() {
           if (!fs.existsSync(packPath)) continue;
 
           const stat = fs.statSync(packPath);
+          const meta = getPackMeta(packPath);
+          const isMonetized = !!downloadLinks[slug];
 
-          if (downloadLinks[slug]) {
-            items.push({
-              mediaType: "movie",
-              mediaSlug: movie,
-              title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-              character,
-              language,
-              season: "",
-              pack,
-              file: pack,
-              href: downloadLinks[slug],
-              fileSizeBytes: 0,
-              fileSizeText: "—",
-              updatedAt: stat.mtimeMs,
-              updatedAtText: formatDate(stat.mtimeMs),
-              isMonetized: true,
-            });
-          } else {
-            const files = fs
-              .readdirSync(packPath, { withFileTypes: true })
-              .filter((entry) => entry.isFile())
-              .map((entry) => entry.name)
-              .filter((fileName) => {
-                const lower = fileName.toLowerCase();
-                return lower.endsWith(".mp4") || lower.endsWith(".zip");
-              });
-
-            for (const file of files) {
-              const filePath = path.join(packPath, file);
-              const fileStat = fs.statSync(filePath);
-
-              items.push({
-  mediaType: "movie",
-  mediaSlug: movie,
-  title: `${formatLabel(character)} - ${formatLabel(pack)}`,
-  character,
-  language,
-  season: "",
-  pack,
-  file,
-  href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-    character,
-    language,
-    pack,
-    file,
-  ])}`,
-  fileSizeBytes: fileStat.size,
-  fileSizeText: formatBytes(fileStat.size),
-  updatedAt: fileStat.mtimeMs,
-  updatedAtText: formatDate(fileStat.mtimeMs),
-  isMonetized: false,
-});
-            }
-          }
+          items.push({
+            mediaType: "movie",
+            mediaSlug: movie,
+            title: buildTitle(character, pack, meta.episode, meta.part),
+            character,
+            language,
+            season: "",
+            pack,
+            file: isMonetized ? pack : meta.firstFile || pack,
+            href: isMonetized
+              ? downloadLinks[slug]
+              : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+                  character,
+                  language,
+                  pack,
+                  meta.firstFile || "",
+                ])}`,
+            fileSizeBytes: meta.fileSizeBytes,
+            fileSizeText: meta.fileSizeText,
+            quality: meta.quality,
+            episode: meta.episode,
+            part: meta.part,
+            updatedAt: stat.mtimeMs,
+            updatedAtText: formatDate(stat.mtimeMs),
+            isMonetized,
+          });
         }
       }
     }
@@ -402,11 +352,9 @@ const fileContent = `export type PackCatalogItem = {
   href: string;
   fileSizeBytes: number;
   fileSizeText: string;
-
-  clips?: number;
   quality?: string;
   episode?: string;
-  
+  part?: string;
   updatedAt: number;
   updatedAtText: string;
   isMonetized: boolean;
