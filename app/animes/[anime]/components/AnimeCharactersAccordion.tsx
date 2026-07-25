@@ -13,6 +13,8 @@ type PackItem = {
   updatedAt: number;
   updatedAtText: string;
   isMonetized: boolean;
+  episode?: string;
+  part?: string;
 };
 
 function getSubtitle(fileName: string) {
@@ -152,7 +154,13 @@ export default function AnimeCharactersAccordion({
                           fontSize: "12px",
                         }}
                       >
-                        {item.isMonetized ? "@lalascenepacks" : getSubtitle(item.file)}
+                        {item.isMonetized
+  ? `@lalascenepacks${
+      item.episode ? ` • ${item.episode}` : ""
+    }${
+      item.part ? ` • ${item.part}` : ""
+    }`
+  : getSubtitle(item.file)}
                       </div>
                     </div>
 
