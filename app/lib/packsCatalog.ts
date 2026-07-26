@@ -27,8 +27,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?UP7kAtZt",
+    "file": "Atsuya Kusakabe 03x05 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Atsuya-Kusakabe/br/Temporada-3/melhores-cenas/Atsuya%20Kusakabe%2003x05%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 17441470,
     "fileSizeText": "17MB",
     "quality": "1080P",
@@ -36,7 +36,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551670.4236,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -46,8 +46,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?0yEUkg5w",
+    "file": "Atsuya Kusakabe 03x05 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Atsuya-Kusakabe/br/Temporada-3/todas-as-cenas/Atsuya%20Kusakabe%2003x05%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 88184502,
     "fileSizeText": "84MB",
     "quality": "1080P",
@@ -55,7 +55,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551710.3364,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -65,8 +65,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?qGzKtxoM",
+    "file": "Choso Kamo 03x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Choso-Kamo/br/Temporada-3/melhores-cenas/Choso%20Kamo%2003x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 110588884,
     "fileSizeText": "105MB",
     "quality": "1080P",
@@ -74,7 +74,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551785.5652,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -84,8 +84,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?Cj2yKb7N",
+    "file": "Choso Kamo 03x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Choso-Kamo/br/Temporada-3/todas-as-cenas/Choso%20Kamo%2003x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 798908981,
     "fileSizeText": "762MB",
     "quality": "1080P",
@@ -93,7 +93,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551872.772,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -103,8 +103,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?S5oS20mY",
+    "file": "Fumihiko Takaba 03x03 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Fumihiko-Takaba/br/Temporada-3/melhores-cenas/Fumihiko%20Takaba%2003x03%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 14166219,
     "fileSizeText": "14MB",
     "quality": "1080P",
@@ -112,7 +112,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551899.7126,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -122,8 +122,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?SBJd1S6J",
+    "file": "Fumihiko Takaba 03x03 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Fumihiko-Takaba/br/Temporada-3/todas-as-cenas/Fumihiko%20Takaba%2003x03%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 93638232,
     "fileSizeText": "89MB",
     "quality": "1080P",
@@ -131,7 +131,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551925.9243,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -141,8 +141,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?yfbeDe8g",
+    "file": "Hajime Kashimo 03x06 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/br/Temporada-3/melhores-cenas/Hajime%20Kashimo%2003x06%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 22457943,
     "fileSizeText": "21MB",
     "quality": "1080P",
@@ -150,7 +150,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448551950.9668,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -160,8 +160,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?RaotrZu6",
+    "file": "Hajime Kashimo 03x06 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/br/Temporada-3/todas-as-cenas/Hajime%20Kashimo%2003x06%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 119161603,
     "fileSizeText": "114MB",
     "quality": "1080P",
@@ -169,7 +169,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554648.6604,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -179,8 +179,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?J1kLZFFF",
+    "file": "Hajime Kashimo 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/jp/Season-3/all-scenes/Hajime%20Kashimo%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 119161591,
     "fileSizeText": "114MB",
     "quality": "1080P",
@@ -188,7 +188,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773682644775.0583,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -198,8 +198,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?z0dQPd2w",
+    "file": "Hajime Kashimo 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/jp/Season-3/best-scenes/Hajime%20Kashimo%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 22457942,
     "fileSizeText": "21MB",
     "quality": "1080P",
@@ -207,7 +207,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773682649644.9868,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -217,8 +217,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?l5IRT0Yo",
+    "file": "Hajime Kashimo 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/us/Season-3/all-scenes/Hajime%20Kashimo%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 119161601,
     "fileSizeText": "114MB",
     "quality": "1080P",
@@ -226,7 +226,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773682398368.391,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -236,8 +236,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?xipfFp19",
+    "file": "Hajime Kashimo 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hajime-Kashimo/us/Season-3/best-scenes/Hajime%20Kashimo%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 22457934,
     "fileSizeText": "21MB",
     "quality": "1080P",
@@ -245,7 +245,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773682402896.6987,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -255,8 +255,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?6ypAqB2g",
+    "file": "Hiromi Higuruma Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/br/Temporada-3/melhores-cenas/Hiromi%20Higuruma%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 379994575,
     "fileSizeText": "362MB",
     "quality": "1080P",
@@ -264,7 +264,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774751106685.7627,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -274,8 +274,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?B4PFjsDO",
+    "file": "Hiromi Higuruma 03x08 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/br/Temporada-3/todas-as-cenas/Hiromi%20Higuruma%2003x08%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1816705549,
     "fileSizeText": "1.7GB",
     "quality": "1080P",
@@ -283,7 +283,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774828406995.495,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -293,8 +293,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?H6nZVh34",
+    "file": "Hiromi Higuruma 03x08 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/jp/Season-3/all-scenes/Hiromi%20Higuruma%2003x08%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1816705567,
     "fileSizeText": "1.7GB",
     "quality": "1080P",
@@ -302,7 +302,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774828387075.7146,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -312,8 +312,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?oY0qQhQa",
+    "file": "Hiromi Higuruma 03x08 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/jp/Season-3/best-scenes/Hiromi%20Higuruma%2003x08%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 379994579,
     "fileSizeText": "362MB",
     "quality": "1080P",
@@ -321,7 +321,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774828374736.0952,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -331,8 +331,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?fDor9fis",
+    "file": "Hiromi Higuruma 03x08 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/us/Season-3/all-scenes/Hiromi%20Higuruma%2003x08%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1816705591,
     "fileSizeText": "1.7GB",
     "quality": "1080P",
@@ -340,7 +340,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774828362708.964,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -350,8 +350,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?QPd9RslV",
+    "file": "Hiromi Higuruma 03x08 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hiromi-Higuruma/us/Season-3/best-scenes/Hiromi%20Higuruma%2003x08%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 379994526,
     "fileSizeText": "362MB",
     "quality": "1080P",
@@ -359,7 +359,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774828347838.3289,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -369,8 +369,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?szMzQTlm",
+    "file": "Jin Itadori 03x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jin-Itadori/br/Temporada-3/todas-as-cenas/Jin%20Itadori%2003x02%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 29847528,
     "fileSizeText": "28MB",
     "quality": "1080P",
@@ -378,7 +378,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554683.757,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -388,8 +388,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?ERJb44Pl",
+    "file": "Kaori Itadori 03x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kaori-Itadori/br/Temporada-3/todas-as-cenas/Kaori%20Itadori%2003x02%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 29859777,
     "fileSizeText": "28MB",
     "quality": "1080P",
@@ -397,7 +397,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554691.5164,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -407,8 +407,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?zt9IDwRp",
+    "file": "Kenjaku 03x07 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kenjaku/us/Season-3/all-scenes/Kenjaku%2003x07%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 449946686,
     "fileSizeText": "429MB",
     "quality": "1080P",
@@ -416,7 +416,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554723.289,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -426,8 +426,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?VvuynRNp",
+    "file": "Kenjaku 03x07 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kenjaku/us/Season-3/best-scenes/Kenjaku%2003x07%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 203787348,
     "fileSizeText": "194MB",
     "quality": "1080P",
@@ -435,7 +435,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554730.879,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -445,8 +445,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?vzQuwPYL",
+    "file": "Kinji Hakari 03x05 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/br/Temporada-3/melhores-cenas/Kinji%20Hakari%2003x05%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 238581296,
     "fileSizeText": "228MB",
     "quality": "1080P",
@@ -454,7 +454,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773685955921.8064,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -464,8 +464,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?XOHsZ3no",
+    "file": "Kinji Hakari 03x03 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/br/Temporada-3/todas-as-cenas/Kinji%20Hakari%2003x03%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1516540708,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -473,7 +473,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773691812851.163,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -483,8 +483,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?kWKE5782",
+    "file": "Kinji Hakari 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/jp/Season-3/all-scenes/Kinji%20Hakari%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1071212738,
     "fileSizeText": "1022MB",
     "quality": "1080P",
@@ -492,7 +492,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773685712337.6812,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -502,8 +502,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?ZCtFXNqz",
+    "file": "kinji Hakari 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/jp/Season-3/best-scenes/kinji%20Hakari%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 226950040,
     "fileSizeText": "216MB",
     "quality": "1080P",
@@ -511,7 +511,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773685791805.6858,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -521,8 +521,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?FIj8IJws",
+    "file": "Kinji Hakari 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/us/Season-3/all-scenes/Kinji%20Hakari%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1071212726,
     "fileSizeText": "1022MB",
     "quality": "1080P",
@@ -530,7 +530,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773687267553.6338,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -540,8 +540,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?xsHgPh40",
+    "file": "kinji Hakari 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kinji-Hakari/us/Season-3/best-scenes/kinji%20Hakari%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 227991123,
     "fileSizeText": "217MB",
     "quality": "1080P",
@@ -549,7 +549,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773691374954.3577,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -559,8 +559,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?xLF97fhV",
+    "file": "Kirara Hoshi 03x05 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/br/Temporada-3/melhores-cenas/Kirara%20Hoshi%2003x05%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 420340435,
     "fileSizeText": "401MB",
     "quality": "1080P",
@@ -568,7 +568,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554782.3118,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -578,8 +578,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?PfpAUFFE",
+    "file": "Kirara Hoshi 03x05 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/br/Temporada-3/todas-as-cenas/Kirara%20Hoshi%2003x05%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2086961687,
     "fileSizeText": "1.9GB",
     "quality": "1080P",
@@ -587,7 +587,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554794.2295,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -597,8 +597,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?Cu96SYyr",
+    "file": "Kirara Hoshi 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/jp/Season-3/all-scenes/Kirara%20Hoshi%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1909069863,
     "fileSizeText": "1.8GB",
     "quality": "1080P",
@@ -606,7 +606,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773698878755.4446,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -616,8 +616,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?4rxHIlna",
+    "file": "Kirara Hoshi 03x06 Best Scenes @lalascenepacks  1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/jp/Season-3/best-scenes/Kirara%20Hoshi%2003x06%20Best%20Scenes%20%40lalascenepacks%20%201080p.mp4",
     "fileSizeBytes": 378135251,
     "fileSizeText": "361MB",
     "quality": "1080P",
@@ -625,7 +625,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773699026048.8916,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -635,8 +635,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?fdd6aizi",
+    "file": "Kirara Hoshi 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/us/Season-3/all-scenes/Kirara%20Hoshi%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1909116646,
     "fileSizeText": "1.8GB",
     "quality": "1080P",
@@ -644,7 +644,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773698566726.2393,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -654,8 +654,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?De8JtQwU",
+    "file": "Kirara Hoshi 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kirara-Hoshi/us/Season-3/best-scenes/Kirara%20Hoshi%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 378135245,
     "fileSizeText": "361MB",
     "quality": "1080P",
@@ -663,7 +663,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773698758243.2122,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -673,8 +673,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?xKzK61fx",
+    "file": "Mai Zenin 03x04 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mai-Zenin/br/Temporada-3/melhores-cenas/Mai%20Zenin%2003x04%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 42807764,
     "fileSizeText": "41MB",
     "quality": "1080P",
@@ -682,7 +682,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554836.7493,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -692,8 +692,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?ctc4B7p5",
+    "file": "Mai Zenin 03x04 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mai-Zenin/br/Temporada-3/todas-as-cenas/Mai%20Zenin%2003x04%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 331624719,
     "fileSizeText": "316MB",
     "quality": "1080P",
@@ -701,7 +701,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554841.468,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -711,8 +711,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?jkvqlSG8",
+    "file": "Maki Zenin 03x02 Melhores Cena @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maki-Zenin/br/Temporada-3/melhores-cenas/Maki%20Zenin%2003x02%20Melhores%20Cena%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 228421778,
     "fileSizeText": "218MB",
     "quality": "1080P",
@@ -720,7 +720,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554856.8567,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -730,8 +730,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?ZgkvuYv5",
+    "file": "Maki Zenin 03x02 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maki-Zenin/br/Temporada-3/todas-as-cenas/Maki%20Zenin%2003x02%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1441384061,
     "fileSizeText": "1.3GB",
     "quality": "1080P",
@@ -739,7 +739,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554869.4097,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -749,8 +749,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?gIuOAMnC",
+    "file": "Masamichi Yaga 04x05 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Masamichi-Yaga/br/Temporada-3/melhores-cenas/Masamichi%20Yaga%2004x05%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 51201730,
     "fileSizeText": "49MB",
     "quality": "1080P",
@@ -758,7 +758,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554873.0642,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -768,8 +768,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?2MBdJAaB",
+    "file": "Masamichi Yaga 04x05 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Masamichi-Yaga/br/Temporada-3/todas-as-cenas/Masamichi%20Yaga%2004x05%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 324912051,
     "fileSizeText": "310MB",
     "quality": "1080P",
@@ -777,7 +777,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554878.7373,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -787,8 +787,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?BYe3EiFg",
+    "file": "Megumi Fushiguro 03x02 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/br/Temporada-3/melhores-cenas/Megumi%20Fushiguro%2003x02%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 711871515,
     "fileSizeText": "679MB",
     "quality": "1080P",
@@ -796,7 +796,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773537934874.203,
     "updatedAtText": "3/14/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -806,8 +806,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?5uWSYQKD",
+    "file": "Megumi Fushiguro 03x02 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/br/Temporada-3/todas-as-cenas/Megumi%20Fushiguro%2003x02%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4003700033,
     "fileSizeText": "3.7GB",
     "quality": "1080P",
@@ -815,7 +815,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773536933777.98,
     "updatedAtText": "3/14/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -825,8 +825,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?ALZwJ9zD",
+    "file": "Megumi Fushiguro 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/jp/Season-3/all-scenes/Megumi%20Fushiguro%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 3109685539,
     "fileSizeText": "2.9GB",
     "quality": "1080P",
@@ -834,7 +834,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773595609036.3108,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -844,8 +844,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?Tf7FGXOQ",
+    "file": "Megumi Fushiguro 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/jp/Season-3/best-scenes/Megumi%20Fushiguro%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 540384797,
     "fileSizeText": "515MB",
     "quality": "1080P",
@@ -853,7 +853,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773699655044.12,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -863,8 +863,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season 3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?Zc0jpr8A",
+    "file": "Megumi Fushiguro 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/us/Season%203/all-scenes/Megumi%20Fushiguro%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 3109957109,
     "fileSizeText": "2.9GB",
     "quality": "1080P",
@@ -872,7 +872,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773553975525.798,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -882,8 +882,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season 3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?XgszWqUC",
+    "file": "Megumi Fushiguro 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Megumi-Fushiguro/us/Season%203/best-scenes/Megumi%20Fushiguro%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 540413673,
     "fileSizeText": "515MB",
     "quality": "1080P",
@@ -891,7 +891,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773554039461.2322,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -901,8 +901,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?zcDzUb76",
+    "file": "Naoya Zenin 03x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Naoya-Zenin/br/Temporada-3/melhores-cenas/Naoya%20Zenin%2003x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 106783106,
     "fileSizeText": "102MB",
     "quality": "1080P",
@@ -910,7 +910,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554949.6162,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -920,8 +920,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?oUD10krR",
+    "file": "Naoya Zenin 03x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Naoya-Zenin/br/Temporada-3/todas-as-cenas/Naoya%20Zenin%2003x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1036380237,
     "fileSizeText": "988MB",
     "quality": "1080P",
@@ -929,7 +929,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554961.8445,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -939,8 +939,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?a4EMzzzn",
+    "file": "Panda 04x05 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Panda/br/Temporada-3/melhores-cenas/Panda%2004x05%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 31677627,
     "fileSizeText": "30MB",
     "quality": "1080P",
@@ -948,7 +948,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554965.5496,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -958,8 +958,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?BhvwixUF",
+    "file": "Panda 03x05 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Panda/br/Temporada-3/todas-as-cenas/Panda%2003x05%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 313825363,
     "fileSizeText": "299MB",
     "quality": "1080P",
@@ -967,7 +967,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554969.296,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -977,8 +977,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?5mScYdVS",
+    "file": "Remi 03x07 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/br/Temporada-3/melhores-cenas/Remi%2003x07%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 135131492,
     "fileSizeText": "129MB",
     "quality": "1080P",
@@ -986,7 +986,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773550953619.5298,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -996,8 +996,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?usohRUvk",
+    "file": "Remi 03x07 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/br/Temporada-3/todas-as-cenas/Remi%2003x07%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 368015599,
     "fileSizeText": "351MB",
     "quality": "1080P",
@@ -1005,7 +1005,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773711482563.4492,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1015,8 +1015,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?YDdrLMYr",
+    "file": "Remi 03x07 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/jp/Season-3/all-scenes/Remi%2003x07%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 368015636,
     "fileSizeText": "351MB",
     "quality": "1080P",
@@ -1024,7 +1024,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773547260910.6006,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1034,8 +1034,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?LQHlQGUL",
+    "file": "Remi 03x07 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/jp/Season-3/best-scenes/Remi%2003x07%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 135131481,
     "fileSizeText": "129MB",
     "quality": "1080P",
@@ -1043,7 +1043,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773547298709.4365,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1053,8 +1053,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?vPF3A0IO",
+    "file": "Remi 03x07 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/us/Season-3/all-scenes/Remi%2003x07%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 368015584,
     "fileSizeText": "351MB",
     "quality": "1080P",
@@ -1062,7 +1062,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773711260401.5425,
     "updatedAtText": "3/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1072,8 +1072,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?DxTYXpgc",
+    "file": "Remi 03x07 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi/us/Season-3/best-scenes/Remi%2003x07%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 135131224,
     "fileSizeText": "129MB",
     "quality": "1080P",
@@ -1081,7 +1081,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773550886743.3733,
     "updatedAtText": "3/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1091,8 +1091,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?QwjEwGbs",
+    "file": "Sukuna 03x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ryomen-Sukuna/br/Temporada-3/todas-as-cenas/Sukuna%2003x02%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 11532081,
     "fileSizeText": "11MB",
     "quality": "1080P",
@@ -1100,7 +1100,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554988.9578,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1110,8 +1110,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "flashback",
-    "file": "flashback",
-    "href": "https://loot-link.com/s?kSdzlRWX",
+    "file": "Saturo Gojo 03x03 Flashback @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Saturo-Gojo/br/Temporada-3/flashback/Saturo%20Gojo%2003x03%20Flashback%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 3585798,
     "fileSizeText": "3.4MB",
     "quality": "1080P",
@@ -1119,7 +1119,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554974.5723,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1129,8 +1129,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?nrbmqnL9",
+    "file": "Saturo Gojo 03x02 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Saturo-Gojo/br/Temporada-3/todas-as-cenas/Saturo%20Gojo%2003x02%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 51917949,
     "fileSizeText": "50MB",
     "quality": "1080P",
@@ -1138,7 +1138,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554978.6694,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1148,8 +1148,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?4kujGBgU",
+    "file": "Shoko Leiri 03x03 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Shoko-Leiri/br/Temporada-3/todas-as-cenas/Shoko%20Leiri%2003x03%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 22193117,
     "fileSizeText": "21MB",
     "quality": "1080P",
@@ -1157,7 +1157,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448554983.5017,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1167,8 +1167,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "temporada-2",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?qu8dueOc",
+    "file": "Toji Fushiguro 02x01 melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Toji-Fushiguro/br/temporada-2/melhores-cenas/Toji%20Fushiguro%2002x01%20melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1086408431,
     "fileSizeText": "1.0GB",
     "quality": "1080P",
@@ -1176,7 +1176,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555029.609,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1186,8 +1186,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?VetOjwNx",
+    "file": "Toji Fushiguro 02x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Toji-Fushiguro/br/temporada-2/todas-as-cenas/Toji%20Fushiguro%2002x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4983711202,
     "fileSizeText": "4.6GB",
     "quality": "1080P",
@@ -1195,7 +1195,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555074.7935,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1205,8 +1205,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "Flashback",
-    "file": "Flashback",
-    "href": "https://loot-link.com/s?SUaXnugX",
+    "file": "Toji Fushiguro FlashBack 03x03 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Toji-Fushiguro/br/Temporada-3/Flashback/Toji%20Fushiguro%20FlashBack%2003x03%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 58053294,
     "fileSizeText": "55MB",
     "quality": "1080P",
@@ -1214,7 +1214,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555078.0176,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1224,8 +1224,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?8xNGCng5",
+    "file": "Toji Fushiguro 03x04 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Toji-Fushiguro/br/Temporada-3/melhores-cenas/Toji%20Fushiguro%2003x04%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 6600744,
     "fileSizeText": "6.3MB",
     "quality": "1080P",
@@ -1233,7 +1233,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555082.8716,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1243,8 +1243,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?RrxYhdoc",
+    "file": "Toji Fushiguro 03x04 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Toji-Fushiguro/br/Temporada-3/todas-as-cenas/Toji%20Fushiguro%2003x04%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 69576780,
     "fileSizeText": "66MB",
     "quality": "1080P",
@@ -1252,7 +1252,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555086.9268,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1262,8 +1262,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?Y0Qu9cWV",
+    "file": "Yuji Itadori 03x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/br/Temporada-3/melhores-cenas/Yuji%20Itadori%2003x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 754651077,
     "fileSizeText": "720MB",
     "quality": "1080P",
@@ -1271,7 +1271,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775137627234.396,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1281,8 +1281,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?Zjf9DKHa",
+    "file": "Yuji Itadori 03x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/br/Temporada-3/todas-as-cenas/Yuji%20Itadori%2003x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4860798377,
     "fileSizeText": "4.5GB",
     "quality": "1080P",
@@ -1290,7 +1290,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775137600465.5034,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1300,8 +1300,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?lEFsH7ok",
+    "file": "Yuji Itadori 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/jp/season-3/all-scenes/Yuji%20Itadori%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2635846770,
     "fileSizeText": "2.5GB",
     "quality": "1080P",
@@ -1309,7 +1309,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775138809898.22,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1319,8 +1319,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "jp",
     "season": "season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?jAslVxhn",
+    "file": "Yuji Itadori 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/jp/season-3/best-scenes/Yuji%20Itadori%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 419527068,
     "fileSizeText": "400MB",
     "quality": "1080P",
@@ -1328,7 +1328,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775138854033.2466,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1338,8 +1338,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?UpgDN7JN",
+    "file": "Yuji Itadori 03x06 All Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/us/season-3/all-scenes/Yuji%20Itadori%2003x06%20All%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2635846785,
     "fileSizeText": "2.5GB",
     "quality": "1080P",
@@ -1347,7 +1347,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775139856994.6707,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1357,8 +1357,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?PNSdkwf3",
+    "file": "Yuji Itadori 03x06 Best Scenes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuji-Itadori/us/season-3/best-scenes/Yuji%20Itadori%2003x06%20Best%20Scenes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 419527134,
     "fileSizeText": "400MB",
     "quality": "1080P",
@@ -1366,7 +1366,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775139883962.0408,
     "updatedAtText": "4/2/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1376,8 +1376,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?mLJeycFJ",
+    "file": "Yuki Tsukumo 03x02 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuki-Tsukumo/br/Temporada-3/melhores-cenas/Yuki%20Tsukumo%2003x02%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 88275363,
     "fileSizeText": "84MB",
     "quality": "1080P",
@@ -1385,7 +1385,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555151.5698,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1395,8 +1395,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?0Rx1Si3S",
+    "file": "Yuki Tsukumo 03x02 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuki-Tsukumo/br/Temporada-3/todas-as-cenas/Yuki%20Tsukumo%2003x02%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 307674493,
     "fileSizeText": "293MB",
     "quality": "1080P",
@@ -1404,7 +1404,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555158.941,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1414,8 +1414,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?pGNtcgiu",
+    "file": "Yuta Okkotsu 03x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuta-Okkotsu/br/Temporada-3/melhores-cenas/Yuta%20Okkotsu%2003x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 173666552,
     "fileSizeText": "166MB",
     "quality": "1080P",
@@ -1423,7 +1423,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555172.5073,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "anime",
@@ -1433,8 +1433,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?Jwn3c3Yb",
+    "file": "Yuta Okkotsu 03x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yuta-Okkotsu/br/Temporada-3/todas-as-cenas/Yuta%20Okkotsu%2003x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 914763761,
     "fileSizeText": "872MB",
     "quality": "1080P",
@@ -1442,7 +1442,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448555187.0393,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1452,8 +1452,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?zRThxfkj",
+    "file": "Angel 03x02 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Angel/br/Temporada-3/melhores-cenas/Angel%2003x02%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 285343286,
     "fileSizeText": "272MB",
     "quality": "1080P",
@@ -1461,7 +1461,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300208496.9785,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1471,8 +1471,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?ylxN9n6t",
+    "file": "Angel 03x02 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Angel/br/Temporada-3/todas-as-cenas/Angel%2003x02%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1505296771,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -1480,7 +1480,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777183153965.9353,
     "updatedAtText": "4/26/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1490,8 +1490,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?OE9qn8hx",
+    "file": "Angel 03x02 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Angel/us/Season-3/all-scenes/Angel%2003x02%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1505296734,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -1499,7 +1499,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777187434192.4854,
     "updatedAtText": "4/26/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1509,8 +1509,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?XTCejbGt",
+    "file": "Angel 03x02 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Angel/us/Season-3/best-scenes/Angel%2003x02%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 285343253,
     "fileSizeText": "272MB",
     "quality": "1080P",
@@ -1518,7 +1518,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302244505.9844,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1528,8 +1528,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?Eu3MmIQk",
+    "file": "Cassie Howard 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cassie-Howard/br/Temporada-3/melhores-cenas/Cassie%20Howard%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 411710208,
     "fileSizeText": "393MB",
     "quality": "1080P",
@@ -1537,7 +1537,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300319704.0708,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1547,8 +1547,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?uSVVDDkh",
+    "file": "Cassie Howard 03x01 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cassie-Howard/br/Temporada-3/todas-as-cenas/Cassie%20Howard%2003x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 4575576978,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -1556,7 +1556,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777606096704.2449,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1566,8 +1566,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?3FCdORqf",
+    "file": "Cassie Howard 03x01 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cassie-Howard/us/Season-3/all-scenes/Cassie%20Howard%2003x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 4575574040,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -1575,7 +1575,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777845738617.4094,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1585,8 +1585,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?QOcF34fW",
+    "file": "Cassie Howard 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cassie-Howard/us/Season-3/best-scenes/Cassie%20Howard%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 411710122,
     "fileSizeText": "393MB",
     "quality": "1080P",
@@ -1594,7 +1594,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302391804.6682,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1604,8 +1604,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?ONJTSuaI",
+    "file": "Daisy Miller 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Daisy-Miller/br/Temporada-3/melhores-cenas/Daisy%20Miller%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 93573684,
     "fileSizeText": "89MB",
     "quality": "1080P",
@@ -1613,7 +1613,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776816394202.6223,
     "updatedAtText": "4/21/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1623,8 +1623,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?8V4Qly2n",
+    "file": "Daisy Miller 03x01 Todas As Cenas 1080p @lalacenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Daisy-Miller/br/Temporada-3/todas-as-cenas/Daisy%20Miller%2003x01%20Todas%20As%20Cenas%201080p%20%40lalacenepacks.mp4",
     "fileSizeBytes": 357544057,
     "fileSizeText": "341MB",
     "quality": "1080P",
@@ -1632,7 +1632,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776816462035.2043,
     "updatedAtText": "4/21/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1642,8 +1642,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?KxPnDGMj",
+    "file": "Daisy Miller 03x01 All Scenes 1080p @lalacenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Daisy-Miller/us/Season-3/all-scenes/Daisy%20Miller%2003x01%20All%20Scenes%201080p%20%40lalacenepacks.mp4",
     "fileSizeBytes": 357544059,
     "fileSizeText": "341MB",
     "quality": "1080P",
@@ -1651,7 +1651,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776816631670.9434,
     "updatedAtText": "4/21/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1661,8 +1661,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?2pPBOFSy",
+    "file": "Daisy Miller 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Daisy-Miller/us/Season-3/best-scenes/Daisy%20Miller%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 93573679,
     "fileSizeText": "89MB",
     "quality": "1080P",
@@ -1670,7 +1670,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776816550582.5664,
     "updatedAtText": "4/21/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1680,8 +1680,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?DQrlLdp0",
+    "file": "Jules Vaughn 03x02 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jules-Vaughn/br/Temporada-3/melhores-cenas/Jules%20Vaughn%2003x02%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 244145373,
     "fileSizeText": "233MB",
     "quality": "1080P",
@@ -1689,7 +1689,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300256797.614,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1699,8 +1699,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?ZQzapypz",
+    "file": "Jules Vaughn 03x02 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jules-Vaughn/br/Temporada-3/todas-as-cenas/Jules%20Vaughn%2003x02%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2781288414,
     "fileSizeText": "2.6GB",
     "quality": "1080P",
@@ -1708,7 +1708,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777604121433.185,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1718,8 +1718,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?OAF4TvJC",
+    "file": "Jules Vaughn 03x02 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jules-Vaughn/us/Season-3/all-scenes/Jules%20Vaughn%2003x02%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2781288418,
     "fileSizeText": "2.6GB",
     "quality": "1080P",
@@ -1727,7 +1727,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777847654560.904,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1737,8 +1737,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?S8B17HP9",
+    "file": "Jules Vaughn 03x02 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jules-Vaughn/us/Season-3/best-scenes/Jules%20Vaughn%2003x02%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 244145343,
     "fileSizeText": "233MB",
     "quality": "1080P",
@@ -1746,7 +1746,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302307279.1548,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1756,8 +1756,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?HdQzvSDx",
+    "file": "Lexi Howard 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Lexi-Howard/br/Temporada-3/melhores-cenas/Lexi%20Howard%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 121503876,
     "fileSizeText": "116MB",
     "quality": "1080P",
@@ -1765,7 +1765,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777065081555.4597,
     "updatedAtText": "4/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1775,8 +1775,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?bLoP1xOh",
+    "file": "Lexi Howard 03x01 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Lexi-Howard/br/Temporada-3/todas-as-cenas/Lexi%20Howard%2003x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 936158233,
     "fileSizeText": "893MB",
     "quality": "1080P",
@@ -1784,7 +1784,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777663230329.634,
     "updatedAtText": "5/1/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1794,8 +1794,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?IdTXybPs",
+    "file": "Lexi Howard 03x01 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Lexi-Howard/us/Season-3/all-scenes/Lexi%20Howard%2003x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 936158320,
     "fileSizeText": "893MB",
     "quality": "1080P",
@@ -1803,7 +1803,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777845844280.6748,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1813,8 +1813,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?Vgx6hrld",
+    "file": "Lexi Howard 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Lexi-Howard/us/Season-3/best-scenes/Lexi%20Howard%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 121503862,
     "fileSizeText": "116MB",
     "quality": "1080P",
@@ -1822,7 +1822,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777070841791.1306,
     "updatedAtText": "4/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1832,8 +1832,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?MQZthTLp",
+    "file": "Maddy Perez Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/melhores-cenas/Maddy%20Perez%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 720980299,
     "fileSizeText": "688MB",
     "quality": "1080P",
@@ -1841,7 +1841,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776279930102.1597,
     "updatedAtText": "4/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1851,8 +1851,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?IxxXX5jq",
+    "file": "Maddy Perez Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-1/todas-as-cenas/Maddy%20Perez%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 5615018057,
     "fileSizeText": "5.2GB",
     "quality": "1080P",
@@ -1860,7 +1860,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776292961059.359,
     "updatedAtText": "4/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1870,8 +1870,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?KvrgSngb",
+    "file": "Maddy Perez 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-3/melhores-cenas/Maddy%20Perez%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 404362293,
     "fileSizeText": "386MB",
     "quality": "1080P",
@@ -1879,7 +1879,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300067942.6042,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1889,8 +1889,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?37jvww10",
+    "file": "Maddy Perez 03x01 Todas As Cenas 1080p @lalascenepacks .mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/br/Temporada-3/todas-as-cenas/Maddy%20Perez%2003x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks%20.mp4",
     "fileSizeBytes": 2317377156,
     "fileSizeText": "2.2GB",
     "quality": "1080P",
@@ -1898,7 +1898,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777604604847.8518,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1908,8 +1908,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-1",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?0ogNQVNn",
+    "file": "Maddy Perez All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/all-scenes/Maddy%20Perez%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 5615018080,
     "fileSizeText": "5.2GB",
     "quality": "1080P",
@@ -1917,7 +1917,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776290514054.4937,
     "updatedAtText": "4/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1927,8 +1927,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-1",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?UeoiR9lt",
+    "file": "Maddy Perez Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-1/best-scenes/Maddy%20Perez%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 720980254,
     "fileSizeText": "688MB",
     "quality": "1080P",
@@ -1936,7 +1936,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776279714457.7021,
     "updatedAtText": "4/15/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1946,8 +1946,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?sjuzLNdU",
+    "file": "Maddy Perez 03x01 All Scenes 1080p @lalascenepacks .mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-3/all-scenes/Maddy%20Perez%2003x01%20All%20Scenes%201080p%20%40lalascenepacks%20.mp4",
     "fileSizeBytes": 2317377105,
     "fileSizeText": "2.2GB",
     "quality": "1080P",
@@ -1955,7 +1955,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777846056665.421,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1965,8 +1965,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?vVDYLsVI",
+    "file": "Maddy Perez 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maddy-Perez/us/Season-3/best-scenes/Maddy%20Perez%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 404362285,
     "fileSizeText": "386MB",
     "quality": "1080P",
@@ -1974,7 +1974,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302057050.7805,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -1984,8 +1984,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?hB4pwvPF",
+    "file": "Magick 03x02 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Magick/br/Temporada-3/melhores-cenas/Magick%2003x02%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 26900806,
     "fileSizeText": "26MB",
     "quality": "1080P",
@@ -1993,7 +1993,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300262624.985,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2003,8 +2003,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?QwqJeyjd",
+    "file": "Magick 03x02 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Magick/br/Temporada-3/todas-as-cenas/Magick%2003x02%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 77371988,
     "fileSizeText": "74MB",
     "quality": "1080P",
@@ -2012,7 +2012,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777183373907.9512,
     "updatedAtText": "4/26/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2022,8 +2022,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?B7pkIMjQ",
+    "file": "Magick 03x02 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Magick/us/Season-3/all-scenes/Magick%2003x02%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 247430068,
     "fileSizeText": "236MB",
     "quality": "1080P",
@@ -2031,7 +2031,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777847741161.0967,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2041,8 +2041,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?91XNFoHs",
+    "file": "Magick 03x02 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Magick/us/Season-3/best-scenes/Magick%2003x02%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 26900351,
     "fileSizeText": "26MB",
     "quality": "1080P",
@@ -2050,7 +2050,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302316418.0916,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2060,8 +2060,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?HWuJkWJm",
+    "file": "Nate Jacobs 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nate-Jacobs/br/Temporada-3/melhores-cenas/Nate%20Jacobs%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 549376135,
     "fileSizeText": "524MB",
     "quality": "1080P",
@@ -2069,7 +2069,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300353949.9583,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2079,8 +2079,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?eWAvVhkY",
+    "file": "Nate Jacobs 03x01 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nate-Jacobs/br/Temporada-3/todas-as-cenas/Nate%20Jacobs%2003x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 4643009301,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -2088,7 +2088,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777605354449.029,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2098,8 +2098,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?i06wjE5e",
+    "file": "Nate Jacobs 03x01 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nate-Jacobs/us/Season-3/all-scenes/Nate%20Jacobs%2003x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 4643006717,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -2107,7 +2107,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777844464892.4934,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2117,8 +2117,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://lootdest.org/s?FzbBZ53v",
+    "file": "Nate Jacobs 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nate-Jacobs/us/Season-3/best-scenes/Nate%20Jacobs%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 549376091,
     "fileSizeText": "524MB",
     "quality": "1080P",
@@ -2126,7 +2126,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302443060.001,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2136,8 +2136,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?4JvQsa1u",
+    "file": "Rue Bennett 03x01 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rue-Bennett/br/Temporada-3/melhores-cenas/Rue%20Bennett%2003x01%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 961970198,
     "fileSizeText": "917MB",
     "quality": "1080P",
@@ -2145,7 +2145,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777300150663.066,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2155,8 +2155,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-3",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?adPNXIZ3",
+    "file": "Rue Bennett 03x01 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rue-Bennett/br/Temporada-3/todas-as-cenas/Rue%20Bennett%2003x01%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 9280254029,
     "fileSizeText": "8.6GB",
     "quality": "1080P",
@@ -2164,7 +2164,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777604478479.833,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2174,8 +2174,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://loot-link.com/s?cIcX7uA5",
+    "file": "Rue Bennett 03x01 All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rue-Bennett/us/Season-3/all-scenes/Rue%20Bennett%2003x01%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 9280254067,
     "fileSizeText": "8.6GB",
     "quality": "1080P",
@@ -2183,7 +2183,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777846782347.1465,
     "updatedAtText": "5/3/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2193,8 +2193,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "Season-3",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?f6OiR55Z",
+    "file": "Rue Bennett 03x01 Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rue-Bennett/us/Season-3/best-scenes/Rue%20Bennett%2003x01%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 961970183,
     "fileSizeText": "917MB",
     "quality": "1080P",
@@ -2202,7 +2202,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777302164456.802,
     "updatedAtText": "4/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2213,7 +2213,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-1",
     "pack": "melhores-cenas",
     "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?tC2LZvxa",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/melhores-cenas/",
     "fileSizeBytes": 0,
     "fileSizeText": "—",
     "quality": "Unknown",
@@ -2221,7 +2221,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777569236449.4895,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2231,8 +2231,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?bvMtc777",
+    "file": "Yumeko Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Yumeko/br/Temporada-1/todas-as-cenas/Yumeko%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1799361275,
     "fileSizeText": "1.7GB",
     "quality": "1080P",
@@ -2240,7 +2240,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1777569236449.4895,
     "updatedAtText": "4/30/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2250,8 +2250,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?N3D1Yw74",
+    "file": "Jj Maybank 01x01 Melhores Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/melhores-cenas/Jj%20Maybank%2001x01%20Melhores%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 168793677,
     "fileSizeText": "161MB",
     "quality": "1080P",
@@ -2259,7 +2259,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743070.038,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2269,8 +2269,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?F449aInr",
+    "file": "Jj Maybank 01x01 Todas As Cenas @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Jj-Maybank/br/Temporada-1/todas-as-cenas/Jj%20Maybank%2001x01%20Todas%20As%20Cenas%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1465326013,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -2278,7 +2278,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743097.481,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2288,8 +2288,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?gM1uJEIA",
+    "file": "067 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/melhores-cenas/067%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 583366468,
     "fileSizeText": "556MB",
     "quality": "1080P",
@@ -2297,7 +2297,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774461214791.7683,
     "updatedAtText": "3/25/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2307,8 +2307,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?zhXKAtck",
+    "file": "067 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/067/br/Temporada-1/todas-as-cenas/067%20Todas%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2746809986,
     "fileSizeText": "2.6GB",
     "quality": "Unknown",
@@ -2316,7 +2316,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278217.973,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2326,8 +2326,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?jSbVNsmV",
+    "file": "222 Melhores Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/melhores-cenas/222%20Melhores%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 431368610,
     "fileSizeText": "411MB",
     "quality": "Unknown",
@@ -2335,7 +2335,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278244.0608,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2345,8 +2345,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?DwbA26rW",
+    "file": "222 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/222/br/Temporada-2/todas-as-cenas/222%20Todas%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1115668992,
     "fileSizeText": "1.0GB",
     "quality": "Unknown",
@@ -2354,7 +2354,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278268.3862,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2364,8 +2364,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?nnsOymfZ",
+    "file": "240 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/240/br/Temporada-1/todas-as-cenas/240%20Todas%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 845077133,
     "fileSizeText": "806MB",
     "quality": "Unknown",
@@ -2373,7 +2373,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278292.4673,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2383,8 +2383,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?AEZmP0rB",
+    "file": "456 melhores cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/melhores-cenas/456%20melhores%20cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 792222044,
     "fileSizeText": "756MB",
     "quality": "Unknown",
@@ -2392,7 +2392,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278318.1995,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2402,8 +2402,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?8pDZ6MrI",
+    "file": "456 Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/456/br/Temporada-1/todas-as-cenas/456%20Todas%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 12912831040,
     "fileSizeText": "12GB",
     "quality": "Unknown",
@@ -2411,7 +2411,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278344.218,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2421,8 +2421,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?Cn1BfUUz",
+    "file": "Front Man Melhores Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front%20Man/br/Temporada-1/melhores-cenas/Front%20Man%20Melhores%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 464921183,
     "fileSizeText": "443MB",
     "quality": "Unknown",
@@ -2430,7 +2430,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278380.4226,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2440,8 +2440,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?Yp9q040w",
+    "file": "Front Man Todas Cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Front%20Man/br/Temporada-1/todas-as-cenas/Front%20Man%20Todas%20Cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1433514337,
     "fileSizeText": "1.3GB",
     "quality": "Unknown",
@@ -2449,7 +2449,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278404.6177,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2459,8 +2459,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?uknk7mQI",
+    "file": "Hwang Jun-ho melhores cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang%20Jun-ho/br/Temporada-1/melhores-cenas/Hwang%20Jun-ho%20melhores%20cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 713810463,
     "fileSizeText": "681MB",
     "quality": "Unknown",
@@ -2468,7 +2468,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278430.3628,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2478,8 +2478,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?TipHnXiW",
+    "file": "Hwang Jun-ho todas cenas @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Hwang%20Jun-ho/br/Temporada-1/todas-as-cenas/Hwang%20Jun-ho%20todas%20cenas%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2509227819,
     "fileSizeText": "2.3GB",
     "quality": "Unknown",
@@ -2487,7 +2487,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278458.9556,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2497,8 +2497,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?kaBtLP1C",
+    "file": "vendedor s1 @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Salesman/br/Temporada-1/todas-as-cenas/vendedor%20s1%20%40lalascenepacks.mp4",
     "fileSizeBytes": 473144825,
     "fileSizeText": "451MB",
     "quality": "Unknown",
@@ -2506,7 +2506,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774403278483.3767,
     "updatedAtText": "3/24/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2516,8 +2516,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?JpZb5MI8",
+    "file": "Holly Wheeler 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Holly-Wheeler/br/Temporada-5/todas-as-cenas/Holly%20Wheeler%2005x01-04%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1470951377,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -2525,7 +2525,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774666859587.9727,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2535,8 +2535,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?Sxnn92ba",
+    "file": "Karen Wheeler 05x01-02 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Karen-Wheeler/br/Temporada-5/todas-as-cenas/Karen%20Wheeler%2005x01-02%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 507496294,
     "fileSizeText": "484MB",
     "quality": "1080P",
@@ -2544,7 +2544,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774667077479.4788,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2554,8 +2554,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?goTGwrgK",
+    "file": "Max 05x04-07 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/melhores-cenas/Max%2005x04-07%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 871763501,
     "fileSizeText": "831MB",
     "quality": "1080P",
@@ -2563,7 +2563,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774667173998.422,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2573,8 +2573,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?xw8nKS2g",
+    "file": "Max 05x04-07 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Max-Mayfield/br/Temporada-5/todas-as-cenas/Max%2005x04-07%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 3005332933,
     "fileSizeText": "2.8GB",
     "quality": "1080P",
@@ -2582,7 +2582,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774666998334.672,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2592,8 +2592,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?xiX5PmFF",
+    "file": "Mike Wheeler 05x01-04 Todas as cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mike-Wheeler/br/Temporada-5/todas-as-cenas/Mike%20Wheeler%2005x01-04%20Todas%20as%20cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1748349539,
     "fileSizeText": "1.6GB",
     "quality": "1080P",
@@ -2601,7 +2601,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774666956710.5325,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2611,8 +2611,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?wQuGR1w3",
+    "file": "Robin 05x01-04 todas as cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Robin-Buckley/br/Temporada-5/todas-as-cenas/Robin%2005x01-04%20todas%20as%20cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1517310042,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -2620,7 +2620,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774667027109.9702,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2630,8 +2630,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?I0mqLbGA",
+    "file": "Steve temporada 1 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-1/todas-as-cenas/Steve%20temporada%201%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1451094621,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -2639,7 +2639,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774666009650.1548,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2649,8 +2649,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?RFAGYqMN",
+    "file": "Steve 05x01-04 Todas as Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Steve-Harrington/br/Temporada-5/todas-as-cenas/Steve%2005x01-04%20Todas%20as%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2255784381,
     "fileSizeText": "2.1GB",
     "quality": "1080P",
@@ -2658,7 +2658,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774666688749.4385,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2668,8 +2668,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?Mp7gmpKd",
+    "file": "Will Byers 05x01-04 Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/melhores-cenas/Will%20Byers%2005x01-04%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 573488877,
     "fileSizeText": "547MB",
     "quality": "1080P",
@@ -2677,7 +2677,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774667136637.7031,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2687,8 +2687,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-5",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?7U143k1X",
+    "file": "Will Byers 05x01-04 Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Will-Byers/br/Temporada-5/todas-as-cenas/Will%20Byers%2005x01-04%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2619875711,
     "fileSizeText": "2.4GB",
     "quality": "1080P",
@@ -2696,7 +2696,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774667122039.252,
     "updatedAtText": "3/27/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2706,8 +2706,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?lzKXi8ip",
+    "file": "Damon Salvatore 01x01-07 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Damon-Salvatore/br/Temporada-1/todas-as-cenas/Damon%20Salvatore%2001x01-07%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 15861541147,
     "fileSizeText": "15GB",
     "quality": "1080P",
@@ -2715,7 +2715,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774491161969.388,
     "updatedAtText": "3/25/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2725,8 +2725,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?qikPfaur",
+    "file": "01x07 Halloween Melhores Cenas.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/melhores-cenas/01x07%20Halloween%20Melhores%20Cenas.mp4",
     "fileSizeBytes": 716951388,
     "fileSizeText": "684MB",
     "quality": "Unknown",
@@ -2734,7 +2734,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774487558093.0493,
     "updatedAtText": "3/25/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2744,8 +2744,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?7u92znGW",
+    "file": "S1 Ep 7 Completo - Assombrados @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/ep-7/br/Temporada-1/todas-as-cenas/S1%20Ep%207%20Completo%20-%20Assombrados%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2210700548,
     "fileSizeText": "2.1GB",
     "quality": "Unknown",
@@ -2753,7 +2753,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774487714876.712,
     "updatedAtText": "3/25/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2763,8 +2763,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?pWKw7N3i",
+    "file": "Agnes @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Agnes-DeMille/br/Temporada-2/todas-as-cenas/Agnes%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1832213131,
     "fileSizeText": "1.7GB",
     "quality": "1080P",
@@ -2772,7 +2772,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743157.9316,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2782,8 +2782,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?sWE4FjNB",
+    "file": "Ajax @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Ajax-Petropolus/br/Temporada-2/todas-as-cenas/Ajax%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 950514441,
     "fileSizeText": "906MB",
     "quality": "1080P",
@@ -2791,7 +2791,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743209.9707,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2801,8 +2801,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?vvwXEqtx",
+    "file": "Bianca @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bianca-Barclay/br/Temporada-2/todas-as-cenas/Bianca%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1640722242,
     "fileSizeText": "1.5GB",
     "quality": "1080P",
@@ -2810,7 +2810,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743262.5784,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2820,8 +2820,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?XdR8zYsR",
+    "file": "Bruno @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bruno-Yuson/br/Temporada-2/todas-as-cenas/Bruno%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 747861873,
     "fileSizeText": "713MB",
     "quality": "1080P",
@@ -2829,7 +2829,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743316.4895,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2839,8 +2839,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?xY6ffoma",
+    "file": "Dra. Rachael Farburn @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Dra.-Rachael-Fairbun/br/Temporada-2/todas-as-cenas/Dra.%20Rachael%20Farburn%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 634145235,
     "fileSizeText": "605MB",
     "quality": "1080P",
@@ -2848,7 +2848,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743347.3079,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2858,8 +2858,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "Enid-no-corpo-da-Wandinha",
-    "file": "Enid-no-corpo-da-Wandinha",
-    "href": "https://loot-link.com/s?sCT78KRZ",
+    "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Enid-no-corpo-da-Wandinha/Enid%20no%20corpo%20da%20wandinha%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1334875848,
     "fileSizeText": "1.2GB",
     "quality": "1080P",
@@ -2867,7 +2867,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773521061210.3503,
     "updatedAtText": "3/14/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2877,8 +2877,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?gicD9b9X",
+    "file": "Enid Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/todas-as-cenas/Enid%20Parte%202%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 3572551033,
     "fileSizeText": "3.3GB",
     "quality": "1080P",
@@ -2886,7 +2886,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743453.3806,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2896,8 +2896,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "Wandinha-no-corpo-da-Enid",
-    "file": "Wandinha-no-corpo-da-Enid",
-    "href": "https://lootdest.org/s?2w20UXnj",
+    "file": "Wandinha no corpo da Enid @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Enid-Sinclair/br/Temporada-2/Wandinha-no-corpo-da-Enid/Wandinha%20no%20corpo%20da%20Enid%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 937347252,
     "fileSizeText": "894MB",
     "quality": "1080P",
@@ -2905,7 +2905,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773521076726.438,
     "updatedAtText": "3/14/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2915,8 +2915,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?0qGn2O7s",
+    "file": "Eugene @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Eugene-Ottinger/br/Temporada-2/todas-as-cenas/Eugene%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 834018290,
     "fileSizeText": "795MB",
     "quality": "1080P",
@@ -2924,7 +2924,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743504.6323,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2934,8 +2934,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?USs0Obes",
+    "file": "Jovem Gomez @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Gomez-Addams/br/Temporada-1/todas-as-cenas/Jovem%20Gomez%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 196797042,
     "fileSizeText": "188MB",
     "quality": "1080P",
@@ -2943,7 +2943,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743530.8054,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2953,8 +2953,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?9YPHuO84",
+    "file": "Goody Addams @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Goody-Addams/br/Temporada-1/todas-as-cenas/Goody%20Addams%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 229835015,
     "fileSizeText": "219MB",
     "quality": "1080P",
@@ -2962,7 +2962,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743557.9373,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2972,8 +2972,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?tlySnsgz",
+    "file": "Isaac Night Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isaac-Night-(slurp)/br/Temporada-2/todas-as-cenas/Isaac%20Night%20Parte%202%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2220051870,
     "fileSizeText": "2.1GB",
     "quality": "1080P",
@@ -2981,7 +2981,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743583.9958,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -2991,8 +2991,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?zWHSqUAm",
+    "file": "Isadora Capri @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Isadora-Capri/br/Temporada-2/todas-as-cenas/Isadora%20Capri%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 820994264,
     "fileSizeText": "783MB",
     "quality": "1080P",
@@ -3000,7 +3000,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743643.6492,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3010,8 +3010,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?Q3GcnNyN",
+    "file": "Larissa Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Larissa-Weems/br/Temporada-2/todas-as-cenas/Larissa%20Parte%202%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1110500909,
     "fileSizeText": "1.0GB",
     "quality": "1080P",
@@ -3019,7 +3019,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743670.3516,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3029,8 +3029,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?qrcqnTLz",
+    "file": "Maozinha Parte 2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Maozinha/br/Temporada-2/todas-as-cenas/Maozinha%20Parte%202%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 918420415,
     "fileSizeText": "876MB",
     "quality": "1080P",
@@ -3038,7 +3038,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743697.1577,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3048,8 +3048,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?AdXIwwRQ",
+    "file": "Morticia @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mort%C3%ADcia-Addams/br/Temporada-2/todas-as-cenas/Morticia%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 3724657604,
     "fileSizeText": "3.5GB",
     "quality": "1080P",
@@ -3057,7 +3057,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743750.0896,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3067,8 +3067,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?blZL86fL",
+    "file": "Pugsley @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Pugsley-Addams/br/Temporada-2/todas-as-cenas/Pugsley%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2098456394,
     "fileSizeText": "2.0GB",
     "quality": "1080P",
@@ -3076,7 +3076,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743802.4858,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3086,8 +3086,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?VgIKhx0d",
+    "file": "Rosaline Rotwood @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Rosaline-Rotwood/br/Temporada-2/todas-as-cenas/Rosaline%20Rotwood%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 221271183,
     "fileSizeText": "211MB",
     "quality": "1080P",
@@ -3095,7 +3095,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743829.135,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3106,7 +3106,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
     "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?ToP7B4Qq",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tio-Chico-Addams/br/Temporada-2/todas-as-cenas/",
     "fileSizeBytes": 0,
     "fileSizeText": "—",
     "quality": "Unknown",
@@ -3114,7 +3114,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773421561457.4482,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3124,8 +3124,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?Ci2AemCJ",
+    "file": "Tyler Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tyler-Galpin/br/Temporada-2/todas-as-cenas/Tyler%20Parte%201%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2124657489,
     "fileSizeText": "2.0GB",
     "quality": "1080P",
@@ -3133,7 +3133,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743915.5935,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3143,8 +3143,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?YYYbLDRc",
+    "file": "Hester Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vov%C3%B3-Addams/br/Temporada-2/todas-as-cenas/Hester%20Parte%201%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1178081604,
     "fileSizeText": "1.1GB",
     "quality": "1080P",
@@ -3152,7 +3152,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448743972.2334,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3162,8 +3162,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?gYiUgO11",
+    "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/melhores-cenas/Wandinha%20Melhores%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2016174667,
     "fileSizeText": "1.9GB",
     "quality": "1080P",
@@ -3171,7 +3171,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448744023.6753,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3181,8 +3181,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-1",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?AOdeDSB6",
+    "file": "Wandinha Todas Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-1/todas-as-cenas/Wandinha%20Todas%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 14593278890,
     "fileSizeText": "14GB",
     "quality": "1080P",
@@ -3190,7 +3190,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448744136.8567,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3200,8 +3200,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?FFI9Ealx",
+    "file": "Wandinha Melhores Cenas Parte 1 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/melhores-cenas/Wandinha%20Melhores%20Cenas%20Parte%201%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 1115767132,
     "fileSizeText": "1.0GB",
     "quality": "1080P",
@@ -3209,7 +3209,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448744164.6465,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3219,8 +3219,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "mudança-de-corpos",
-    "file": "mudança-de-corpos",
-    "href": "https://loot-link.com/s?HMz0TBYh",
+    "file": "Enid no corpo da wandinha @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/mudan%C3%A7a-de-corpos/Enid%20no%20corpo%20da%20wandinha%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 2272223100,
     "fileSizeText": "2.1GB",
     "quality": "1080P",
@@ -3228,7 +3228,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448744225.68,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "series",
@@ -3238,8 +3238,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "Temporada-2",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?GgngW8C6",
+    "file": "Wandinha S2 1-2 @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Wednesday-Addams/br/Temporada-2/todas-as-cenas/Wandinha%20S2%201-2%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 10212085962,
     "fileSizeText": "9.5GB",
     "quality": "1080P",
@@ -3247,7 +3247,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448744305.4856,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3257,8 +3257,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?sUQ9BO6U",
+    "file": "Cameron James Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cameron/br/todas-as-cenas/Cameron%20James%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1323457727,
     "fileSizeText": "1.2GB",
     "quality": "1080P",
@@ -3266,7 +3266,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774738681616.3633,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3276,8 +3276,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?dBfqRjFN",
+    "file": "Kat Stratford Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Kat/br/todas-as-cenas/Kat%20Stratford%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2495780537,
     "fileSizeText": "2.3GB",
     "quality": "1080P",
@@ -3285,7 +3285,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774738681660.4106,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3295,8 +3295,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?jVH9tM9k",
+    "file": "Patrick Verona Todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Patrick/br/todas-as-cenas/Patrick%20Verona%20Todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1953972673,
     "fileSizeText": "1.8GB",
     "quality": "1080P",
@@ -3304,7 +3304,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774738681695.7634,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3314,8 +3314,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?a3qHgD27",
+    "file": "Art Donaldson @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Art%20Donaldson/br/todas-as-cenas/Art%20Donaldson%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4365994248,
     "fileSizeText": "4.1GB",
     "quality": "1080P",
@@ -3323,7 +3323,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448701461.596,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3333,8 +3333,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?KRBbnhvt",
+    "file": "Patrick Zweig @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Patrick%20Zweig/br/todas-as-cenas/Patrick%20Zweig%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4618265848,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -3342,7 +3342,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448701525.4946,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3352,8 +3352,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?vkq6Lmfy",
+    "file": "Tashi Duncan @lalascenepacks 1080p.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Tashi%20Ducan/br/todas-as-cenas/Tashi%20Duncan%20%40lalascenepacks%201080p.mp4",
     "fileSizeBytes": 4570811627,
     "fileSizeText": "4.3GB",
     "quality": "1080P",
@@ -3361,7 +3361,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1773448701555.3923,
     "updatedAtText": "3/13/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3371,8 +3371,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?iaDsxJ3U",
+    "file": "Nick Leister Melhores Cenas - Culpa Mia 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick%20Leister/br/melhores-cenas/Nick%20Leister%20Melhores%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 482970186,
     "fileSizeText": "461MB",
     "quality": "1080P",
@@ -3380,7 +3380,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774827861440.084,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3390,8 +3390,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?UPueqtPk",
+    "file": "Nick Leister Todas as Cenas - Culpa Mia 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick%20Leister/br/todas-as-cenas/Nick%20Leister%20Todas%20as%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 3691613549,
     "fileSizeText": "3.4GB",
     "quality": "1080P",
@@ -3399,7 +3399,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774827861483.3132,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3409,8 +3409,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://loot-link.com/s?QpqlhA8k",
+    "file": "Noah Morgan Melhores Cenas - Culpa Mia 1080p @lalascenepackss.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah%20Morgan/br/melhores-cenas/Noah%20Morgan%20Melhores%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepackss.mp4",
     "fileSizeBytes": 1200505232,
     "fileSizeText": "1.1GB",
     "quality": "1080P",
@@ -3418,7 +3418,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774827861517.2676,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3428,8 +3428,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?E4ubF0Pc",
+    "file": "Noah Morgan Todas as Cenas - Culpa Mia 1080p @lalascenepackss.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah%20Morgan/br/todas-as-cenas/Noah%20Morgan%20Todas%20as%20Cenas%20-%20Culpa%20Mia%201080p%20%40lalascenepackss.mp4",
     "fileSizeBytes": 4716811206,
     "fileSizeText": "4.4GB",
     "quality": "1080P",
@@ -3437,7 +3437,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774827861554.2712,
     "updatedAtText": "3/29/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3447,8 +3447,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?UPueqtPk",
+    "file": "Nick Leister 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick-Leister/br/todas-as-cenas/Nick%20Leister%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2999548822,
     "fileSizeText": "2.8GB",
     "quality": "1080P",
@@ -3456,7 +3456,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774986846271.2913,
     "updatedAtText": "3/31/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3466,8 +3466,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?E4ubF0Pc",
+    "file": "Noah Morgan 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Noah-Morgan/br/todas-as-cenas/Noah%20Morgan%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 3481077658,
     "fileSizeText": "3.2GB",
     "quality": "1080P",
@@ -3475,7 +3475,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774986858277.315,
     "updatedAtText": "3/31/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3485,8 +3485,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?7Z1JbEzh",
+    "file": "Sofia Zabala 4k @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Sofia-Zabala/br/todas-as-cenas/Sofia%20Zabala%204k%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1747099209,
     "fileSizeText": "1.6GB",
     "quality": "4K",
@@ -3494,7 +3494,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774986962272.4229,
     "updatedAtText": "3/31/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3504,8 +3504,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?MIWwxeU8",
+    "file": "Cairo Sweet Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cairo-Sweet/br/melhores-cenas/Cairo%20Sweet%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1056933903,
     "fileSizeText": "1008MB",
     "quality": "1080P",
@@ -3513,7 +3513,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775596442404.4106,
     "updatedAtText": "4/7/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3523,8 +3523,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?bx4ENiCE",
+    "file": "Cairo Sweet todas As Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Cairo-Sweet/br/todas-as-cenas/Cairo%20Sweet%20todas%20As%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 2802424754,
     "fileSizeText": "2.6GB",
     "quality": "1080P",
@@ -3532,7 +3532,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1775596441216.8423,
     "updatedAtText": "4/7/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3542,8 +3542,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "",
     "pack": "all-scenes",
-    "file": "all-scenes",
-    "href": "https://lootdest.org/s?LVb7RnO6",
+    "file": "Duke Orsino All Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Duke-Orsino/us/all-scenes/Duke%20Orsino%20All%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 5080179854,
     "fileSizeText": "4.7GB",
     "quality": "1080P",
@@ -3551,7 +3551,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776377655385.9841,
     "updatedAtText": "4/16/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3561,8 +3561,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "us",
     "season": "",
     "pack": "best-scenes",
-    "file": "best-scenes",
-    "href": "https://loot-link.com/s?QGqU13FQ",
+    "file": "Duke Orsino Best Scenes 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Duke-Orsino/us/best-scenes/Duke%20Orsino%20Best%20Scenes%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 937364392,
     "fileSizeText": "894MB",
     "quality": "1080P",
@@ -3570,7 +3570,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1776638366747.1753,
     "updatedAtText": "4/19/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3580,8 +3580,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?F7G3H7CX",
+    "file": "Amelia Cavell 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Amelia/br/todas-as-cenas/Amelia%20Cavell%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 739930934,
     "fileSizeText": "706MB",
     "quality": "1080P",
@@ -3589,7 +3589,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774746217573.778,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3599,8 +3599,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?aO15Ekzk",
+    "file": "Mia Reed 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Mia/br/todas-as-cenas/Mia%20Reed%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 1501014676,
     "fileSizeText": "1.4GB",
     "quality": "1080P",
@@ -3608,7 +3608,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774746217611.6506,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3618,8 +3618,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?FHf3oFWh",
+    "file": "Nick Feindtein 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Nick/br/todas-as-cenas/Nick%20Feindtein%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 296694391,
     "fileSizeText": "283MB",
     "quality": "1080P",
@@ -3627,7 +3627,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774746217715.8474,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3637,8 +3637,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?r4UncfMk",
+    "file": "Quinton Hasland 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Quinton/br/todas-as-cenas/Quinton%20Hasland%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 600438273,
     "fileSizeText": "573MB",
     "quality": "1080P",
@@ -3646,7 +3646,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774746217746.5425,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3656,8 +3656,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?ZsBF2KXV",
+    "file": "Vada Cavell 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Vada-Cavell/br/todas-as-cenas/Vada%20Cavell%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 4747123778,
     "fileSizeText": "4.4GB",
     "quality": "1080P",
@@ -3665,7 +3665,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774746217782.8623,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3675,8 +3675,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?r9TlX6JB",
+    "file": "Alice Cullen Crepusculo 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Alice-Cullen/br/todas-as-cenas/Alice%20Cullen%20Crepusculo%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 494397426,
     "fileSizeText": "471MB",
     "quality": "1080P",
@@ -3684,7 +3684,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774752121523.0134,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3694,8 +3694,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?L9L8dY85",
+    "file": "Bella Swan Crepusculo 1 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Bella-Swan/br/todas-as-cenas/Bella%20Swan%20Crepusculo%201%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 5424691111,
     "fileSizeText": "5.1GB",
     "quality": "1080P",
@@ -3703,7 +3703,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774752121564.1428,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3713,8 +3713,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://loot-link.com/s?UTBTBaXa",
+    "file": "Edward Cullen Crepusculo 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Edwaed-Cullen/br/todas-as-cenas/Edward%20Cullen%20Crepusculo%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 3804289793,
     "fileSizeText": "3.5GB",
     "quality": "1080P",
@@ -3722,7 +3722,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774752121606.446,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3732,8 +3732,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "melhores-cenas",
-    "file": "melhores-cenas",
-    "href": "https://lootdest.org/s?RvdjpUSP",
+    "file": "Remi Aguilar Melhores Cenas 1080p @lalascenepacks.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi%20Aguilar/br/melhores-cenas/Remi%20Aguilar%20Melhores%20Cenas%201080p%20%40lalascenepacks.mp4",
     "fileSizeBytes": 803494748,
     "fileSizeText": "766MB",
     "quality": "1080P",
@@ -3741,7 +3741,7 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774747732476.7854,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   },
   {
     "mediaType": "movie",
@@ -3751,8 +3751,8 @@ export const packsCatalog: PackCatalogItem[] = [
     "language": "br",
     "season": "",
     "pack": "todas-as-cenas",
-    "file": "todas-as-cenas",
-    "href": "https://lootdest.org/s?pXPk1NV5",
+    "file": "Remi Aguilar Todas as Cenas @allascps.mp4",
+    "href": "https://pub-5719d1a2ca594294addba288a9734eb8.r2.dev/Remi%20Aguilar/br/todas-as-cenas/Remi%20Aguilar%20Todas%20as%20Cenas%20%40allascps.mp4",
     "fileSizeBytes": 4094057309,
     "fileSizeText": "3.8GB",
     "quality": "Unknown",
@@ -3760,6 +3760,6 @@ export const packsCatalog: PackCatalogItem[] = [
     "part": "",
     "updatedAt": 1774747535346.135,
     "updatedAtText": "3/28/2026",
-    "isMonetized": true
+    "isMonetized": false
   }
 ];

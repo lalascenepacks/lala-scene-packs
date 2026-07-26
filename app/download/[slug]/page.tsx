@@ -1,10 +1,9 @@
-import { downloadLinks } from "@/app/lib/downloadLinks";
 import { packsCatalog } from "@/app/lib/packsCatalog";
 
 function formatFileName(name: string) {
   return decodeURIComponent(name)
     .replaceAll("-", " ")
-    .replace(/\b\w/g, (l) => l.toUpperCase());
+    .replace(/\b\w/g, (letter) => letter.toUpperCase());
 }
 
 function normalizeSlug(value: string) {
@@ -44,9 +43,7 @@ export default async function DownloadPage({
 
   const normalizedSlug = normalizeSlug(slug);
   const fileName = formatFileName(slug);
-
-  const monetizedUrl = downloadLinks[normalizedSlug];
-  const directUrl = monetizedUrl || resolvePackHref(normalizedSlug);
+  const directUrl = resolvePackHref(normalizedSlug);
 
   return (
     <main
@@ -90,9 +87,7 @@ export default async function DownloadPage({
             fontSize: "15px",
           }}
         >
-          {monetizedUrl
-            ? "Your file is ready. Continue to unlock the download."
-            : directUrl
+          {directUrl
             ? "Your file is ready for direct download."
             : "Download unavailable for now."}
         </p>
@@ -112,21 +107,11 @@ export default async function DownloadPage({
           {fileName}
         </div>
 
-        {monetizedUrl ? (
-          <a
-            href={monetizedUrl}
-            target="_blank"
-            rel="noreferrer"
-            className="downloadBtn"
-          >
-            Continue to Download
-          </a>
-        ) : directUrl ? (
+        {directUrl ? (
           <a
             href={directUrl}
-            target="_blank"
-            rel="noreferrer"
             className="downloadBtn"
+            download
           >
             Download MP4
           </a>

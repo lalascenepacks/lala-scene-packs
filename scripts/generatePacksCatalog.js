@@ -38,19 +38,6 @@ function encodePathParts(parts) {
   return parts.map((part) => encodeURIComponent(part)).join("/");
 }
 
-function loadDownloadLinks() {
-  const filePath = path.join(process.cwd(), "app", "lib", "downloadLinks.ts");
-  const content = fs.existsSync(filePath) ? fs.readFileSync(filePath, "utf8") : "";
-
-  const matches = [...content.matchAll(/"([^"]+)"\s*:\s*"([^"]+)"/g)];
-  const result = {};
-
-  for (const match of matches) {
-    result[normalizeSlug(match[1])] = match[2];
-  }
-
-  return result;
-}
 
 function getFolders(folderPath) {
   if (!fs.existsSync(folderPath)) return [];
@@ -143,7 +130,6 @@ function buildTitle(character, pack, episode, part) {
   }${formatLabel(pack)}`;
 }
 
-const downloadLinks = loadDownloadLinks();
 const items = [];
 
 function addAnimePacks() {
@@ -176,7 +162,6 @@ function addAnimePacks() {
 
             const stat = fs.statSync(packPath);
             const meta = getPackMeta(packPath);
-            const isMonetized = !!downloadLinks[slug];
 
             items.push({
               mediaType: "anime",
@@ -186,16 +171,14 @@ function addAnimePacks() {
               language,
               season,
               pack,
-              file: isMonetized ? pack : meta.firstFile || pack,
-              href: isMonetized
-                ? downloadLinks[slug]
-                : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-                    character,
-                    language,
-                    season,
-                    pack,
-                    meta.firstFile || "",
-                  ])}`,
+              file: meta.firstFile || pack,
+              href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+                character,
+                language,
+               season,
+               pack,
+                meta.firstFile || "",
+              ])}`,
               fileSizeBytes: meta.fileSizeBytes,
               fileSizeText: meta.fileSizeText,
               quality: meta.quality,
@@ -203,7 +186,7 @@ function addAnimePacks() {
               part: meta.part,
               updatedAt: stat.mtimeMs,
               updatedAtText: formatDate(stat.mtimeMs),
-              isMonetized,
+              isMonetized: false,
             });
           }
         }
@@ -242,7 +225,6 @@ function addSeriesPacks() {
 
             const stat = fs.statSync(packPath);
             const meta = getPackMeta(packPath);
-            const isMonetized = !!downloadLinks[slug];
 
             items.push({
               mediaType: "series",
@@ -252,16 +234,14 @@ function addSeriesPacks() {
               language,
               season,
               pack,
-              file: isMonetized ? pack : meta.firstFile || pack,
-              href: isMonetized
-                ? downloadLinks[slug]
-                : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-                    character,
-                    language,
-                    season,
-                    pack,
-                    meta.firstFile || "",
-                  ])}`,
+              file: meta.firstFile || pack,
+              href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+                character,
+                language,
+                season,
+                pack,
+                meta.firstFile || "",
+              ])}`,
               fileSizeBytes: meta.fileSizeBytes,
               fileSizeText: meta.fileSizeText,
               quality: meta.quality,
@@ -269,7 +249,7 @@ function addSeriesPacks() {
               part: meta.part,
               updatedAt: stat.mtimeMs,
               updatedAtText: formatDate(stat.mtimeMs),
-              isMonetized,
+              isMonetized: false,
             });
           }
         }
@@ -302,7 +282,6 @@ function addMoviePacks() {
 
           const stat = fs.statSync(packPath);
           const meta = getPackMeta(packPath);
-          const isMonetized = !!downloadLinks[slug];
 
           items.push({
             mediaType: "movie",
@@ -312,15 +291,13 @@ function addMoviePacks() {
             language,
             season: "",
             pack,
-            file: isMonetized ? pack : meta.firstFile || pack,
-            href: isMonetized
-              ? downloadLinks[slug]
-              : `${R2_PUBLIC_BASE_URL}/${encodePathParts([
-                  character,
-                  language,
-                  pack,
-                  meta.firstFile || "",
-                ])}`,
+            file: meta.firstFile || pack,
+            href: `${R2_PUBLIC_BASE_URL}/${encodePathParts([
+              character,
+              language,
+              pack,
+              meta.firstFile || "",
+            ])}`,
             fileSizeBytes: meta.fileSizeBytes,
             fileSizeText: meta.fileSizeText,
             quality: meta.quality,
@@ -328,7 +305,7 @@ function addMoviePacks() {
             part: meta.part,
             updatedAt: stat.mtimeMs,
             updatedAtText: formatDate(stat.mtimeMs),
-            isMonetized,
+            isMonetized: false,
           });
         }
       }

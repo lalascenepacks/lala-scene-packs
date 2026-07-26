@@ -13,7 +13,7 @@ try {
   run("node --env-file=.env.local scripts/generatePacksCatalog.js");
 
   // 3. Criar loot links
-  run("node --env-file=.env.local scripts/generateLootLinks.mjs");
+// run("node --env-file=.env.local scripts/generateLootLinks.mjs");
 
   // 4. Atualizar catalog com monetização
   run("node --env-file=.env.local scripts/generatePacksCatalog.js");
